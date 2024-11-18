@@ -1,0 +1,1001 @@
+Location ID,Location Name,Stock Item,Current Stock Level,Restock Threshold,Last Restock Date,Daily Usage Rate,Total Monthly Usage,Waste Percentage
+LOC001,Ras Al Khaimah Hub,Office Chairs,178,73,1/18/2024,17,510,18%
+LOC002,Abu Dhabi Central,Paper Supplies,615,60,3/1/2023,35,1050,19%
+LOC003,Dubai Oasis HQ,Monitors,118,24,8/18/2023,39,1170,11%
+LOC004,Dubai Oasis HQ,Laptops,770,191,10/12/2024,21,630,14%
+LOC005,Abu Dhabi Central,Monitors,306,146,4/17/2024,44,1320,9%
+LOC006,Ras Al Khaimah Hub,Office Chairs,244,27,11/5/2023,48,1440,1%
+LOC007,Abu Dhabi Central,Office Chairs,823,153,5/20/2024,3,90,3%
+LOC008,Sharjah Warehouse,Laptops,81,23,12/18/2023,42,1260,1%
+LOC009,Abu Dhabi Central,Ink Cartridges,488,142,9/15/2024,41,1230,16%
+LOC010,Fujairah Distribution,Office Chairs,966,261,3/1/2024,40,1200,20%
+LOC011,Fujairah Distribution,Ink Cartridges,681,256,9/10/2023,25,750,15%
+LOC012,Dubai Oasis HQ,Paper Supplies,105,24,5/31/2023,18,540,7%
+LOC013,Dubai Oasis HQ,Paper Supplies,180,73,1/11/2024,31,930,12%
+LOC014,Sharjah Warehouse,Laptops,224,66,6/20/2024,34,1020,15%
+LOC015,Ras Al Khaimah Hub,Ink Cartridges,616,49,4/27/2024,38,1140,20%
+LOC016,Ras Al Khaimah Hub,Monitors,187,23,12/23/2023,8,240,19%
+LOC017,Fujairah Distribution,Laptops,902,321,5/8/2023,22,660,7%
+LOC018,Fujairah Distribution,Monitors,923,255,1/21/2024,15,450,5%
+LOC019,Sharjah Warehouse,Paper Supplies,504,228,5/25/2023,26,780,13%
+LOC020,Sharjah Warehouse,Monitors,613,23,4/24/2023,13,390,17%
+LOC021,Abu Dhabi Central,Paper Supplies,645,46,1/16/2023,31,930,8%
+LOC022,Sharjah Warehouse,Ink Cartridges,782,11,10/3/2024,28,840,1%
+LOC023,Abu Dhabi Central,Monitors,686,291,10/22/2024,47,1410,5%
+LOC024,Abu Dhabi Central,Laptops,575,204,11/14/2024,23,690,2%
+LOC025,Sharjah Warehouse,Monitors,937,306,1/23/2023,41,1230,20%
+LOC026,Ras Al Khaimah Hub,Office Chairs,531,204,5/14/2023,5,150,3%
+LOC027,Dubai Oasis HQ,Laptops,779,58,2/7/2023,10,300,16%
+LOC028,Fujairah Distribution,Ink Cartridges,398,132,4/8/2023,29,870,3%
+LOC029,Fujairah Distribution,Paper Supplies,100,41,1/2/2024,12,360,16%
+LOC030,Abu Dhabi Central,Office Chairs,725,176,4/18/2023,28,840,3%
+LOC031,Dubai Oasis HQ,Monitors,676,102,1/6/2024,32,960,14%
+LOC032,Fujairah Distribution,Laptops,76,36,7/26/2023,21,630,9%
+LOC033,Abu Dhabi Central,Laptops,729,241,3/3/2024,9,270,16%
+LOC034,Ras Al Khaimah Hub,Ink Cartridges,495,62,8/21/2024,5,150,1%
+LOC035,Dubai Oasis HQ,Monitors,220,56,7/3/2023,37,1110,3%
+LOC036,Fujairah Distribution,Laptops,615,68,8/25/2023,33,990,3%
+LOC037,Dubai Oasis HQ,Ink Cartridges,677,138,2/16/2024,2,60,8%
+LOC038,Abu Dhabi Central,Monitors,290,60,3/25/2023,49,1470,7%
+LOC039,Ras Al Khaimah Hub,Ink Cartridges,428,143,12/12/2023,50,1500,14%
+LOC040,Fujairah Distribution,Office Chairs,79,22,3/14/2024,18,540,18%
+LOC041,Ras Al Khaimah Hub,Ink Cartridges,441,69,12/1/2023,4,120,4%
+LOC042,Abu Dhabi Central,Ink Cartridges,670,207,2/15/2024,31,930,15%
+LOC043,Abu Dhabi Central,Office Chairs,774,89,2/13/2024,6,180,4%
+LOC044,Ras Al Khaimah Hub,Monitors,815,220,3/27/2024,3,90,1%
+LOC045,Abu Dhabi Central,Paper Supplies,877,401,8/4/2024,10,300,16%
+LOC046,Abu Dhabi Central,Office Chairs,505,169,12/2/2023,3,90,3%
+LOC047,Dubai Oasis HQ,Monitors,917,193,1/18/2024,37,1110,4%
+LOC048,Abu Dhabi Central,Monitors,364,140,10/1/2023,38,1140,19%
+LOC049,Ras Al Khaimah Hub,Laptops,332,47,11/14/2024,12,360,13%
+LOC050,Ras Al Khaimah Hub,Monitors,325,51,11/17/2023,13,390,13%
+LOC051,Abu Dhabi Central,Paper Supplies,350,130,5/14/2024,17,510,15%
+LOC052,Ras Al Khaimah Hub,Paper Supplies,157,67,6/5/2024,13,390,20%
+LOC053,Ras Al Khaimah Hub,Office Chairs,976,295,8/14/2023,43,1290,13%
+LOC054,Ras Al Khaimah Hub,Laptops,396,130,4/11/2024,23,690,9%
+LOC055,Abu Dhabi Central,Office Chairs,916,110,11/20/2023,46,1380,6%
+LOC056,Ras Al Khaimah Hub,Laptops,716,337,11/28/2023,9,270,5%
+LOC057,Dubai Oasis HQ,Monitors,670,33,9/12/2023,11,330,4%
+LOC058,Abu Dhabi Central,Ink Cartridges,209,35,12/12/2023,18,540,6%
+LOC059,Fujairah Distribution,Ink Cartridges,723,130,11/16/2024,9,270,5%
+LOC060,Abu Dhabi Central,Laptops,696,119,11/17/2023,26,780,4%
+LOC061,Abu Dhabi Central,Ink Cartridges,874,64,5/21/2024,39,1170,7%
+LOC062,Ras Al Khaimah Hub,Ink Cartridges,928,17,2/17/2023,7,210,20%
+LOC063,Ras Al Khaimah Hub,Ink Cartridges,931,394,11/5/2023,19,570,16%
+LOC064,Abu Dhabi Central,Ink Cartridges,969,349,12/13/2023,37,1110,10%
+LOC065,Dubai Oasis HQ,Ink Cartridges,117,30,5/9/2023,39,1170,6%
+LOC066,Sharjah Warehouse,Monitors,788,76,8/18/2023,49,1470,19%
+LOC067,Abu Dhabi Central,Monitors,729,173,5/23/2023,38,1140,17%
+LOC068,Fujairah Distribution,Monitors,746,73,6/29/2023,5,150,8%
+LOC069,Sharjah Warehouse,Laptops,325,153,12/8/2023,16,480,7%
+LOC070,Sharjah Warehouse,Paper Supplies,428,201,10/21/2023,25,750,14%
+LOC071,Dubai Oasis HQ,Office Chairs,420,20,8/23/2024,26,780,16%
+LOC072,Dubai Oasis HQ,Ink Cartridges,915,320,2/24/2024,29,870,8%
+LOC073,Abu Dhabi Central,Monitors,895,365,7/25/2023,42,1260,14%
+LOC074,Fujairah Distribution,Ink Cartridges,313,24,5/13/2023,35,1050,5%
+LOC075,Abu Dhabi Central,Ink Cartridges,416,57,6/13/2024,15,450,20%
+LOC076,Fujairah Distribution,Paper Supplies,951,27,1/25/2023,3,90,18%
+LOC077,Abu Dhabi Central,Laptops,191,90,12/22/2023,15,450,9%
+LOC078,Dubai Oasis HQ,Monitors,342,62,3/9/2023,20,600,12%
+LOC079,Sharjah Warehouse,Office Chairs,226,86,7/13/2024,36,1080,10%
+LOC080,Abu Dhabi Central,Office Chairs,550,36,9/2/2024,6,180,4%
+LOC081,Sharjah Warehouse,Paper Supplies,650,161,3/5/2024,31,930,11%
+LOC082,Sharjah Warehouse,Laptops,433,28,5/23/2024,47,1410,10%
+LOC083,Abu Dhabi Central,Office Chairs,154,61,11/14/2023,17,510,16%
+LOC084,Dubai Oasis HQ,Paper Supplies,972,397,5/22/2024,31,930,20%
+LOC085,Dubai Oasis HQ,Monitors,555,97,12/4/2023,48,1440,13%
+LOC086,Sharjah Warehouse,Office Chairs,881,389,5/13/2023,13,390,16%
+LOC087,Abu Dhabi Central,Monitors,129,38,5/26/2023,42,1260,3%
+LOC088,Dubai Oasis HQ,Paper Supplies,354,28,7/7/2023,38,1140,17%
+LOC089,Fujairah Distribution,Laptops,924,78,6/5/2023,15,450,15%
+LOC090,Dubai Oasis HQ,Office Chairs,396,80,6/21/2024,43,1290,7%
+LOC091,Abu Dhabi Central,Paper Supplies,302,88,7/19/2024,44,1320,16%
+LOC092,Abu Dhabi Central,Laptops,876,297,8/8/2023,9,270,16%
+LOC093,Ras Al Khaimah Hub,Laptops,678,188,10/26/2024,28,840,2%
+LOC094,Ras Al Khaimah Hub,Office Chairs,850,110,8/25/2024,13,390,9%
+LOC095,Dubai Oasis HQ,Laptops,790,280,8/3/2024,27,810,19%
+LOC096,Ras Al Khaimah Hub,Monitors,701,79,2/18/2023,6,180,14%
+LOC097,Abu Dhabi Central,Laptops,973,412,11/23/2023,17,510,6%
+LOC098,Ras Al Khaimah Hub,Paper Supplies,359,117,1/31/2024,1,30,19%
+LOC099,Abu Dhabi Central,Paper Supplies,478,237,6/5/2023,15,450,13%
+LOC100,Fujairah Distribution,Ink Cartridges,77,34,4/6/2023,27,810,1%
+LOC101,Fujairah Distribution,Office Chairs,255,56,8/4/2023,2,60,7%
+LOC102,Abu Dhabi Central,Paper Supplies,253,81,4/6/2024,43,1290,12%
+LOC103,Fujairah Distribution,Laptops,478,142,10/1/2023,35,1050,19%
+LOC104,Dubai Oasis HQ,Paper Supplies,250,83,11/10/2024,14,420,12%
+LOC105,Ras Al Khaimah Hub,Ink Cartridges,751,10,2/5/2024,14,420,6%
+LOC106,Fujairah Distribution,Monitors,753,90,9/20/2023,21,630,20%
+LOC107,Ras Al Khaimah Hub,Monitors,600,283,3/26/2024,35,1050,17%
+LOC108,Sharjah Warehouse,Paper Supplies,161,33,8/1/2023,30,900,14%
+LOC109,Abu Dhabi Central,Laptops,710,253,7/30/2024,21,630,20%
+LOC110,Sharjah Warehouse,Paper Supplies,447,16,12/30/2023,21,630,14%
+LOC111,Dubai Oasis HQ,Office Chairs,500,102,8/28/2024,41,1230,11%
+LOC112,Fujairah Distribution,Ink Cartridges,807,58,5/27/2023,33,990,12%
+LOC113,Fujairah Distribution,Laptops,990,76,3/17/2023,9,270,3%
+LOC114,Fujairah Distribution,Monitors,451,145,11/9/2023,35,1050,2%
+LOC115,Abu Dhabi Central,Laptops,405,191,3/5/2024,13,390,13%
+LOC116,Fujairah Distribution,Office Chairs,199,32,2/2/2023,17,510,7%
+LOC117,Abu Dhabi Central,Ink Cartridges,614,246,2/5/2024,33,990,14%
+LOC118,Sharjah Warehouse,Laptops,345,134,8/10/2023,34,1020,2%
+LOC119,Ras Al Khaimah Hub,Laptops,969,229,6/30/2023,44,1320,7%
+LOC120,Ras Al Khaimah Hub,Ink Cartridges,396,192,12/27/2023,6,180,3%
+LOC121,Sharjah Warehouse,Laptops,283,10,3/17/2024,2,60,12%
+LOC122,Abu Dhabi Central,Ink Cartridges,270,96,8/31/2023,49,1470,3%
+LOC123,Ras Al Khaimah Hub,Office Chairs,89,41,1/14/2023,4,120,9%
+LOC124,Abu Dhabi Central,Laptops,563,123,9/7/2023,20,600,12%
+LOC125,Ras Al Khaimah Hub,Office Chairs,268,123,9/14/2023,40,1200,4%
+LOC126,Ras Al Khaimah Hub,Paper Supplies,215,99,1/20/2024,20,600,14%
+LOC127,Ras Al Khaimah Hub,Office Chairs,51,24,5/26/2023,41,1230,13%
+LOC128,Fujairah Distribution,Monitors,816,71,5/12/2023,11,330,16%
+LOC129,Ras Al Khaimah Hub,Ink Cartridges,182,69,11/3/2023,25,750,7%
+LOC130,Dubai Oasis HQ,Ink Cartridges,224,40,1/27/2023,31,930,20%
+LOC131,Dubai Oasis HQ,Laptops,595,263,1/11/2024,1,30,17%
+LOC132,Ras Al Khaimah Hub,Office Chairs,769,212,9/14/2023,43,1290,18%
+LOC133,Sharjah Warehouse,Office Chairs,690,195,5/28/2024,41,1230,15%
+LOC134,Abu Dhabi Central,Ink Cartridges,685,64,3/25/2023,17,510,20%
+LOC135,Abu Dhabi Central,Laptops,861,312,7/7/2023,22,660,1%
+LOC136,Sharjah Warehouse,Office Chairs,352,24,10/5/2024,3,90,14%
+LOC137,Ras Al Khaimah Hub,Monitors,170,28,10/27/2023,7,210,20%
+LOC138,Dubai Oasis HQ,Laptops,268,71,3/9/2024,35,1050,17%
+LOC139,Ras Al Khaimah Hub,Monitors,181,44,6/3/2024,10,300,10%
+LOC140,Abu Dhabi Central,Laptops,519,207,11/14/2024,36,1080,3%
+LOC141,Fujairah Distribution,Office Chairs,836,358,2/1/2024,38,1140,15%
+LOC142,Fujairah Distribution,Ink Cartridges,125,58,1/24/2024,21,630,3%
+LOC143,Ras Al Khaimah Hub,Laptops,264,18,2/27/2024,29,870,16%
+LOC144,Abu Dhabi Central,Office Chairs,282,22,8/5/2023,14,420,4%
+LOC145,Sharjah Warehouse,Ink Cartridges,787,145,1/25/2023,42,1260,1%
+LOC146,Dubai Oasis HQ,Laptops,428,142,9/9/2023,17,510,19%
+LOC147,Sharjah Warehouse,Office Chairs,984,80,3/14/2024,27,810,4%
+LOC148,Sharjah Warehouse,Ink Cartridges,493,136,7/12/2024,50,1500,18%
+LOC149,Abu Dhabi Central,Monitors,786,217,5/3/2023,35,1050,14%
+LOC150,Fujairah Distribution,Laptops,725,331,2/13/2023,48,1440,5%
+LOC151,Ras Al Khaimah Hub,Ink Cartridges,754,250,9/26/2023,17,510,8%
+LOC152,Fujairah Distribution,Office Chairs,681,174,2/16/2023,1,30,4%
+LOC153,Fujairah Distribution,Monitors,563,154,4/2/2023,16,480,11%
+LOC154,Fujairah Distribution,Monitors,235,46,9/1/2024,31,930,14%
+LOC155,Ras Al Khaimah Hub,Ink Cartridges,762,288,2/3/2023,40,1200,3%
+LOC156,Abu Dhabi Central,Office Chairs,423,43,11/15/2023,22,660,17%
+LOC157,Ras Al Khaimah Hub,Ink Cartridges,143,31,3/7/2024,37,1110,5%
+LOC158,Abu Dhabi Central,Monitors,866,236,5/14/2024,48,1440,12%
+LOC159,Sharjah Warehouse,Laptops,54,17,8/16/2024,17,510,14%
+LOC160,Abu Dhabi Central,Office Chairs,669,212,7/14/2023,29,870,9%
+LOC161,Ras Al Khaimah Hub,Monitors,932,89,8/16/2024,3,90,2%
+LOC162,Dubai Oasis HQ,Laptops,509,254,10/6/2023,36,1080,7%
+LOC163,Fujairah Distribution,Monitors,513,115,6/10/2024,35,1050,2%
+LOC164,Dubai Oasis HQ,Paper Supplies,647,158,3/31/2024,45,1350,14%
+LOC165,Abu Dhabi Central,Laptops,99,30,7/31/2023,19,570,4%
+LOC166,Ras Al Khaimah Hub,Laptops,817,83,4/13/2023,43,1290,3%
+LOC167,Dubai Oasis HQ,Monitors,414,112,6/4/2023,32,960,16%
+LOC168,Abu Dhabi Central,Monitors,415,35,8/5/2023,43,1290,19%
+LOC169,Ras Al Khaimah Hub,Monitors,635,30,9/14/2023,1,30,8%
+LOC170,Abu Dhabi Central,Laptops,736,316,1/8/2023,18,540,17%
+LOC171,Fujairah Distribution,Laptops,385,185,10/24/2024,36,1080,5%
+LOC172,Sharjah Warehouse,Monitors,938,62,7/23/2024,11,330,9%
+LOC173,Fujairah Distribution,Paper Supplies,826,125,3/18/2024,40,1200,20%
+LOC174,Sharjah Warehouse,Ink Cartridges,891,170,2/23/2023,1,30,13%
+LOC175,Ras Al Khaimah Hub,Monitors,409,79,3/26/2023,17,510,15%
+LOC176,Ras Al Khaimah Hub,Laptops,278,66,3/12/2024,18,540,13%
+LOC177,Abu Dhabi Central,Office Chairs,278,62,1/8/2023,19,570,20%
+LOC178,Dubai Oasis HQ,Ink Cartridges,563,199,2/15/2024,33,990,2%
+LOC179,Fujairah Distribution,Laptops,226,36,1/6/2023,31,930,18%
+LOC180,Dubai Oasis HQ,Office Chairs,928,235,6/25/2023,19,570,5%
+LOC181,Sharjah Warehouse,Paper Supplies,575,57,8/28/2024,35,1050,7%
+LOC182,Abu Dhabi Central,Laptops,123,56,12/28/2023,34,1020,13%
+LOC183,Ras Al Khaimah Hub,Laptops,760,177,1/5/2023,33,990,2%
+LOC184,Sharjah Warehouse,Laptops,863,58,11/20/2023,2,60,16%
+LOC185,Fujairah Distribution,Ink Cartridges,145,11,12/21/2023,34,1020,13%
+LOC186,Dubai Oasis HQ,Office Chairs,851,236,12/5/2023,48,1440,14%
+LOC187,Ras Al Khaimah Hub,Laptops,937,113,4/11/2023,42,1260,15%
+LOC188,Dubai Oasis HQ,Ink Cartridges,512,179,8/16/2024,49,1470,4%
+LOC189,Ras Al Khaimah Hub,Paper Supplies,880,124,1/25/2023,48,1440,8%
+LOC190,Dubai Oasis HQ,Monitors,504,94,5/9/2024,5,150,16%
+LOC191,Abu Dhabi Central,Laptops,777,44,2/24/2023,9,270,14%
+LOC192,Abu Dhabi Central,Ink Cartridges,86,35,9/20/2023,6,180,5%
+LOC193,Abu Dhabi Central,Ink Cartridges,145,28,8/29/2023,31,930,9%
+LOC194,Dubai Oasis HQ,Laptops,760,150,2/9/2023,13,390,6%
+LOC195,Ras Al Khaimah Hub,Laptops,166,31,2/17/2023,41,1230,19%
+LOC196,Fujairah Distribution,Laptops,85,12,3/30/2024,21,630,3%
+LOC197,Sharjah Warehouse,Ink Cartridges,563,155,3/18/2024,8,240,12%
+LOC198,Fujairah Distribution,Office Chairs,627,55,5/2/2023,40,1200,7%
+LOC199,Dubai Oasis HQ,Laptops,333,126,4/23/2023,9,270,2%
+LOC200,Ras Al Khaimah Hub,Ink Cartridges,849,316,1/5/2023,39,1170,1%
+LOC201,Ras Al Khaimah Hub,Office Chairs,130,52,12/25/2023,5,150,2%
+LOC202,Sharjah Warehouse,Ink Cartridges,295,112,7/1/2024,38,1140,12%
+LOC203,Sharjah Warehouse,Monitors,950,37,11/5/2024,18,540,6%
+LOC204,Sharjah Warehouse,Paper Supplies,521,126,1/21/2023,35,1050,16%
+LOC205,Fujairah Distribution,Monitors,728,141,10/6/2023,5,150,13%
+LOC206,Fujairah Distribution,Laptops,622,245,4/27/2023,27,810,11%
+LOC207,Fujairah Distribution,Monitors,802,55,7/2/2024,49,1470,18%
+LOC208,Fujairah Distribution,Laptops,878,412,11/1/2023,33,990,15%
+LOC209,Sharjah Warehouse,Laptops,117,34,1/12/2024,44,1320,15%
+LOC210,Fujairah Distribution,Ink Cartridges,739,40,10/7/2023,14,420,6%
+LOC211,Sharjah Warehouse,Monitors,403,159,8/27/2024,18,540,11%
+LOC212,Abu Dhabi Central,Ink Cartridges,564,225,8/20/2023,41,1230,9%
+LOC213,Sharjah Warehouse,Ink Cartridges,504,107,1/24/2023,19,570,2%
+LOC214,Ras Al Khaimah Hub,Monitors,422,199,7/2/2023,34,1020,3%
+LOC215,Dubai Oasis HQ,Laptops,383,85,1/3/2024,29,870,6%
+LOC216,Dubai Oasis HQ,Laptops,178,84,6/3/2023,42,1260,19%
+LOC217,Dubai Oasis HQ,Ink Cartridges,942,211,1/19/2024,25,750,10%
+LOC218,Ras Al Khaimah Hub,Laptops,257,74,7/26/2023,22,660,4%
+LOC219,Dubai Oasis HQ,Ink Cartridges,574,108,9/28/2024,41,1230,1%
+LOC220,Ras Al Khaimah Hub,Laptops,363,100,5/15/2024,20,600,20%
+LOC221,Dubai Oasis HQ,Paper Supplies,140,30,2/6/2024,21,630,19%
+LOC222,Sharjah Warehouse,Office Chairs,77,25,1/24/2023,26,780,16%
+LOC223,Ras Al Khaimah Hub,Office Chairs,593,81,10/12/2023,44,1320,5%
+LOC224,Dubai Oasis HQ,Office Chairs,724,210,6/24/2023,12,360,15%
+LOC225,Fujairah Distribution,Office Chairs,303,122,3/10/2024,40,1200,4%
+LOC226,Ras Al Khaimah Hub,Monitors,889,272,7/5/2024,27,810,9%
+LOC227,Sharjah Warehouse,Paper Supplies,734,283,1/6/2024,27,810,20%
+LOC228,Ras Al Khaimah Hub,Monitors,54,24,10/2/2024,5,150,1%
+LOC229,Dubai Oasis HQ,Laptops,172,52,2/8/2023,48,1440,13%
+LOC230,Sharjah Warehouse,Monitors,410,161,4/12/2024,47,1410,1%
+LOC231,Dubai Oasis HQ,Office Chairs,725,134,4/13/2024,6,180,6%
+LOC232,Fujairah Distribution,Paper Supplies,606,91,7/6/2023,31,930,2%
+LOC233,Dubai Oasis HQ,Office Chairs,181,69,7/6/2024,20,600,14%
+LOC234,Abu Dhabi Central,Ink Cartridges,732,295,9/17/2024,35,1050,4%
+LOC235,Abu Dhabi Central,Office Chairs,566,97,1/25/2024,43,1290,15%
+LOC236,Dubai Oasis HQ,Monitors,844,48,8/24/2023,44,1320,12%
+LOC237,Dubai Oasis HQ,Paper Supplies,676,51,10/7/2023,25,750,14%
+LOC238,Fujairah Distribution,Paper Supplies,420,210,10/17/2024,24,720,13%
+LOC239,Fujairah Distribution,Laptops,706,205,5/12/2024,30,900,9%
+LOC240,Ras Al Khaimah Hub,Monitors,953,248,11/4/2024,49,1470,16%
+LOC241,Abu Dhabi Central,Monitors,800,97,9/13/2024,33,990,6%
+LOC242,Ras Al Khaimah Hub,Monitors,417,10,1/23/2024,4,120,2%
+LOC243,Fujairah Distribution,Ink Cartridges,530,245,9/7/2023,23,690,13%
+LOC244,Dubai Oasis HQ,Monitors,694,216,6/14/2024,17,510,11%
+LOC245,Ras Al Khaimah Hub,Ink Cartridges,216,91,10/9/2023,23,690,7%
+LOC246,Dubai Oasis HQ,Paper Supplies,647,73,7/5/2024,4,120,2%
+LOC247,Dubai Oasis HQ,Laptops,831,284,5/17/2023,3,90,4%
+LOC248,Fujairah Distribution,Monitors,364,117,10/28/2023,23,690,9%
+LOC249,Fujairah Distribution,Paper Supplies,84,42,3/8/2024,24,720,13%
+LOC250,Sharjah Warehouse,Monitors,658,20,9/22/2024,3,90,9%
+LOC251,Sharjah Warehouse,Paper Supplies,747,156,9/18/2023,21,630,7%
+LOC252,Sharjah Warehouse,Monitors,288,54,10/6/2023,14,420,20%
+LOC253,Fujairah Distribution,Monitors,70,28,4/28/2024,42,1260,18%
+LOC254,Dubai Oasis HQ,Monitors,743,211,2/29/2024,2,60,17%
+LOC255,Dubai Oasis HQ,Ink Cartridges,708,23,9/13/2023,41,1230,17%
+LOC256,Ras Al Khaimah Hub,Office Chairs,568,18,11/17/2024,43,1290,16%
+LOC257,Ras Al Khaimah Hub,Monitors,909,297,3/2/2023,20,600,9%
+LOC258,Ras Al Khaimah Hub,Monitors,323,135,4/16/2023,21,630,2%
+LOC259,Fujairah Distribution,Paper Supplies,127,29,6/11/2023,38,1140,18%
+LOC260,Fujairah Distribution,Office Chairs,68,27,4/5/2024,19,570,16%
+LOC261,Fujairah Distribution,Laptops,360,53,1/19/2023,2,60,5%
+LOC262,Ras Al Khaimah Hub,Ink Cartridges,808,373,3/12/2024,27,810,20%
+LOC263,Fujairah Distribution,Laptops,167,80,10/20/2023,1,30,5%
+LOC264,Abu Dhabi Central,Laptops,323,128,1/2/2023,7,210,10%
+LOC265,Fujairah Distribution,Office Chairs,456,15,1/19/2024,50,1500,1%
+LOC266,Ras Al Khaimah Hub,Monitors,556,37,3/28/2023,30,900,9%
+LOC267,Sharjah Warehouse,Laptops,514,211,10/9/2023,38,1140,15%
+LOC268,Fujairah Distribution,Paper Supplies,283,50,12/2/2023,11,330,7%
+LOC269,Sharjah Warehouse,Monitors,890,102,1/11/2024,48,1440,7%
+LOC270,Fujairah Distribution,Laptops,688,100,10/15/2023,15,450,13%
+LOC271,Ras Al Khaimah Hub,Paper Supplies,271,41,7/9/2024,33,990,8%
+LOC272,Sharjah Warehouse,Ink Cartridges,883,128,5/3/2024,48,1440,9%
+LOC273,Fujairah Distribution,Office Chairs,974,282,7/14/2024,44,1320,20%
+LOC274,Fujairah Distribution,Monitors,305,100,4/4/2023,37,1110,1%
+LOC275,Abu Dhabi Central,Laptops,825,311,4/7/2023,13,390,15%
+LOC276,Ras Al Khaimah Hub,Paper Supplies,634,68,12/12/2023,41,1230,1%
+LOC277,Fujairah Distribution,Laptops,732,281,5/14/2023,38,1140,6%
+LOC278,Sharjah Warehouse,Laptops,466,15,3/24/2023,37,1110,12%
+LOC279,Fujairah Distribution,Ink Cartridges,655,236,6/3/2024,47,1410,10%
+LOC280,Sharjah Warehouse,Monitors,303,120,6/9/2023,31,930,10%
+LOC281,Sharjah Warehouse,Office Chairs,128,10,3/24/2023,43,1290,19%
+LOC282,Abu Dhabi Central,Monitors,933,99,11/8/2024,45,1350,12%
+LOC283,Abu Dhabi Central,Paper Supplies,471,105,7/7/2023,34,1020,3%
+LOC284,Dubai Oasis HQ,Office Chairs,639,70,11/30/2023,19,570,12%
+LOC285,Abu Dhabi Central,Monitors,115,12,7/20/2024,45,1350,9%
+LOC286,Abu Dhabi Central,Office Chairs,516,169,4/20/2024,48,1440,15%
+LOC287,Ras Al Khaimah Hub,Office Chairs,546,29,6/29/2024,3,90,6%
+LOC288,Dubai Oasis HQ,Monitors,276,90,6/27/2023,30,900,11%
+LOC289,Ras Al Khaimah Hub,Monitors,764,299,1/26/2024,49,1470,2%
+LOC290,Sharjah Warehouse,Office Chairs,166,54,10/31/2023,10,300,1%
+LOC291,Sharjah Warehouse,Office Chairs,439,131,4/17/2024,47,1410,5%
+LOC292,Ras Al Khaimah Hub,Paper Supplies,163,67,8/9/2023,14,420,4%
+LOC293,Ras Al Khaimah Hub,Paper Supplies,514,70,4/20/2024,21,630,3%
+LOC294,Abu Dhabi Central,Ink Cartridges,262,58,7/25/2023,29,870,4%
+LOC295,Ras Al Khaimah Hub,Ink Cartridges,476,85,9/7/2023,28,840,2%
+LOC296,Abu Dhabi Central,Ink Cartridges,368,125,4/6/2024,38,1140,15%
+LOC297,Abu Dhabi Central,Office Chairs,886,398,3/14/2024,21,630,12%
+LOC298,Ras Al Khaimah Hub,Office Chairs,390,35,5/25/2024,44,1320,17%
+LOC299,Ras Al Khaimah Hub,Paper Supplies,639,70,8/14/2024,20,600,19%
+LOC300,Ras Al Khaimah Hub,Monitors,622,262,11/5/2024,15,450,15%
+LOC301,Dubai Oasis HQ,Paper Supplies,549,174,11/6/2024,49,1470,1%
+LOC302,Fujairah Distribution,Ink Cartridges,140,15,9/25/2024,17,510,4%
+LOC303,Ras Al Khaimah Hub,Ink Cartridges,553,164,1/28/2024,48,1440,13%
+LOC304,Ras Al Khaimah Hub,Paper Supplies,630,114,9/21/2023,23,690,17%
+LOC305,Ras Al Khaimah Hub,Paper Supplies,764,16,9/22/2023,21,630,3%
+LOC306,Abu Dhabi Central,Office Chairs,843,382,4/21/2023,3,90,8%
+LOC307,Abu Dhabi Central,Paper Supplies,693,128,2/6/2023,8,240,11%
+LOC308,Fujairah Distribution,Laptops,645,158,11/3/2024,30,900,5%
+LOC309,Sharjah Warehouse,Office Chairs,266,46,12/21/2023,18,540,7%
+LOC310,Fujairah Distribution,Monitors,351,87,8/11/2023,29,870,19%
+LOC311,Dubai Oasis HQ,Monitors,934,291,1/5/2024,50,1500,4%
+LOC312,Fujairah Distribution,Laptops,331,88,10/10/2024,3,90,7%
+LOC313,Ras Al Khaimah Hub,Paper Supplies,352,165,1/16/2023,2,60,3%
+LOC314,Ras Al Khaimah Hub,Office Chairs,877,358,7/16/2024,4,120,10%
+LOC315,Abu Dhabi Central,Laptops,613,204,6/3/2023,24,720,15%
+LOC316,Fujairah Distribution,Monitors,703,105,9/22/2024,22,660,17%
+LOC317,Ras Al Khaimah Hub,Paper Supplies,83,10,3/30/2023,22,660,12%
+LOC318,Fujairah Distribution,Laptops,676,102,3/31/2023,21,630,19%
+LOC319,Fujairah Distribution,Laptops,321,113,10/20/2023,26,780,1%
+LOC320,Sharjah Warehouse,Office Chairs,516,16,4/13/2023,5,150,19%
+LOC321,Sharjah Warehouse,Office Chairs,739,178,7/31/2024,37,1110,6%
+LOC322,Sharjah Warehouse,Paper Supplies,216,94,9/27/2023,23,690,13%
+LOC323,Abu Dhabi Central,Ink Cartridges,788,73,9/7/2024,4,120,20%
+LOC324,Dubai Oasis HQ,Laptops,115,28,3/13/2023,50,1500,11%
+LOC325,Fujairah Distribution,Laptops,643,156,7/9/2023,2,60,13%
+LOC326,Fujairah Distribution,Paper Supplies,981,301,11/7/2023,5,150,1%
+LOC327,Sharjah Warehouse,Laptops,798,325,3/21/2023,18,540,8%
+LOC328,Ras Al Khaimah Hub,Office Chairs,97,45,5/11/2023,29,870,20%
+LOC329,Dubai Oasis HQ,Paper Supplies,752,292,8/1/2023,12,360,12%
+LOC330,Abu Dhabi Central,Ink Cartridges,485,218,11/13/2024,46,1380,15%
+LOC331,Dubai Oasis HQ,Ink Cartridges,135,38,5/31/2023,11,330,5%
+LOC332,Sharjah Warehouse,Laptops,646,22,6/26/2023,35,1050,9%
+LOC333,Sharjah Warehouse,Monitors,659,131,5/9/2024,26,780,19%
+LOC334,Ras Al Khaimah Hub,Ink Cartridges,583,176,9/8/2023,24,720,4%
+LOC335,Dubai Oasis HQ,Ink Cartridges,539,89,1/4/2023,39,1170,13%
+LOC336,Abu Dhabi Central,Ink Cartridges,263,64,3/31/2023,41,1230,16%
+LOC337,Ras Al Khaimah Hub,Paper Supplies,67,24,4/19/2024,8,240,3%
+LOC338,Sharjah Warehouse,Ink Cartridges,921,332,8/29/2024,17,510,2%
+LOC339,Sharjah Warehouse,Paper Supplies,740,176,11/8/2023,20,600,7%
+LOC340,Sharjah Warehouse,Paper Supplies,983,116,1/28/2023,26,780,20%
+LOC341,Ras Al Khaimah Hub,Paper Supplies,116,25,6/23/2023,14,420,3%
+LOC342,Ras Al Khaimah Hub,Ink Cartridges,231,39,11/13/2023,22,660,3%
+LOC343,Ras Al Khaimah Hub,Ink Cartridges,588,283,11/12/2023,9,270,17%
+LOC344,Abu Dhabi Central,Paper Supplies,544,96,12/23/2023,41,1230,2%
+LOC345,Abu Dhabi Central,Ink Cartridges,109,19,11/16/2024,49,1470,3%
+LOC346,Dubai Oasis HQ,Paper Supplies,636,183,2/19/2023,18,540,3%
+LOC347,Fujairah Distribution,Office Chairs,803,52,6/13/2024,3,90,19%
+LOC348,Ras Al Khaimah Hub,Monitors,724,48,11/25/2023,47,1410,7%
+LOC349,Fujairah Distribution,Office Chairs,441,33,1/17/2023,13,390,20%
+LOC350,Sharjah Warehouse,Office Chairs,881,308,8/31/2024,20,600,14%
+LOC351,Ras Al Khaimah Hub,Monitors,279,135,7/31/2024,8,240,13%
+LOC352,Sharjah Warehouse,Monitors,279,25,1/13/2023,33,990,19%
+LOC353,Sharjah Warehouse,Office Chairs,243,48,2/20/2023,50,1500,20%
+LOC354,Fujairah Distribution,Ink Cartridges,693,164,3/14/2024,3,90,7%
+LOC355,Ras Al Khaimah Hub,Monitors,924,135,4/24/2023,22,660,20%
+LOC356,Ras Al Khaimah Hub,Office Chairs,842,206,7/16/2024,32,960,11%
+LOC357,Abu Dhabi Central,Paper Supplies,160,16,5/3/2023,49,1470,11%
+LOC358,Fujairah Distribution,Monitors,406,19,10/3/2023,12,360,4%
+LOC359,Dubai Oasis HQ,Ink Cartridges,530,212,2/10/2023,14,420,18%
+LOC360,Abu Dhabi Central,Paper Supplies,152,18,10/2/2023,29,870,13%
+LOC361,Abu Dhabi Central,Ink Cartridges,983,137,3/12/2024,24,720,4%
+LOC362,Fujairah Distribution,Paper Supplies,996,282,9/26/2023,6,180,17%
+LOC363,Ras Al Khaimah Hub,Monitors,508,72,6/11/2023,34,1020,14%
+LOC364,Ras Al Khaimah Hub,Office Chairs,801,59,3/26/2023,20,600,20%
+LOC365,Ras Al Khaimah Hub,Laptops,848,285,8/17/2023,40,1200,9%
+LOC366,Ras Al Khaimah Hub,Monitors,382,46,3/7/2023,21,630,5%
+LOC367,Abu Dhabi Central,Laptops,781,138,10/15/2024,11,330,10%
+LOC368,Abu Dhabi Central,Ink Cartridges,537,75,2/4/2023,9,270,13%
+LOC369,Ras Al Khaimah Hub,Laptops,903,370,9/11/2024,23,690,7%
+LOC370,Fujairah Distribution,Ink Cartridges,586,263,1/6/2023,25,750,13%
+LOC371,Sharjah Warehouse,Ink Cartridges,486,172,7/12/2024,37,1110,8%
+LOC372,Sharjah Warehouse,Office Chairs,553,26,8/27/2024,7,210,9%
+LOC373,Sharjah Warehouse,Monitors,374,75,9/28/2023,14,420,16%
+LOC374,Fujairah Distribution,Office Chairs,368,105,6/23/2023,42,1260,11%
+LOC375,Ras Al Khaimah Hub,Office Chairs,864,148,1/5/2023,29,870,10%
+LOC376,Ras Al Khaimah Hub,Laptops,919,386,1/1/2024,7,210,19%
+LOC377,Fujairah Distribution,Paper Supplies,627,24,10/17/2024,27,810,5%
+LOC378,Fujairah Distribution,Ink Cartridges,143,13,5/15/2024,47,1410,9%
+LOC379,Dubai Oasis HQ,Office Chairs,949,312,10/6/2024,49,1470,4%
+LOC380,Sharjah Warehouse,Monitors,320,112,7/6/2023,26,780,18%
+LOC381,Fujairah Distribution,Monitors,401,78,5/25/2023,35,1050,5%
+LOC382,Abu Dhabi Central,Paper Supplies,374,163,6/14/2023,12,360,11%
+LOC383,Abu Dhabi Central,Office Chairs,264,78,6/23/2024,6,180,14%
+LOC384,Dubai Oasis HQ,Paper Supplies,946,145,6/23/2024,12,360,16%
+LOC385,Sharjah Warehouse,Monitors,602,70,7/13/2023,10,300,16%
+LOC386,Ras Al Khaimah Hub,Office Chairs,538,200,7/21/2024,42,1260,10%
+LOC387,Sharjah Warehouse,Laptops,569,165,9/26/2023,18,540,20%
+LOC388,Sharjah Warehouse,Monitors,541,243,12/2/2023,13,390,5%
+LOC389,Ras Al Khaimah Hub,Paper Supplies,160,73,4/1/2023,1,30,7%
+LOC390,Ras Al Khaimah Hub,Ink Cartridges,265,101,1/31/2023,37,1110,3%
+LOC391,Dubai Oasis HQ,Office Chairs,234,111,7/22/2024,26,780,4%
+LOC392,Fujairah Distribution,Paper Supplies,100,36,1/3/2024,3,90,14%
+LOC393,Sharjah Warehouse,Office Chairs,333,64,12/3/2023,35,1050,5%
+LOC394,Dubai Oasis HQ,Office Chairs,163,28,11/1/2023,40,1200,4%
+LOC395,Ras Al Khaimah Hub,Paper Supplies,73,27,3/29/2023,13,390,11%
+LOC396,Dubai Oasis HQ,Paper Supplies,130,23,11/23/2023,15,450,19%
+LOC397,Dubai Oasis HQ,Office Chairs,860,27,2/1/2024,18,540,5%
+LOC398,Fujairah Distribution,Paper Supplies,327,92,9/4/2024,9,270,13%
+LOC399,Fujairah Distribution,Office Chairs,348,167,10/15/2024,25,750,17%
+LOC400,Abu Dhabi Central,Ink Cartridges,447,129,12/4/2023,21,630,2%
+LOC401,Fujairah Distribution,Paper Supplies,294,58,6/27/2024,41,1230,19%
+LOC402,Dubai Oasis HQ,Monitors,132,45,11/27/2023,31,930,15%
+LOC403,Fujairah Distribution,Ink Cartridges,443,182,7/28/2023,9,270,4%
+LOC404,Dubai Oasis HQ,Monitors,311,38,8/20/2024,37,1110,3%
+LOC405,Fujairah Distribution,Monitors,990,409,1/27/2023,5,150,1%
+LOC406,Fujairah Distribution,Office Chairs,820,346,1/2/2023,11,330,14%
+LOC407,Dubai Oasis HQ,Monitors,184,27,10/18/2024,43,1290,13%
+LOC408,Fujairah Distribution,Paper Supplies,350,50,11/4/2024,49,1470,2%
+LOC409,Dubai Oasis HQ,Ink Cartridges,233,78,11/26/2023,50,1500,3%
+LOC410,Ras Al Khaimah Hub,Monitors,179,16,1/24/2024,37,1110,11%
+LOC411,Abu Dhabi Central,Office Chairs,952,75,4/26/2024,1,30,6%
+LOC412,Sharjah Warehouse,Laptops,243,106,9/28/2023,31,930,19%
+LOC413,Abu Dhabi Central,Monitors,254,43,6/1/2024,42,1260,16%
+LOC414,Sharjah Warehouse,Ink Cartridges,106,37,11/15/2024,21,630,11%
+LOC415,Ras Al Khaimah Hub,Monitors,950,243,6/13/2023,16,480,14%
+LOC416,Abu Dhabi Central,Monitors,542,269,2/8/2024,44,1320,7%
+LOC417,Abu Dhabi Central,Ink Cartridges,637,68,3/27/2024,11,330,2%
+LOC418,Ras Al Khaimah Hub,Laptops,553,189,2/11/2023,45,1350,14%
+LOC419,Fujairah Distribution,Ink Cartridges,278,36,8/27/2024,13,390,20%
+LOC420,Abu Dhabi Central,Monitors,226,63,10/8/2024,23,690,16%
+LOC421,Abu Dhabi Central,Paper Supplies,302,40,6/15/2024,26,780,2%
+LOC422,Sharjah Warehouse,Ink Cartridges,720,235,9/13/2023,46,1380,1%
+LOC423,Dubai Oasis HQ,Paper Supplies,458,32,9/21/2024,27,810,12%
+LOC424,Abu Dhabi Central,Ink Cartridges,981,89,6/23/2024,31,930,18%
+LOC425,Ras Al Khaimah Hub,Laptops,410,185,4/2/2024,12,360,3%
+LOC426,Fujairah Distribution,Paper Supplies,833,368,2/6/2024,47,1410,16%
+LOC427,Sharjah Warehouse,Office Chairs,618,283,6/8/2023,27,810,9%
+LOC428,Dubai Oasis HQ,Paper Supplies,136,64,12/26/2023,34,1020,19%
+LOC429,Sharjah Warehouse,Ink Cartridges,851,129,12/19/2023,4,120,19%
+LOC430,Sharjah Warehouse,Office Chairs,527,126,8/24/2023,14,420,5%
+LOC431,Dubai Oasis HQ,Paper Supplies,899,286,2/7/2023,2,60,8%
+LOC432,Fujairah Distribution,Ink Cartridges,982,40,5/5/2023,24,720,13%
+LOC433,Ras Al Khaimah Hub,Office Chairs,885,102,3/13/2023,24,720,20%
+LOC434,Ras Al Khaimah Hub,Paper Supplies,110,34,10/20/2023,14,420,13%
+LOC435,Abu Dhabi Central,Monitors,254,47,1/5/2023,2,60,11%
+LOC436,Abu Dhabi Central,Paper Supplies,652,105,12/5/2023,6,180,3%
+LOC437,Ras Al Khaimah Hub,Monitors,710,118,9/7/2023,21,630,20%
+LOC438,Ras Al Khaimah Hub,Ink Cartridges,701,266,4/18/2023,4,120,9%
+LOC439,Sharjah Warehouse,Ink Cartridges,683,196,2/21/2024,40,1200,20%
+LOC440,Abu Dhabi Central,Laptops,119,10,4/22/2023,28,840,14%
+LOC441,Abu Dhabi Central,Paper Supplies,445,101,6/27/2024,19,570,7%
+LOC442,Abu Dhabi Central,Laptops,565,69,7/15/2023,21,630,1%
+LOC443,Dubai Oasis HQ,Monitors,869,423,5/28/2024,32,960,15%
+LOC444,Abu Dhabi Central,Office Chairs,883,379,2/3/2024,21,630,3%
+LOC445,Sharjah Warehouse,Laptops,690,255,9/8/2024,48,1440,2%
+LOC446,Abu Dhabi Central,Paper Supplies,950,385,1/11/2023,44,1320,14%
+LOC447,Abu Dhabi Central,Laptops,170,83,1/5/2024,22,660,2%
+LOC448,Sharjah Warehouse,Ink Cartridges,154,35,9/26/2023,18,540,5%
+LOC449,Dubai Oasis HQ,Laptops,685,186,3/3/2023,6,180,18%
+LOC450,Sharjah Warehouse,Paper Supplies,227,108,10/12/2023,49,1470,4%
+LOC451,Ras Al Khaimah Hub,Laptops,478,238,8/7/2023,19,570,14%
+LOC452,Ras Al Khaimah Hub,Ink Cartridges,354,149,1/24/2024,13,390,5%
+LOC453,Sharjah Warehouse,Office Chairs,966,400,3/23/2024,1,30,8%
+LOC454,Fujairah Distribution,Ink Cartridges,914,453,11/12/2024,40,1200,6%
+LOC455,Ras Al Khaimah Hub,Office Chairs,211,35,2/8/2024,31,930,10%
+LOC456,Ras Al Khaimah Hub,Laptops,871,117,1/9/2023,32,960,10%
+LOC457,Abu Dhabi Central,Laptops,522,168,4/26/2023,4,120,19%
+LOC458,Fujairah Distribution,Paper Supplies,577,73,7/14/2024,24,720,16%
+LOC459,Fujairah Distribution,Laptops,344,84,3/13/2024,49,1470,18%
+LOC460,Sharjah Warehouse,Office Chairs,987,488,11/7/2024,48,1440,12%
+LOC461,Ras Al Khaimah Hub,Office Chairs,853,191,11/11/2023,44,1320,7%
+LOC462,Fujairah Distribution,Office Chairs,354,164,6/9/2023,39,1170,13%
+LOC463,Sharjah Warehouse,Monitors,425,27,9/27/2023,30,900,18%
+LOC464,Abu Dhabi Central,Monitors,736,310,12/2/2023,6,180,13%
+LOC465,Abu Dhabi Central,Ink Cartridges,724,224,8/14/2024,11,330,4%
+LOC466,Fujairah Distribution,Office Chairs,302,54,10/12/2024,13,390,7%
+LOC467,Abu Dhabi Central,Paper Supplies,609,17,11/11/2024,47,1410,3%
+LOC468,Dubai Oasis HQ,Office Chairs,791,119,5/21/2024,25,750,10%
+LOC469,Fujairah Distribution,Laptops,485,155,6/6/2023,8,240,17%
+LOC470,Sharjah Warehouse,Monitors,847,390,6/1/2024,47,1410,15%
+LOC471,Dubai Oasis HQ,Paper Supplies,927,180,10/21/2023,3,90,20%
+LOC472,Ras Al Khaimah Hub,Ink Cartridges,669,263,11/1/2024,36,1080,18%
+LOC473,Ras Al Khaimah Hub,Ink Cartridges,113,32,1/30/2024,5,150,1%
+LOC474,Sharjah Warehouse,Monitors,875,390,5/17/2023,42,1260,3%
+LOC475,Fujairah Distribution,Ink Cartridges,708,213,5/7/2023,16,480,14%
+LOC476,Sharjah Warehouse,Ink Cartridges,620,67,3/14/2023,13,390,1%
+LOC477,Fujairah Distribution,Office Chairs,470,38,11/25/2023,27,810,1%
+LOC478,Sharjah Warehouse,Office Chairs,830,344,4/15/2024,34,1020,19%
+LOC479,Dubai Oasis HQ,Ink Cartridges,140,44,5/26/2023,24,720,10%
+LOC480,Abu Dhabi Central,Paper Supplies,735,39,11/7/2023,47,1410,15%
+LOC481,Fujairah Distribution,Ink Cartridges,152,75,1/31/2023,23,690,15%
+LOC482,Sharjah Warehouse,Monitors,556,133,7/3/2024,28,840,6%
+LOC483,Ras Al Khaimah Hub,Office Chairs,721,180,4/7/2024,8,240,7%
+LOC484,Ras Al Khaimah Hub,Ink Cartridges,936,349,5/21/2024,29,870,6%
+LOC485,Ras Al Khaimah Hub,Paper Supplies,458,227,1/15/2023,2,60,8%
+LOC486,Sharjah Warehouse,Monitors,581,271,3/29/2024,21,630,3%
+LOC487,Abu Dhabi Central,Office Chairs,489,89,6/8/2024,43,1290,16%
+LOC488,Dubai Oasis HQ,Paper Supplies,422,33,12/13/2023,16,480,3%
+LOC489,Fujairah Distribution,Ink Cartridges,821,100,7/20/2024,36,1080,8%
+LOC490,Dubai Oasis HQ,Paper Supplies,150,38,1/27/2023,20,600,9%
+LOC491,Ras Al Khaimah Hub,Office Chairs,859,169,6/3/2024,19,570,7%
+LOC492,Abu Dhabi Central,Laptops,406,187,1/27/2023,40,1200,20%
+LOC493,Abu Dhabi Central,Monitors,458,181,7/2/2024,18,540,19%
+LOC494,Fujairah Distribution,Office Chairs,430,90,1/15/2023,46,1380,4%
+LOC495,Sharjah Warehouse,Laptops,820,238,12/24/2023,44,1320,16%
+LOC496,Sharjah Warehouse,Office Chairs,310,101,9/30/2023,2,60,13%
+LOC497,Abu Dhabi Central,Office Chairs,772,312,10/22/2023,26,780,3%
+LOC498,Fujairah Distribution,Ink Cartridges,551,236,5/13/2023,21,630,5%
+LOC499,Sharjah Warehouse,Laptops,767,318,6/8/2024,14,420,15%
+LOC500,Sharjah Warehouse,Office Chairs,463,70,7/17/2023,47,1410,15%
+LOC501,Abu Dhabi Central,Paper Supplies,133,55,6/11/2024,31,930,12%
+LOC502,Ras Al Khaimah Hub,Office Chairs,610,17,3/18/2024,19,570,12%
+LOC503,Abu Dhabi Central,Ink Cartridges,148,60,8/25/2023,41,1230,12%
+LOC504,Fujairah Distribution,Monitors,525,84,6/25/2023,41,1230,8%
+LOC505,Dubai Oasis HQ,Paper Supplies,99,39,5/11/2024,44,1320,5%
+LOC506,Sharjah Warehouse,Ink Cartridges,735,110,1/26/2023,10,300,18%
+LOC507,Ras Al Khaimah Hub,Office Chairs,187,69,10/29/2024,26,780,7%
+LOC508,Fujairah Distribution,Paper Supplies,314,52,10/19/2023,9,270,15%
+LOC509,Fujairah Distribution,Office Chairs,976,87,4/18/2024,5,150,6%
+LOC510,Ras Al Khaimah Hub,Monitors,429,94,7/23/2024,26,780,20%
+LOC511,Ras Al Khaimah Hub,Ink Cartridges,295,22,10/18/2023,47,1410,10%
+LOC512,Abu Dhabi Central,Ink Cartridges,334,137,7/4/2023,33,990,12%
+LOC513,Sharjah Warehouse,Laptops,353,66,3/20/2024,40,1200,1%
+LOC514,Fujairah Distribution,Ink Cartridges,729,270,6/3/2023,10,300,19%
+LOC515,Ras Al Khaimah Hub,Monitors,728,334,5/24/2024,39,1170,7%
+LOC516,Abu Dhabi Central,Monitors,712,81,1/12/2023,3,90,5%
+LOC517,Fujairah Distribution,Laptops,531,236,4/21/2023,50,1500,6%
+LOC518,Fujairah Distribution,Paper Supplies,634,164,7/2/2024,36,1080,4%
+LOC519,Abu Dhabi Central,Ink Cartridges,843,101,1/17/2024,38,1140,3%
+LOC520,Sharjah Warehouse,Ink Cartridges,100,12,3/23/2023,20,600,11%
+LOC521,Dubai Oasis HQ,Laptops,234,88,10/31/2024,9,270,17%
+LOC522,Abu Dhabi Central,Ink Cartridges,464,119,2/21/2024,40,1200,2%
+LOC523,Abu Dhabi Central,Office Chairs,406,194,4/20/2024,2,60,4%
+LOC524,Sharjah Warehouse,Ink Cartridges,172,60,10/11/2023,50,1500,9%
+LOC525,Sharjah Warehouse,Monitors,318,143,8/31/2023,31,930,17%
+LOC526,Fujairah Distribution,Laptops,212,102,8/2/2023,11,330,17%
+LOC527,Ras Al Khaimah Hub,Ink Cartridges,173,16,10/18/2023,50,1500,13%
+LOC528,Sharjah Warehouse,Laptops,723,320,11/1/2023,45,1350,16%
+LOC529,Sharjah Warehouse,Paper Supplies,84,37,11/6/2023,44,1320,12%
+LOC530,Sharjah Warehouse,Office Chairs,656,53,7/17/2024,3,90,19%
+LOC531,Sharjah Warehouse,Ink Cartridges,186,61,8/2/2023,43,1290,12%
+LOC532,Sharjah Warehouse,Monitors,415,203,8/22/2023,1,30,13%
+LOC533,Sharjah Warehouse,Laptops,350,174,4/10/2023,14,420,5%
+LOC534,Ras Al Khaimah Hub,Ink Cartridges,155,34,7/3/2024,9,270,1%
+LOC535,Abu Dhabi Central,Ink Cartridges,187,76,7/6/2023,7,210,13%
+LOC536,Abu Dhabi Central,Monitors,530,166,11/1/2024,39,1170,14%
+LOC537,Dubai Oasis HQ,Monitors,216,26,11/21/2023,17,510,16%
+LOC538,Sharjah Warehouse,Office Chairs,623,21,11/25/2023,43,1290,16%
+LOC539,Ras Al Khaimah Hub,Monitors,485,141,2/11/2023,10,300,3%
+LOC540,Ras Al Khaimah Hub,Laptops,247,71,5/15/2024,45,1350,11%
+LOC541,Ras Al Khaimah Hub,Office Chairs,925,305,4/2/2023,10,300,13%
+LOC542,Dubai Oasis HQ,Paper Supplies,50,24,3/8/2023,36,1080,8%
+LOC543,Abu Dhabi Central,Monitors,494,86,1/11/2023,25,750,10%
+LOC544,Sharjah Warehouse,Monitors,736,205,11/17/2024,7,210,8%
+LOC545,Dubai Oasis HQ,Office Chairs,920,118,8/23/2023,35,1050,16%
+LOC546,Dubai Oasis HQ,Paper Supplies,333,71,2/13/2024,40,1200,19%
+LOC547,Sharjah Warehouse,Laptops,627,17,12/22/2023,50,1500,1%
+LOC548,Fujairah Distribution,Office Chairs,655,221,8/25/2023,2,60,10%
+LOC549,Ras Al Khaimah Hub,Laptops,172,49,11/2/2024,38,1140,17%
+LOC550,Abu Dhabi Central,Laptops,460,224,3/17/2024,11,330,17%
+LOC551,Sharjah Warehouse,Paper Supplies,244,44,3/17/2024,37,1110,1%
+LOC552,Abu Dhabi Central,Monitors,162,56,3/20/2023,23,690,8%
+LOC553,Dubai Oasis HQ,Laptops,168,60,9/7/2024,4,120,3%
+LOC554,Sharjah Warehouse,Office Chairs,729,107,5/10/2024,35,1050,6%
+LOC555,Ras Al Khaimah Hub,Monitors,56,17,10/31/2023,35,1050,20%
+LOC556,Fujairah Distribution,Laptops,861,157,6/27/2023,43,1290,18%
+LOC557,Sharjah Warehouse,Office Chairs,559,250,7/18/2024,8,240,19%
+LOC558,Abu Dhabi Central,Paper Supplies,524,213,8/31/2023,11,330,5%
+LOC559,Abu Dhabi Central,Paper Supplies,304,120,10/30/2024,27,810,7%
+LOC560,Ras Al Khaimah Hub,Paper Supplies,388,177,1/25/2023,18,540,11%
+LOC561,Ras Al Khaimah Hub,Paper Supplies,540,87,8/2/2024,38,1140,5%
+LOC562,Fujairah Distribution,Ink Cartridges,785,22,9/20/2023,12,360,16%
+LOC563,Dubai Oasis HQ,Office Chairs,251,63,9/17/2024,49,1470,15%
+LOC564,Dubai Oasis HQ,Office Chairs,482,25,4/18/2024,23,690,19%
+LOC565,Dubai Oasis HQ,Ink Cartridges,220,85,4/23/2024,23,690,17%
+LOC566,Ras Al Khaimah Hub,Paper Supplies,60,29,2/28/2024,24,720,14%
+LOC567,Ras Al Khaimah Hub,Monitors,998,301,5/10/2024,6,180,7%
+LOC568,Sharjah Warehouse,Office Chairs,342,20,6/23/2024,29,870,7%
+LOC569,Sharjah Warehouse,Ink Cartridges,373,174,6/20/2023,24,720,3%
+LOC570,Sharjah Warehouse,Office Chairs,488,131,9/7/2024,10,300,20%
+LOC571,Fujairah Distribution,Paper Supplies,746,237,5/26/2023,28,840,7%
+LOC572,Dubai Oasis HQ,Monitors,949,438,3/13/2023,6,180,5%
+LOC573,Sharjah Warehouse,Paper Supplies,408,22,10/1/2024,43,1290,6%
+LOC574,Fujairah Distribution,Monitors,76,14,8/9/2023,38,1140,4%
+LOC575,Fujairah Distribution,Ink Cartridges,537,109,5/17/2023,43,1290,4%
+LOC576,Ras Al Khaimah Hub,Paper Supplies,774,287,2/8/2023,14,420,1%
+LOC577,Sharjah Warehouse,Ink Cartridges,395,133,2/8/2024,33,990,3%
+LOC578,Dubai Oasis HQ,Ink Cartridges,130,10,8/5/2024,5,150,3%
+LOC579,Sharjah Warehouse,Monitors,856,255,3/11/2023,43,1290,16%
+LOC580,Sharjah Warehouse,Paper Supplies,908,267,8/29/2023,45,1350,13%
+LOC581,Ras Al Khaimah Hub,Paper Supplies,409,172,6/1/2023,19,570,7%
+LOC582,Abu Dhabi Central,Ink Cartridges,521,257,10/3/2023,47,1410,6%
+LOC583,Ras Al Khaimah Hub,Laptops,930,104,8/1/2023,30,900,19%
+LOC584,Sharjah Warehouse,Ink Cartridges,638,66,9/2/2023,45,1350,19%
+LOC585,Sharjah Warehouse,Monitors,53,14,2/19/2024,46,1380,16%
+LOC586,Dubai Oasis HQ,Paper Supplies,56,16,8/17/2024,36,1080,16%
+LOC587,Sharjah Warehouse,Ink Cartridges,166,64,2/13/2024,48,1440,1%
+LOC588,Dubai Oasis HQ,Office Chairs,224,61,5/8/2023,42,1260,5%
+LOC589,Fujairah Distribution,Monitors,932,351,7/22/2023,18,540,6%
+LOC590,Fujairah Distribution,Office Chairs,957,100,7/16/2023,5,150,10%
+LOC591,Fujairah Distribution,Paper Supplies,244,115,11/9/2023,8,240,5%
+LOC592,Dubai Oasis HQ,Monitors,644,176,7/25/2024,18,540,15%
+LOC593,Dubai Oasis HQ,Monitors,271,17,3/8/2024,30,900,11%
+LOC594,Ras Al Khaimah Hub,Office Chairs,180,33,7/31/2024,41,1230,6%
+LOC595,Fujairah Distribution,Ink Cartridges,487,81,6/20/2024,7,210,6%
+LOC596,Ras Al Khaimah Hub,Ink Cartridges,140,54,9/26/2024,23,690,10%
+LOC597,Sharjah Warehouse,Paper Supplies,145,55,6/30/2023,6,180,18%
+LOC598,Ras Al Khaimah Hub,Monitors,109,20,10/23/2024,11,330,17%
+LOC599,Sharjah Warehouse,Laptops,388,150,6/7/2023,4,120,12%
+LOC600,Abu Dhabi Central,Ink Cartridges,605,32,11/9/2023,29,870,2%
+LOC601,Abu Dhabi Central,Laptops,318,96,8/30/2023,9,270,20%
+LOC602,Ras Al Khaimah Hub,Monitors,457,78,7/11/2024,48,1440,14%
+LOC603,Abu Dhabi Central,Monitors,69,27,2/7/2023,50,1500,18%
+LOC604,Fujairah Distribution,Office Chairs,534,161,2/15/2023,35,1050,12%
+LOC605,Dubai Oasis HQ,Paper Supplies,780,355,10/2/2023,10,300,18%
+LOC606,Abu Dhabi Central,Office Chairs,906,18,1/25/2024,7,210,8%
+LOC607,Sharjah Warehouse,Office Chairs,712,63,5/13/2023,47,1410,10%
+LOC608,Dubai Oasis HQ,Office Chairs,260,67,3/24/2023,11,330,13%
+LOC609,Sharjah Warehouse,Ink Cartridges,711,263,1/27/2024,44,1320,19%
+LOC610,Abu Dhabi Central,Paper Supplies,404,99,10/12/2023,4,120,4%
+LOC611,Sharjah Warehouse,Ink Cartridges,62,24,5/20/2023,28,840,11%
+LOC612,Abu Dhabi Central,Office Chairs,431,10,12/28/2023,30,900,19%
+LOC613,Ras Al Khaimah Hub,Laptops,274,127,12/31/2023,14,420,3%
+LOC614,Ras Al Khaimah Hub,Paper Supplies,545,169,8/16/2024,19,570,11%
+LOC615,Abu Dhabi Central,Laptops,689,302,10/24/2024,12,360,14%
+LOC616,Sharjah Warehouse,Office Chairs,302,54,6/2/2023,25,750,12%
+LOC617,Ras Al Khaimah Hub,Office Chairs,207,46,6/8/2023,9,270,11%
+LOC618,Ras Al Khaimah Hub,Paper Supplies,224,10,11/14/2024,44,1320,1%
+LOC619,Ras Al Khaimah Hub,Monitors,212,24,4/5/2023,3,90,2%
+LOC620,Dubai Oasis HQ,Office Chairs,817,217,8/12/2024,23,690,10%
+LOC621,Fujairah Distribution,Paper Supplies,583,211,1/13/2023,43,1290,5%
+LOC622,Abu Dhabi Central,Ink Cartridges,589,16,2/24/2024,38,1140,2%
+LOC623,Sharjah Warehouse,Paper Supplies,628,11,5/4/2024,16,480,11%
+LOC624,Abu Dhabi Central,Ink Cartridges,661,193,4/17/2023,11,330,10%
+LOC625,Abu Dhabi Central,Laptops,961,443,3/18/2024,12,360,2%
+LOC626,Abu Dhabi Central,Monitors,640,233,10/14/2024,20,600,2%
+LOC627,Fujairah Distribution,Ink Cartridges,456,60,3/25/2024,24,720,9%
+LOC628,Fujairah Distribution,Monitors,682,256,5/16/2024,29,870,12%
+LOC629,Dubai Oasis HQ,Monitors,805,89,3/13/2023,45,1350,18%
+LOC630,Fujairah Distribution,Monitors,328,18,6/16/2023,15,450,20%
+LOC631,Abu Dhabi Central,Paper Supplies,365,113,5/13/2023,19,570,6%
+LOC632,Abu Dhabi Central,Paper Supplies,420,160,6/28/2023,44,1320,2%
+LOC633,Abu Dhabi Central,Monitors,457,171,1/15/2024,2,60,17%
+LOC634,Dubai Oasis HQ,Office Chairs,918,78,5/1/2023,11,330,18%
+LOC635,Sharjah Warehouse,Monitors,932,362,8/20/2023,20,600,20%
+LOC636,Fujairah Distribution,Paper Supplies,197,86,9/11/2023,14,420,7%
+LOC637,Ras Al Khaimah Hub,Paper Supplies,254,73,7/7/2023,31,930,9%
+LOC638,Ras Al Khaimah Hub,Monitors,394,41,8/5/2024,45,1350,4%
+LOC639,Abu Dhabi Central,Monitors,907,387,8/18/2023,46,1380,3%
+LOC640,Abu Dhabi Central,Office Chairs,829,254,5/27/2024,18,540,20%
+LOC641,Fujairah Distribution,Monitors,792,255,11/26/2023,41,1230,10%
+LOC642,Abu Dhabi Central,Monitors,282,136,9/17/2023,28,840,19%
+LOC643,Ras Al Khaimah Hub,Paper Supplies,480,65,4/27/2024,4,120,6%
+LOC644,Fujairah Distribution,Paper Supplies,888,428,6/4/2023,32,960,19%
+LOC645,Dubai Oasis HQ,Monitors,418,157,3/3/2023,23,690,5%
+LOC646,Abu Dhabi Central,Paper Supplies,810,192,10/25/2024,10,300,10%
+LOC647,Abu Dhabi Central,Paper Supplies,571,244,3/1/2024,47,1410,13%
+LOC648,Dubai Oasis HQ,Office Chairs,303,15,3/30/2024,20,600,6%
+LOC649,Fujairah Distribution,Paper Supplies,808,380,3/27/2024,31,930,16%
+LOC650,Dubai Oasis HQ,Monitors,881,93,1/25/2024,6,180,1%
+LOC651,Sharjah Warehouse,Paper Supplies,759,347,10/25/2023,46,1380,10%
+LOC652,Ras Al Khaimah Hub,Paper Supplies,126,12,8/31/2024,41,1230,5%
+LOC653,Dubai Oasis HQ,Monitors,856,193,2/19/2023,27,810,6%
+LOC654,Sharjah Warehouse,Monitors,307,115,8/20/2023,13,390,2%
+LOC655,Sharjah Warehouse,Ink Cartridges,900,301,3/2/2024,36,1080,15%
+LOC656,Sharjah Warehouse,Laptops,730,202,8/19/2024,46,1380,10%
+LOC657,Fujairah Distribution,Ink Cartridges,834,115,5/13/2023,20,600,20%
+LOC658,Ras Al Khaimah Hub,Ink Cartridges,897,175,2/13/2023,48,1440,7%
+LOC659,Fujairah Distribution,Monitors,991,31,9/11/2024,1,30,7%
+LOC660,Abu Dhabi Central,Laptops,203,23,2/7/2023,23,690,14%
+LOC661,Abu Dhabi Central,Office Chairs,304,126,8/25/2024,24,720,17%
+LOC662,Fujairah Distribution,Laptops,105,25,10/5/2024,26,780,17%
+LOC663,Ras Al Khaimah Hub,Ink Cartridges,675,65,6/13/2024,6,180,12%
+LOC664,Fujairah Distribution,Laptops,886,239,3/5/2024,26,780,16%
+LOC665,Dubai Oasis HQ,Laptops,833,335,12/30/2023,48,1440,10%
+LOC666,Fujairah Distribution,Paper Supplies,358,72,3/1/2024,37,1110,12%
+LOC667,Abu Dhabi Central,Monitors,247,77,8/15/2024,47,1410,8%
+LOC668,Dubai Oasis HQ,Monitors,80,13,12/5/2023,42,1260,8%
+LOC669,Ras Al Khaimah Hub,Ink Cartridges,577,263,3/15/2024,8,240,14%
+LOC670,Ras Al Khaimah Hub,Office Chairs,787,155,10/13/2023,1,30,6%
+LOC671,Dubai Oasis HQ,Ink Cartridges,352,152,5/15/2023,16,480,18%
+LOC672,Dubai Oasis HQ,Monitors,635,259,9/23/2023,42,1260,20%
+LOC673,Sharjah Warehouse,Laptops,428,140,10/20/2024,12,360,13%
+LOC674,Abu Dhabi Central,Ink Cartridges,914,98,7/29/2023,28,840,12%
+LOC675,Fujairah Distribution,Office Chairs,401,109,3/20/2024,35,1050,15%
+LOC676,Dubai Oasis HQ,Laptops,282,32,9/18/2023,25,750,7%
+LOC677,Sharjah Warehouse,Monitors,857,63,10/9/2023,37,1110,15%
+LOC678,Abu Dhabi Central,Laptops,624,23,1/18/2023,21,630,2%
+LOC679,Sharjah Warehouse,Laptops,761,231,12/24/2023,24,720,12%
+LOC680,Dubai Oasis HQ,Office Chairs,119,44,11/3/2023,41,1230,11%
+LOC681,Abu Dhabi Central,Office Chairs,550,47,8/1/2024,11,330,18%
+LOC682,Abu Dhabi Central,Office Chairs,208,96,7/14/2024,7,210,17%
+LOC683,Ras Al Khaimah Hub,Ink Cartridges,507,95,10/8/2023,29,870,5%
+LOC684,Abu Dhabi Central,Office Chairs,800,207,6/12/2023,5,150,17%
+LOC685,Abu Dhabi Central,Laptops,498,63,5/11/2023,42,1260,18%
+LOC686,Fujairah Distribution,Office Chairs,735,128,6/15/2024,20,600,18%
+LOC687,Fujairah Distribution,Laptops,384,162,5/25/2024,21,630,5%
+LOC688,Sharjah Warehouse,Ink Cartridges,233,58,8/9/2024,42,1260,5%
+LOC689,Fujairah Distribution,Laptops,472,31,9/28/2024,46,1380,1%
+LOC690,Abu Dhabi Central,Ink Cartridges,66,27,8/11/2024,33,990,12%
+LOC691,Abu Dhabi Central,Paper Supplies,861,73,10/25/2024,30,900,17%
+LOC692,Fujairah Distribution,Office Chairs,898,168,3/22/2023,41,1230,5%
+LOC693,Fujairah Distribution,Ink Cartridges,979,222,12/12/2023,15,450,17%
+LOC694,Sharjah Warehouse,Monitors,778,42,7/25/2023,15,450,14%
+LOC695,Ras Al Khaimah Hub,Office Chairs,560,240,6/20/2023,5,150,9%
+LOC696,Fujairah Distribution,Office Chairs,552,57,2/7/2024,41,1230,1%
+LOC697,Sharjah Warehouse,Laptops,550,216,12/2/2023,5,150,11%
+LOC698,Abu Dhabi Central,Paper Supplies,798,301,8/1/2024,4,120,3%
+LOC699,Abu Dhabi Central,Monitors,857,10,4/25/2023,16,480,7%
+LOC700,Fujairah Distribution,Laptops,252,59,6/9/2024,33,990,1%
+LOC701,Ras Al Khaimah Hub,Ink Cartridges,949,236,5/13/2023,5,150,20%
+LOC702,Abu Dhabi Central,Office Chairs,453,95,1/27/2023,49,1470,18%
+LOC703,Abu Dhabi Central,Paper Supplies,818,229,7/24/2023,1,30,7%
+LOC704,Sharjah Warehouse,Paper Supplies,683,266,8/18/2023,4,120,17%
+LOC705,Sharjah Warehouse,Paper Supplies,417,206,9/3/2024,17,510,6%
+LOC706,Ras Al Khaimah Hub,Office Chairs,183,19,6/6/2024,13,390,6%
+LOC707,Abu Dhabi Central,Paper Supplies,981,173,2/11/2023,24,720,2%
+LOC708,Dubai Oasis HQ,Laptops,434,32,10/5/2024,40,1200,17%
+LOC709,Ras Al Khaimah Hub,Paper Supplies,938,35,6/9/2024,4,120,2%
+LOC710,Ras Al Khaimah Hub,Paper Supplies,268,24,8/19/2024,33,990,19%
+LOC711,Dubai Oasis HQ,Paper Supplies,797,156,8/28/2023,9,270,19%
+LOC712,Fujairah Distribution,Ink Cartridges,375,95,5/12/2024,25,750,8%
+LOC713,Ras Al Khaimah Hub,Laptops,401,85,7/3/2024,9,270,14%
+LOC714,Ras Al Khaimah Hub,Laptops,657,34,1/1/2024,42,1260,10%
+LOC715,Ras Al Khaimah Hub,Paper Supplies,247,42,7/22/2023,50,1500,16%
+LOC716,Ras Al Khaimah Hub,Laptops,211,86,4/25/2024,42,1260,10%
+LOC717,Dubai Oasis HQ,Paper Supplies,959,364,4/28/2024,4,120,14%
+LOC718,Dubai Oasis HQ,Ink Cartridges,212,60,1/28/2024,37,1110,8%
+LOC719,Sharjah Warehouse,Ink Cartridges,328,100,2/4/2023,27,810,10%
+LOC720,Dubai Oasis HQ,Ink Cartridges,476,201,4/10/2023,50,1500,1%
+LOC721,Abu Dhabi Central,Laptops,362,32,10/12/2023,34,1020,6%
+LOC722,Abu Dhabi Central,Office Chairs,913,456,10/23/2024,39,1170,12%
+LOC723,Sharjah Warehouse,Paper Supplies,692,40,7/2/2024,25,750,10%
+LOC724,Fujairah Distribution,Office Chairs,584,103,11/1/2023,36,1080,15%
+LOC725,Ras Al Khaimah Hub,Ink Cartridges,723,259,8/3/2023,40,1200,17%
+LOC726,Dubai Oasis HQ,Laptops,322,43,1/1/2024,23,690,8%
+LOC727,Dubai Oasis HQ,Ink Cartridges,504,17,5/18/2023,15,450,16%
+LOC728,Dubai Oasis HQ,Laptops,427,32,2/17/2024,34,1020,11%
+LOC729,Fujairah Distribution,Monitors,197,92,2/28/2023,46,1380,6%
+LOC730,Dubai Oasis HQ,Laptops,795,83,8/31/2023,5,150,20%
+LOC731,Sharjah Warehouse,Paper Supplies,598,50,8/28/2023,37,1110,14%
+LOC732,Sharjah Warehouse,Office Chairs,117,13,4/7/2024,44,1320,10%
+LOC733,Abu Dhabi Central,Ink Cartridges,756,33,9/29/2024,5,150,18%
+LOC734,Dubai Oasis HQ,Ink Cartridges,604,251,1/20/2024,34,1020,13%
+LOC735,Sharjah Warehouse,Laptops,456,120,9/3/2024,33,990,9%
+LOC736,Ras Al Khaimah Hub,Monitors,603,76,8/18/2024,39,1170,1%
+LOC737,Sharjah Warehouse,Laptops,971,435,4/25/2024,4,120,5%
+LOC738,Dubai Oasis HQ,Laptops,239,20,3/2/2023,36,1080,10%
+LOC739,Abu Dhabi Central,Laptops,386,173,10/20/2023,40,1200,1%
+LOC740,Abu Dhabi Central,Paper Supplies,501,158,10/14/2024,30,900,9%
+LOC741,Dubai Oasis HQ,Paper Supplies,313,122,8/27/2024,21,630,9%
+LOC742,Dubai Oasis HQ,Office Chairs,241,85,11/18/2023,9,270,12%
+LOC743,Abu Dhabi Central,Ink Cartridges,109,37,10/9/2024,49,1470,8%
+LOC744,Sharjah Warehouse,Laptops,404,52,3/18/2023,50,1500,13%
+LOC745,Fujairah Distribution,Office Chairs,293,69,1/23/2023,35,1050,7%
+LOC746,Sharjah Warehouse,Laptops,933,345,2/21/2023,47,1410,8%
+LOC747,Ras Al Khaimah Hub,Monitors,200,57,9/7/2024,19,570,8%
+LOC748,Fujairah Distribution,Paper Supplies,50,16,9/9/2024,10,300,5%
+LOC749,Abu Dhabi Central,Office Chairs,659,230,9/15/2024,12,360,16%
+LOC750,Ras Al Khaimah Hub,Paper Supplies,422,173,4/7/2023,20,600,4%
+LOC751,Ras Al Khaimah Hub,Office Chairs,566,57,8/16/2023,36,1080,13%
+LOC752,Ras Al Khaimah Hub,Office Chairs,682,49,12/7/2023,6,180,8%
+LOC753,Dubai Oasis HQ,Monitors,870,212,9/17/2024,15,450,7%
+LOC754,Fujairah Distribution,Office Chairs,174,48,6/1/2024,29,870,6%
+LOC755,Dubai Oasis HQ,Ink Cartridges,857,389,3/7/2024,32,960,18%
+LOC756,Dubai Oasis HQ,Ink Cartridges,74,34,9/15/2024,35,1050,14%
+LOC757,Dubai Oasis HQ,Ink Cartridges,248,58,5/7/2023,42,1260,4%
+LOC758,Abu Dhabi Central,Office Chairs,890,414,2/18/2023,41,1230,6%
+LOC759,Sharjah Warehouse,Paper Supplies,243,41,5/5/2024,40,1200,13%
+LOC760,Abu Dhabi Central,Office Chairs,103,11,7/12/2024,45,1350,14%
+LOC761,Abu Dhabi Central,Paper Supplies,716,50,7/2/2023,32,960,14%
+LOC762,Abu Dhabi Central,Ink Cartridges,277,79,9/12/2023,11,330,13%
+LOC763,Sharjah Warehouse,Laptops,315,69,10/23/2024,46,1380,1%
+LOC764,Ras Al Khaimah Hub,Paper Supplies,234,64,5/23/2024,2,60,14%
+LOC765,Ras Al Khaimah Hub,Monitors,288,91,8/6/2023,29,870,7%
+LOC766,Dubai Oasis HQ,Ink Cartridges,791,234,4/12/2024,8,240,2%
+LOC767,Dubai Oasis HQ,Office Chairs,290,40,8/14/2024,39,1170,17%
+LOC768,Fujairah Distribution,Paper Supplies,824,177,4/3/2023,17,510,7%
+LOC769,Sharjah Warehouse,Ink Cartridges,239,64,6/25/2023,42,1260,1%
+LOC770,Dubai Oasis HQ,Monitors,879,352,3/26/2024,13,390,3%
+LOC771,Fujairah Distribution,Paper Supplies,59,10,10/1/2024,42,1260,20%
+LOC772,Sharjah Warehouse,Ink Cartridges,799,287,4/15/2024,45,1350,3%
+LOC773,Dubai Oasis HQ,Monitors,159,16,1/1/2023,49,1470,6%
+LOC774,Abu Dhabi Central,Ink Cartridges,599,201,2/26/2023,11,330,19%
+LOC775,Fujairah Distribution,Office Chairs,110,20,1/30/2023,49,1470,13%
+LOC776,Abu Dhabi Central,Laptops,386,125,4/23/2023,50,1500,9%
+LOC777,Ras Al Khaimah Hub,Laptops,817,266,2/18/2024,8,240,11%
+LOC778,Sharjah Warehouse,Paper Supplies,125,43,6/13/2023,29,870,19%
+LOC779,Fujairah Distribution,Ink Cartridges,932,136,4/28/2023,8,240,15%
+LOC780,Ras Al Khaimah Hub,Laptops,147,70,8/22/2024,33,990,13%
+LOC781,Sharjah Warehouse,Ink Cartridges,52,24,2/22/2024,19,570,4%
+LOC782,Abu Dhabi Central,Ink Cartridges,822,385,11/5/2024,35,1050,14%
+LOC783,Ras Al Khaimah Hub,Laptops,912,302,7/5/2023,15,450,18%
+LOC784,Sharjah Warehouse,Laptops,927,334,4/12/2024,31,930,4%
+LOC785,Sharjah Warehouse,Paper Supplies,942,455,2/3/2024,31,930,20%
+LOC786,Ras Al Khaimah Hub,Paper Supplies,783,242,3/29/2023,32,960,18%
+LOC787,Abu Dhabi Central,Paper Supplies,370,72,3/11/2023,21,630,17%
+LOC788,Fujairah Distribution,Ink Cartridges,771,310,12/10/2023,35,1050,13%
+LOC789,Fujairah Distribution,Laptops,729,256,7/11/2023,34,1020,12%
+LOC790,Dubai Oasis HQ,Ink Cartridges,538,144,4/16/2023,29,870,1%
+LOC791,Sharjah Warehouse,Laptops,965,413,11/13/2023,6,180,9%
+LOC792,Ras Al Khaimah Hub,Monitors,448,170,4/8/2024,21,630,12%
+LOC793,Sharjah Warehouse,Ink Cartridges,676,82,12/31/2023,40,1200,1%
+LOC794,Sharjah Warehouse,Monitors,947,34,4/7/2023,31,930,18%
+LOC795,Ras Al Khaimah Hub,Paper Supplies,319,74,12/23/2023,1,30,8%
+LOC796,Abu Dhabi Central,Laptops,855,282,5/15/2024,29,870,20%
+LOC797,Ras Al Khaimah Hub,Monitors,200,59,2/27/2024,13,390,10%
+LOC798,Ras Al Khaimah Hub,Office Chairs,581,150,4/4/2024,40,1200,19%
+LOC799,Sharjah Warehouse,Ink Cartridges,872,126,4/14/2023,20,600,16%
+LOC800,Ras Al Khaimah Hub,Office Chairs,363,74,9/11/2023,11,330,3%
+LOC801,Sharjah Warehouse,Laptops,681,218,8/16/2024,36,1080,3%
+LOC802,Abu Dhabi Central,Office Chairs,658,308,4/26/2023,37,1110,4%
+LOC803,Ras Al Khaimah Hub,Office Chairs,652,263,10/22/2024,22,660,7%
+LOC804,Ras Al Khaimah Hub,Ink Cartridges,846,349,3/23/2024,28,840,13%
+LOC805,Ras Al Khaimah Hub,Ink Cartridges,520,203,5/2/2024,8,240,18%
+LOC806,Ras Al Khaimah Hub,Laptops,216,64,7/5/2023,35,1050,20%
+LOC807,Sharjah Warehouse,Ink Cartridges,194,61,3/18/2023,14,420,1%
+LOC808,Sharjah Warehouse,Office Chairs,714,117,3/10/2023,6,180,9%
+LOC809,Abu Dhabi Central,Laptops,760,200,11/4/2024,27,810,20%
+LOC810,Sharjah Warehouse,Office Chairs,295,47,3/18/2023,27,810,4%
+LOC811,Ras Al Khaimah Hub,Office Chairs,185,11,1/3/2024,49,1470,14%
+LOC812,Dubai Oasis HQ,Ink Cartridges,677,326,4/6/2024,4,120,12%
+LOC813,Ras Al Khaimah Hub,Office Chairs,809,354,5/10/2024,50,1500,8%
+LOC814,Dubai Oasis HQ,Monitors,814,169,4/8/2023,13,390,6%
+LOC815,Abu Dhabi Central,Monitors,439,109,1/21/2024,37,1110,5%
+LOC816,Ras Al Khaimah Hub,Ink Cartridges,906,126,2/15/2024,9,270,19%
+LOC817,Abu Dhabi Central,Office Chairs,189,43,1/10/2023,49,1470,1%
+LOC818,Fujairah Distribution,Paper Supplies,665,44,7/6/2024,14,420,3%
+LOC819,Sharjah Warehouse,Office Chairs,916,408,3/1/2023,40,1200,17%
+LOC820,Ras Al Khaimah Hub,Monitors,772,60,5/11/2023,6,180,1%
+LOC821,Dubai Oasis HQ,Office Chairs,281,125,9/14/2023,39,1170,18%
+LOC822,Abu Dhabi Central,Monitors,296,46,4/13/2024,39,1170,3%
+LOC823,Dubai Oasis HQ,Monitors,940,48,7/30/2023,3,90,9%
+LOC824,Fujairah Distribution,Paper Supplies,448,66,9/12/2024,30,900,1%
+LOC825,Ras Al Khaimah Hub,Office Chairs,195,34,8/12/2024,16,480,19%
+LOC826,Ras Al Khaimah Hub,Office Chairs,560,228,3/9/2024,4,120,1%
+LOC827,Fujairah Distribution,Laptops,859,71,10/3/2024,2,60,14%
+LOC828,Dubai Oasis HQ,Ink Cartridges,713,72,1/9/2023,29,870,17%
+LOC829,Ras Al Khaimah Hub,Paper Supplies,656,187,5/28/2024,26,780,7%
+LOC830,Abu Dhabi Central,Paper Supplies,232,33,11/13/2023,30,900,4%
+LOC831,Ras Al Khaimah Hub,Ink Cartridges,269,36,8/14/2023,34,1020,5%
+LOC832,Dubai Oasis HQ,Ink Cartridges,634,214,3/17/2023,32,960,2%
+LOC833,Sharjah Warehouse,Laptops,855,426,8/31/2023,5,150,20%
+LOC834,Ras Al Khaimah Hub,Laptops,928,345,10/29/2023,20,600,7%
+LOC835,Sharjah Warehouse,Office Chairs,562,197,8/13/2024,9,270,10%
+LOC836,Dubai Oasis HQ,Laptops,737,81,11/4/2023,31,930,10%
+LOC837,Dubai Oasis HQ,Ink Cartridges,744,288,3/25/2024,6,180,16%
+LOC838,Abu Dhabi Central,Laptops,746,350,9/4/2024,46,1380,7%
+LOC839,Ras Al Khaimah Hub,Paper Supplies,310,55,3/25/2024,10,300,7%
+LOC840,Ras Al Khaimah Hub,Monitors,457,54,1/3/2023,44,1320,9%
+LOC841,Fujairah Distribution,Laptops,241,113,9/29/2024,50,1500,3%
+LOC842,Sharjah Warehouse,Monitors,144,67,7/2/2024,29,870,5%
+LOC843,Abu Dhabi Central,Office Chairs,653,129,6/15/2024,32,960,17%
+LOC844,Fujairah Distribution,Office Chairs,947,186,10/27/2023,43,1290,18%
+LOC845,Abu Dhabi Central,Monitors,279,128,2/19/2023,26,780,12%
+LOC846,Ras Al Khaimah Hub,Laptops,233,111,10/16/2024,45,1350,3%
+LOC847,Dubai Oasis HQ,Office Chairs,794,286,4/28/2023,34,1020,15%
+LOC848,Abu Dhabi Central,Ink Cartridges,737,200,5/10/2023,17,510,12%
+LOC849,Sharjah Warehouse,Laptops,629,83,5/6/2024,12,360,10%
+LOC850,Ras Al Khaimah Hub,Ink Cartridges,557,202,2/8/2023,38,1140,9%
+LOC851,Sharjah Warehouse,Office Chairs,678,146,7/23/2024,9,270,4%
+LOC852,Sharjah Warehouse,Ink Cartridges,748,137,7/19/2024,3,90,7%
+LOC853,Abu Dhabi Central,Ink Cartridges,103,28,3/28/2024,40,1200,10%
+LOC854,Ras Al Khaimah Hub,Office Chairs,871,92,5/7/2024,28,840,1%
+LOC855,Dubai Oasis HQ,Laptops,345,128,10/5/2023,23,690,20%
+LOC856,Sharjah Warehouse,Office Chairs,349,129,1/21/2024,16,480,17%
+LOC857,Abu Dhabi Central,Office Chairs,141,33,9/27/2024,38,1140,8%
+LOC858,Ras Al Khaimah Hub,Paper Supplies,221,96,9/30/2024,10,300,6%
+LOC859,Ras Al Khaimah Hub,Laptops,682,61,10/1/2024,49,1470,15%
+LOC860,Sharjah Warehouse,Paper Supplies,754,269,7/1/2023,2,60,5%
+LOC861,Dubai Oasis HQ,Ink Cartridges,869,123,3/10/2024,17,510,12%
+LOC862,Fujairah Distribution,Paper Supplies,529,55,9/23/2023,44,1320,12%
+LOC863,Fujairah Distribution,Paper Supplies,166,77,11/6/2023,6,180,2%
+LOC864,Fujairah Distribution,Paper Supplies,810,148,8/23/2023,19,570,14%
+LOC865,Sharjah Warehouse,Monitors,207,15,4/11/2024,50,1500,1%
+LOC866,Fujairah Distribution,Ink Cartridges,643,286,1/13/2024,29,870,11%
+LOC867,Sharjah Warehouse,Ink Cartridges,461,39,11/10/2024,10,300,12%
+LOC868,Abu Dhabi Central,Paper Supplies,176,74,7/3/2023,10,300,18%
+LOC869,Abu Dhabi Central,Monitors,184,45,7/29/2023,28,840,6%
+LOC870,Ras Al Khaimah Hub,Monitors,794,268,8/4/2023,4,120,1%
+LOC871,Abu Dhabi Central,Monitors,423,68,2/20/2024,5,150,13%
+LOC872,Dubai Oasis HQ,Paper Supplies,575,286,4/21/2023,11,330,13%
+LOC873,Dubai Oasis HQ,Laptops,656,146,5/6/2023,5,150,20%
+LOC874,Abu Dhabi Central,Ink Cartridges,577,228,2/12/2023,17,510,10%
+LOC875,Ras Al Khaimah Hub,Laptops,602,12,9/13/2023,45,1350,11%
+LOC876,Ras Al Khaimah Hub,Paper Supplies,823,240,10/31/2023,41,1230,13%
+LOC877,Fujairah Distribution,Office Chairs,956,59,4/9/2023,45,1350,12%
+LOC878,Dubai Oasis HQ,Paper Supplies,671,238,1/20/2023,38,1140,5%
+LOC879,Fujairah Distribution,Laptops,133,55,2/23/2023,33,990,1%
+LOC880,Dubai Oasis HQ,Office Chairs,245,95,10/30/2024,2,60,1%
+LOC881,Abu Dhabi Central,Office Chairs,891,72,7/11/2023,38,1140,8%
+LOC882,Ras Al Khaimah Hub,Laptops,660,243,3/11/2024,50,1500,10%
+LOC883,Abu Dhabi Central,Paper Supplies,613,35,3/16/2024,10,300,15%
+LOC884,Sharjah Warehouse,Paper Supplies,184,82,1/7/2024,47,1410,17%
+LOC885,Abu Dhabi Central,Laptops,278,12,4/7/2023,5,150,9%
+LOC886,Sharjah Warehouse,Ink Cartridges,828,217,12/5/2023,32,960,20%
+LOC887,Fujairah Distribution,Monitors,141,33,4/29/2023,48,1440,5%
+LOC888,Abu Dhabi Central,Ink Cartridges,392,180,11/17/2024,28,840,1%
+LOC889,Dubai Oasis HQ,Paper Supplies,899,286,6/19/2024,33,990,4%
+LOC890,Dubai Oasis HQ,Ink Cartridges,469,96,1/24/2023,29,870,10%
+LOC891,Dubai Oasis HQ,Laptops,464,10,2/22/2024,41,1230,14%
+LOC892,Fujairah Distribution,Laptops,712,269,1/14/2024,33,990,4%
+LOC893,Ras Al Khaimah Hub,Ink Cartridges,575,35,8/8/2023,10,300,8%
+LOC894,Abu Dhabi Central,Monitors,872,300,12/17/2023,17,510,2%
+LOC895,Ras Al Khaimah Hub,Laptops,211,67,6/28/2024,24,720,9%
+LOC896,Dubai Oasis HQ,Monitors,861,111,3/21/2024,39,1170,1%
+LOC897,Dubai Oasis HQ,Monitors,848,228,12/4/2023,17,510,17%
+LOC898,Sharjah Warehouse,Ink Cartridges,521,223,9/30/2023,41,1230,12%
+LOC899,Ras Al Khaimah Hub,Monitors,654,214,2/16/2024,8,240,18%
+LOC900,Ras Al Khaimah Hub,Monitors,119,38,3/25/2024,12,360,13%
+LOC901,Dubai Oasis HQ,Paper Supplies,460,100,3/13/2023,50,1500,17%
+LOC902,Abu Dhabi Central,Office Chairs,997,217,10/8/2023,18,540,11%
+LOC903,Abu Dhabi Central,Office Chairs,212,85,2/8/2023,1,30,20%
+LOC904,Ras Al Khaimah Hub,Laptops,265,113,7/25/2023,11,330,1%
+LOC905,Abu Dhabi Central,Ink Cartridges,343,97,8/23/2024,20,600,7%
+LOC906,Sharjah Warehouse,Monitors,52,18,2/4/2024,44,1320,12%
+LOC907,Ras Al Khaimah Hub,Paper Supplies,725,280,8/4/2024,9,270,5%
+LOC908,Fujairah Distribution,Paper Supplies,98,33,4/16/2023,27,810,17%
+LOC909,Abu Dhabi Central,Monitors,332,55,3/6/2024,6,180,3%
+LOC910,Sharjah Warehouse,Laptops,141,61,9/12/2023,10,300,11%
+LOC911,Dubai Oasis HQ,Office Chairs,892,377,1/15/2024,41,1230,1%
+LOC912,Ras Al Khaimah Hub,Office Chairs,156,38,4/17/2023,18,540,14%
+LOC913,Sharjah Warehouse,Laptops,369,128,10/16/2024,17,510,12%
+LOC914,Ras Al Khaimah Hub,Monitors,577,65,10/12/2024,42,1260,4%
+LOC915,Dubai Oasis HQ,Monitors,229,94,6/25/2023,42,1260,16%
+LOC916,Fujairah Distribution,Ink Cartridges,744,35,11/4/2024,14,420,15%
+LOC917,Fujairah Distribution,Ink Cartridges,499,222,6/14/2023,43,1290,2%
+LOC918,Dubai Oasis HQ,Ink Cartridges,786,20,9/18/2024,40,1200,2%
+LOC919,Dubai Oasis HQ,Laptops,497,156,9/10/2023,35,1050,12%
+LOC920,Fujairah Distribution,Ink Cartridges,703,183,10/5/2023,13,390,20%
+LOC921,Dubai Oasis HQ,Ink Cartridges,611,152,3/19/2024,15,450,17%
+LOC922,Fujairah Distribution,Ink Cartridges,221,95,1/13/2024,45,1350,19%
+LOC923,Sharjah Warehouse,Paper Supplies,412,53,3/6/2024,31,930,7%
+LOC924,Fujairah Distribution,Office Chairs,248,42,1/31/2024,17,510,15%
+LOC925,Abu Dhabi Central,Ink Cartridges,441,53,1/29/2023,25,750,8%
+LOC926,Abu Dhabi Central,Ink Cartridges,413,103,9/5/2023,18,540,3%
+LOC927,Sharjah Warehouse,Laptops,155,52,6/28/2023,9,270,14%
+LOC928,Fujairah Distribution,Laptops,413,96,5/22/2023,27,810,4%
+LOC929,Fujairah Distribution,Paper Supplies,884,360,11/3/2024,46,1380,5%
+LOC930,Abu Dhabi Central,Monitors,141,34,3/30/2023,39,1170,20%
+LOC931,Abu Dhabi Central,Monitors,367,85,1/24/2024,38,1140,2%
+LOC932,Dubai Oasis HQ,Laptops,98,48,7/26/2023,28,840,17%
+LOC933,Sharjah Warehouse,Office Chairs,125,44,7/1/2023,4,120,16%
+LOC934,Sharjah Warehouse,Paper Supplies,391,83,7/16/2023,31,930,16%
+LOC935,Sharjah Warehouse,Monitors,492,98,1/17/2024,48,1440,20%
+LOC936,Sharjah Warehouse,Ink Cartridges,277,26,8/23/2023,40,1200,12%
+LOC937,Fujairah Distribution,Monitors,533,20,1/16/2023,19,570,18%
+LOC938,Ras Al Khaimah Hub,Office Chairs,349,83,3/26/2023,32,960,9%
+LOC939,Abu Dhabi Central,Monitors,708,258,3/4/2024,4,120,3%
+LOC940,Sharjah Warehouse,Laptops,695,140,9/23/2023,23,690,12%
+LOC941,Ras Al Khaimah Hub,Laptops,946,176,8/8/2023,49,1470,7%
+LOC942,Sharjah Warehouse,Laptops,867,148,9/18/2023,1,30,16%
+LOC943,Sharjah Warehouse,Monitors,104,24,6/12/2023,45,1350,11%
+LOC944,Fujairah Distribution,Laptops,770,45,3/20/2024,9,270,18%
+LOC945,Dubai Oasis HQ,Paper Supplies,307,97,4/15/2023,22,660,13%
+LOC946,Ras Al Khaimah Hub,Laptops,817,123,12/29/2023,41,1230,19%
+LOC947,Ras Al Khaimah Hub,Laptops,349,111,5/12/2023,11,330,10%
+LOC948,Abu Dhabi Central,Paper Supplies,53,18,4/9/2024,1,30,4%
+LOC949,Fujairah Distribution,Monitors,754,216,6/18/2024,9,270,9%
+LOC950,Sharjah Warehouse,Laptops,58,14,3/2/2023,10,300,18%
+LOC951,Sharjah Warehouse,Laptops,778,19,5/2/2024,47,1410,13%
+LOC952,Dubai Oasis HQ,Paper Supplies,930,282,9/11/2023,13,390,18%
+LOC953,Abu Dhabi Central,Ink Cartridges,898,402,5/17/2024,16,480,10%
+LOC954,Ras Al Khaimah Hub,Monitors,846,259,7/18/2024,29,870,15%
+LOC955,Ras Al Khaimah Hub,Ink Cartridges,753,362,10/22/2023,13,390,8%
+LOC956,Sharjah Warehouse,Monitors,102,20,10/8/2023,16,480,3%
+LOC957,Fujairah Distribution,Paper Supplies,196,50,12/21/2023,24,720,16%
+LOC958,Sharjah Warehouse,Monitors,387,165,9/24/2024,19,570,5%
+LOC959,Abu Dhabi Central,Ink Cartridges,401,30,4/25/2023,2,60,5%
+LOC960,Dubai Oasis HQ,Paper Supplies,358,23,7/2/2023,15,450,4%
+LOC961,Abu Dhabi Central,Monitors,258,121,4/5/2023,45,1350,16%
+LOC962,Dubai Oasis HQ,Office Chairs,449,140,4/3/2023,10,300,9%
+LOC963,Sharjah Warehouse,Laptops,572,244,10/2/2023,25,750,14%
+LOC964,Sharjah Warehouse,Office Chairs,555,254,1/24/2024,30,900,5%
+LOC965,Ras Al Khaimah Hub,Office Chairs,171,38,4/29/2023,34,1020,16%
+LOC966,Dubai Oasis HQ,Ink Cartridges,403,135,10/9/2023,12,360,4%
+LOC967,Dubai Oasis HQ,Ink Cartridges,739,157,7/17/2023,22,660,14%
+LOC968,Ras Al Khaimah Hub,Office Chairs,643,81,10/20/2023,43,1290,10%
+LOC969,Abu Dhabi Central,Paper Supplies,183,64,9/19/2023,12,360,5%
+LOC970,Abu Dhabi Central,Monitors,672,166,4/23/2024,9,270,16%
+LOC971,Sharjah Warehouse,Ink Cartridges,963,283,2/27/2023,24,720,3%
+LOC972,Fujairah Distribution,Paper Supplies,928,346,6/6/2024,2,60,2%
+LOC973,Dubai Oasis HQ,Paper Supplies,454,127,6/2/2024,29,870,19%
+LOC974,Sharjah Warehouse,Office Chairs,351,32,8/10/2024,49,1470,19%
+LOC975,Fujairah Distribution,Paper Supplies,780,254,2/21/2023,39,1170,5%
+LOC976,Ras Al Khaimah Hub,Monitors,736,241,10/15/2023,19,570,5%
+LOC977,Sharjah Warehouse,Office Chairs,88,19,11/3/2024,46,1380,10%
+LOC978,Dubai Oasis HQ,Ink Cartridges,969,224,8/22/2024,39,1170,7%
+LOC979,Abu Dhabi Central,Ink Cartridges,301,110,6/23/2024,34,1020,2%
+LOC980,Dubai Oasis HQ,Laptops,769,102,10/27/2023,41,1230,8%
+LOC981,Sharjah Warehouse,Laptops,748,133,12/6/2023,13,390,11%
+LOC982,Fujairah Distribution,Laptops,573,242,5/17/2023,10,300,6%
+LOC983,Dubai Oasis HQ,Paper Supplies,240,99,4/19/2023,14,420,6%
+LOC984,Sharjah Warehouse,Paper Supplies,165,53,2/18/2023,44,1320,1%
+LOC985,Fujairah Distribution,Laptops,886,237,2/15/2023,23,690,5%
+LOC986,Fujairah Distribution,Paper Supplies,901,426,5/23/2024,13,390,2%
+LOC987,Ras Al Khaimah Hub,Office Chairs,137,52,3/11/2024,36,1080,14%
+LOC988,Fujairah Distribution,Office Chairs,168,78,1/30/2024,50,1500,4%
+LOC989,Abu Dhabi Central,Laptops,482,63,4/27/2023,41,1230,9%
+LOC990,Dubai Oasis HQ,Office Chairs,769,376,8/16/2023,18,540,20%
+LOC991,Ras Al Khaimah Hub,Paper Supplies,887,334,11/10/2023,3,90,3%
+LOC992,Abu Dhabi Central,Office Chairs,863,45,5/1/2024,27,810,3%
+LOC993,Fujairah Distribution,Paper Supplies,861,347,6/16/2024,32,960,18%
+LOC994,Ras Al Khaimah Hub,Laptops,628,87,4/13/2024,6,180,8%
+LOC995,Abu Dhabi Central,Paper Supplies,502,163,11/19/2023,19,570,12%
+LOC996,Sharjah Warehouse,Paper Supplies,818,211,3/30/2023,31,930,11%
+LOC997,Ras Al Khaimah Hub,Monitors,594,25,1/17/2023,3,90,18%
+LOC998,Dubai Oasis HQ,Office Chairs,269,57,6/23/2023,28,840,5%
+LOC999,Fujairah Distribution,Monitors,301,136,12/3/2023,13,390,5%
+LOC1000,Fujairah Distribution,Paper Supplies,370,98,7/28/2024,38,1140,18%

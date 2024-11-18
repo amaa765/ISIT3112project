@@ -1,0 +1,1001 @@
+Transaction ID,Company Name,Transaction Date,Revenue (AED),Cost of Goods Sold (AED),Gross Profit (AED),Operating Expenses (AED),Net Profit (AED),Account Manager,Department,Payment Method,Invoice Number,Payment Status,Comments
+1001,Company D,2023-12-30,274865,216979,57886,29600,28286,Emily Davis,HR,Cash,INV-1001,Pending,Check details
+1002,Company A,2023-11-08,200982,86640,114342,59439,54903,Alice Brown,Marketing,Bank Transfer,INV-1002,Overdue,-
+1003,Company A,2024-03-12,664800,226660,438140,282848,155292,Alice Brown,Sales,Online,INV-1003,Pending,Check details
+1004,Company B,2023-05-21,231100,143234,87866,57124,30742,John Doe,Marketing,Credit Card,INV-1004,Paid,Urgent payment
+1005,Company C,2024-02-09,875394,707115,168279,126451,41828,John Doe,HR,Cash,INV-1005,Overdue,-
+1006,Company A,2024-05-23,577679,408001,169678,86141,83537,Robert Johnson,Marketing,Online,INV-1006,Paid,Check details
+1007,Company D,2024-11-14,586799,477483,109316,47790,61526,Emily Davis,IT,Cash,INV-1007,Paid,Urgent payment
+1008,Company D,2023-09-09,243202,84645,158557,68280,90277,Emily Davis,HR,Cash,INV-1008,Overdue,Urgent payment
+1009,Company C,2023-05-17,775451,257498,517953,377351,140602,Emily Davis,Finance,Bank Transfer,INV-1009,Pending,Check details
+1010,Company D,2024-05-29,180737,123377,57360,23952,33408,Alice Brown,Sales,Credit Card,INV-1010,Paid,Priority client
+1011,Company B,2023-10-02,326257,169314,156943,118699,38244,Alice Brown,HR,Credit Card,INV-1011,Paid,Priority client
+1012,Company C,2024-04-16,599353,168743,430610,46052,384558,Alice Brown,IT,Credit Card,INV-1012,Overdue,Check details
+1013,Company C,2023-03-04,209315,82390,126925,49444,77481,Alice Brown,HR,Online,INV-1013,Overdue,Check details
+1014,Company D,2024-10-18,661106,315192,345914,140272,205642,Robert Johnson,Marketing,Online,INV-1014,Paid,Priority client
+1015,Company D,2024-06-09,712891,139503,573388,252330,321058,Alice Brown,Marketing,Check,INV-1015,Pending,-
+1016,Company A,2023-02-18,878228,700234,177994,96574,81420,John Doe,Marketing,Credit Card,INV-1016,Paid,Urgent payment
+1017,Company E,2024-08-24,764632,75808,688824,370648,318176,Emily Davis,Marketing,Bank Transfer,INV-1017,Paid,Check details
+1018,Company C,2024-08-31,440177,76830,363347,336869,26478,Jane Smith,Finance,Credit Card,INV-1018,Overdue,Urgent payment
+1019,Company D,2024-02-05,640524,289685,350839,322330,28509,Alice Brown,HR,Bank Transfer,INV-1019,Paid,Urgent payment
+1020,Company B,2024-02-18,871694,378714,492980,34819,458161,Robert Johnson,Finance,Online,INV-1020,Paid,-
+1021,Company A,2024-03-23,822435,100050,722385,582928,139457,Alice Brown,Sales,Online,INV-1021,Paid,-
+1022,Company A,2024-01-12,908688,221497,687191,519809,167382,Robert Johnson,Finance,Cash,INV-1022,Pending,Priority client
+1023,Company E,2024-01-08,367612,50521,317091,158992,158099,John Doe,Sales,Online,INV-1023,Pending,-
+1024,Company A,2023-06-25,922674,445499,477175,404959,72216,Robert Johnson,Sales,Check,INV-1024,Paid,Check details
+1025,Company A,2023-05-27,178629,62314,116315,84179,32136,Jane Smith,IT,Credit Card,INV-1025,Pending,Check details
+1026,Company D,2023-10-02,368194,177223,190971,101853,89118,Alice Brown,Finance,Credit Card,INV-1026,Pending,Priority client
+1027,Company A,2023-12-30,867024,198119,668905,179779,489126,Alice Brown,Finance,Check,INV-1027,Pending,Priority client
+1028,Company D,2024-05-15,750061,533971,216090,100467,115623,Robert Johnson,HR,Check,INV-1028,Overdue,Priority client
+1029,Company B,2024-03-11,778492,646920,131572,82582,48990,Robert Johnson,Sales,Online,INV-1029,Pending,-
+1030,Company B,2023-09-06,927242,731961,195281,93473,101808,Jane Smith,Marketing,Credit Card,INV-1030,Pending,Priority client
+1031,Company A,2023-08-14,502270,306878,195392,170749,24643,John Doe,Marketing,Credit Card,INV-1031,Paid,Check details
+1032,Company D,2023-06-05,111592,59663,51929,31781,20148,Emily Davis,Sales,Online,INV-1032,Pending,Check details
+1033,Company A,2023-06-09,361125,135172,225953,89858,136095,John Doe,HR,Online,INV-1033,Paid,Check details
+1034,Company C,2023-07-09,723956,53961,669995,375980,294015,John Doe,Sales,Check,INV-1034,Overdue,Urgent payment
+1035,Company E,2023-10-10,260683,64862,195821,70461,125360,Robert Johnson,IT,Cash,INV-1035,Overdue,-
+1036,Company D,2023-01-06,426888,336688,90200,57101,33099,Jane Smith,Marketing,Cash,INV-1036,Paid,Check details
+1037,Company E,2024-06-07,262649,196372,66277,28996,37281,Emily Davis,IT,Bank Transfer,INV-1037,Overdue,Priority client
+1038,Company E,2023-06-14,549773,404377,145396,63994,81402,Emily Davis,Finance,Bank Transfer,INV-1038,Paid,Urgent payment
+1039,Company E,2024-10-04,983974,231500,752474,696628,55846,Robert Johnson,Marketing,Credit Card,INV-1039,Overdue,Urgent payment
+1040,Company D,2023-05-15,430186,223532,206654,48925,157729,Robert Johnson,HR,Cash,INV-1040,Overdue,Priority client
+1041,Company A,2023-08-27,735923,266545,469378,305463,163915,Emily Davis,HR,Check,INV-1041,Overdue,Priority client
+1042,Company A,2024-02-28,144108,63860,80248,22364,57884,Robert Johnson,HR,Cash,INV-1042,Pending,Priority client
+1043,Company C,2023-05-12,221770,93825,127945,90499,37446,John Doe,HR,Online,INV-1043,Pending,-
+1044,Company C,2023-11-16,198892,122293,76599,31117,45482,Robert Johnson,Sales,Credit Card,INV-1044,Overdue,-
+1045,Company E,2023-11-27,533693,261382,272311,218218,54093,Robert Johnson,Sales,Online,INV-1045,Overdue,-
+1046,Company E,2023-11-01,458757,120376,338381,220690,117691,Robert Johnson,Sales,Credit Card,INV-1046,Overdue,Check details
+1047,Company D,2024-08-17,670720,297542,373178,80044,293134,Robert Johnson,Finance,Credit Card,INV-1047,Paid,Urgent payment
+1048,Company E,2024-08-19,464009,102683,361326,194544,166782,Emily Davis,Marketing,Cash,INV-1048,Overdue,Priority client
+1049,Company D,2023-07-18,844832,167779,677053,154921,522132,Emily Davis,Sales,Credit Card,INV-1049,Overdue,-
+1050,Company B,2024-05-01,672984,489666,183318,146245,37073,Emily Davis,IT,Online,INV-1050,Paid,-
+1051,Company A,2023-09-22,498012,126261,371751,220434,151317,Jane Smith,Marketing,Online,INV-1051,Overdue,Urgent payment
+1052,Company A,2024-09-27,990003,340841,649162,523899,125263,Alice Brown,HR,Cash,INV-1052,Paid,Priority client
+1053,Company E,2023-05-16,974665,820708,153957,122573,31384,Robert Johnson,Finance,Cash,INV-1053,Pending,Check details
+1054,Company A,2023-02-17,499675,66783,432892,71948,360944,John Doe,Sales,Bank Transfer,INV-1054,Overdue,Priority client
+1055,Company C,2024-06-23,156584,94273,62311,27807,34504,John Doe,Marketing,Bank Transfer,INV-1055,Paid,Check details
+1056,Company B,2024-05-15,532733,362642,170091,105199,64892,Jane Smith,Sales,Online,INV-1056,Overdue,Priority client
+1057,Company C,2024-02-20,904432,220705,683727,358157,325570,Jane Smith,Sales,Cash,INV-1057,Overdue,Check details
+1058,Company D,2023-03-05,631696,502609,129087,107948,21139,Emily Davis,IT,Bank Transfer,INV-1058,Overdue,Priority client
+1059,Company A,2023-08-06,419643,185801,233842,206502,27340,Jane Smith,Finance,Check,INV-1059,Paid,Priority client
+1060,Company D,2023-03-09,407366,299679,107687,83333,24354,Emily Davis,HR,Cash,INV-1060,Overdue,-
+1061,Company D,2023-01-13,314276,170347,143929,102745,41184,Jane Smith,Marketing,Bank Transfer,INV-1061,Paid,Check details
+1062,Company A,2023-09-17,561013,194364,366649,141297,225352,Emily Davis,Marketing,Cash,INV-1062,Pending,Urgent payment
+1063,Company E,2023-04-21,166407,56663,109744,22242,87502,Robert Johnson,Sales,Credit Card,INV-1063,Pending,Check details
+1064,Company C,2023-10-26,773093,84864,688229,235558,452671,Alice Brown,Sales,Cash,INV-1064,Paid,-
+1065,Company B,2024-11-15,818278,238965,579313,91990,487323,Jane Smith,Finance,Check,INV-1065,Pending,Urgent payment
+1066,Company E,2023-05-12,232172,118977,113195,29460,83735,Emily Davis,IT,Cash,INV-1066,Overdue,Priority client
+1067,Company A,2024-09-01,128707,53526,75181,30540,44641,Alice Brown,Marketing,Bank Transfer,INV-1067,Pending,Check details
+1068,Company C,2023-07-08,910913,707654,203259,55673,147586,John Doe,IT,Cash,INV-1068,Paid,Check details
+1069,Company E,2023-01-29,959291,183113,776178,105297,670881,John Doe,Finance,Credit Card,INV-1069,Overdue,Urgent payment
+1070,Company D,2023-03-30,679906,245707,434199,274496,159703,Robert Johnson,IT,Credit Card,INV-1070,Paid,Urgent payment
+1071,Company B,2023-09-18,192048,58918,133130,35921,97209,Jane Smith,Finance,Check,INV-1071,Pending,Urgent payment
+1072,Company B,2023-07-09,967828,203042,764786,127545,637241,Jane Smith,HR,Credit Card,INV-1072,Paid,Urgent payment
+1073,Company D,2024-07-16,437672,220781,216891,127010,89881,Robert Johnson,HR,Bank Transfer,INV-1073,Overdue,-
+1074,Company C,2023-11-01,835171,659601,175570,53114,122456,John Doe,IT,Cash,INV-1074,Overdue,-
+1075,Company A,2024-01-30,435887,121111,314776,37403,277373,Robert Johnson,IT,Online,INV-1075,Overdue,Priority client
+1076,Company B,2023-10-08,877057,409243,467814,123468,344346,Emily Davis,Marketing,Bank Transfer,INV-1076,Paid,Urgent payment
+1077,Company B,2023-05-06,434257,61258,372999,238788,134211,Emily Davis,Sales,Credit Card,INV-1077,Overdue,Urgent payment
+1078,Company A,2023-06-13,958009,857693,100316,46627,53689,Robert Johnson,Marketing,Check,INV-1078,Paid,Urgent payment
+1079,Company A,2023-08-19,756464,441148,315316,112819,202497,Robert Johnson,HR,Online,INV-1079,Overdue,Priority client
+1080,Company D,2023-12-04,195388,136458,58930,37805,21125,Jane Smith,HR,Check,INV-1080,Paid,Check details
+1081,Company A,2023-08-03,619795,93039,526756,46438,480318,Emily Davis,Sales,Credit Card,INV-1081,Pending,Urgent payment
+1082,Company C,2023-05-18,169212,65774,103438,22380,81058,Emily Davis,HR,Credit Card,INV-1082,Overdue,Check details
+1083,Company C,2024-03-02,840160,87943,752217,420483,331734,John Doe,Finance,Check,INV-1083,Overdue,-
+1084,Company E,2023-07-15,707333,555979,151354,85642,65712,Robert Johnson,Marketing,Online,INV-1084,Overdue,Check details
+1085,Company B,2023-03-31,990580,655777,334803,159605,175198,Robert Johnson,HR,Credit Card,INV-1085,Overdue,Priority client
+1086,Company C,2024-05-29,891380,755201,136179,58862,77317,Jane Smith,Finance,Check,INV-1086,Paid,Check details
+1087,Company C,2024-08-24,919470,630810,288660,199824,88836,Alice Brown,Finance,Bank Transfer,INV-1087,Overdue,-
+1088,Company C,2024-08-27,163930,99227,64703,38085,26618,Jane Smith,Sales,Credit Card,INV-1088,Pending,Check details
+1089,Company D,2024-05-29,557012,446453,110559,48418,62141,Jane Smith,HR,Credit Card,INV-1089,Pending,Priority client
+1090,Company D,2023-12-20,722297,552416,169881,44596,125285,Alice Brown,IT,Cash,INV-1090,Overdue,Urgent payment
+1091,Company A,2024-03-29,118767,68492,50275,25610,24665,Jane Smith,Marketing,Online,INV-1091,Overdue,-
+1092,Company A,2024-04-03,186724,63010,123714,32473,91241,John Doe,Finance,Check,INV-1092,Paid,-
+1093,Company C,2023-08-11,673072,447894,225178,99883,125295,John Doe,Finance,Online,INV-1093,Paid,Urgent payment
+1094,Company C,2024-04-28,357460,126415,231045,46660,184385,Emily Davis,HR,Bank Transfer,INV-1094,Paid,Check details
+1095,Company C,2024-04-24,560399,425585,134814,28645,106169,Jane Smith,IT,Online,INV-1095,Overdue,Urgent payment
+1096,Company D,2024-06-06,732890,224286,508604,430202,78402,Emily Davis,Marketing,Credit Card,INV-1096,Pending,Check details
+1097,Company A,2024-01-07,843185,187999,655186,390801,264385,Alice Brown,IT,Credit Card,INV-1097,Overdue,Check details
+1098,Company A,2024-08-06,111049,51699,59350,38488,20862,Jane Smith,Marketing,Credit Card,INV-1098,Paid,Urgent payment
+1099,Company C,2023-05-23,431333,103487,327846,83017,244829,Robert Johnson,IT,Online,INV-1099,Overdue,Priority client
+1100,Company A,2023-07-14,436791,155250,281541,211028,70513,Robert Johnson,Finance,Credit Card,INV-1100,Paid,Check details
+1101,Company D,2023-07-22,332012,241593,90419,34569,55850,Alice Brown,Marketing,Check,INV-1101,Paid,Urgent payment
+1102,Company B,2024-07-04,429752,161550,268202,134514,133688,John Doe,IT,Cash,INV-1102,Paid,Check details
+1103,Company D,2023-02-25,444452,124309,320143,181317,138826,Robert Johnson,Finance,Bank Transfer,INV-1103,Paid,-
+1104,Company C,2024-02-03,819311,704310,115001,73607,41394,Emily Davis,Finance,Online,INV-1104,Pending,Urgent payment
+1105,Company B,2023-11-20,232438,51773,180665,65081,115584,Emily Davis,IT,Cash,INV-1105,Overdue,Check details
+1106,Company A,2024-08-17,267126,124583,142543,87251,55292,Alice Brown,Marketing,Credit Card,INV-1106,Overdue,Check details
+1107,Company B,2024-07-30,665532,194657,470875,290339,180536,Jane Smith,Marketing,Bank Transfer,INV-1107,Pending,Urgent payment
+1108,Company E,2023-11-19,199270,117927,81343,25953,55390,Alice Brown,HR,Cash,INV-1108,Pending,Check details
+1109,Company D,2023-06-08,456507,105244,351263,96022,255241,Robert Johnson,Finance,Cash,INV-1109,Paid,Priority client
+1110,Company B,2024-06-12,143497,77301,66196,29533,36663,Robert Johnson,HR,Credit Card,INV-1110,Paid,Urgent payment
+1111,Company E,2024-06-14,454098,133155,320943,199317,121626,John Doe,Finance,Online,INV-1111,Pending,Check details
+1112,Company A,2024-10-31,897714,652411,245303,165416,79887,Alice Brown,Sales,Bank Transfer,INV-1112,Pending,Priority client
+1113,Company A,2023-12-20,840391,157060,683331,557527,125804,Emily Davis,HR,Credit Card,INV-1113,Paid,Urgent payment
+1114,Company E,2024-10-13,176349,113416,62933,37978,24955,John Doe,Sales,Bank Transfer,INV-1114,Overdue,-
+1115,Company D,2023-04-02,933304,493311,439993,38699,401294,John Doe,Marketing,Bank Transfer,INV-1115,Pending,Check details
+1116,Company C,2024-09-06,583040,219279,363761,290293,73468,Emily Davis,Sales,Online,INV-1116,Pending,Urgent payment
+1117,Company C,2023-04-24,543100,343614,199486,113684,85802,John Doe,Finance,Bank Transfer,INV-1117,Overdue,Urgent payment
+1118,Company C,2023-09-13,386389,298134,88255,34773,53482,Emily Davis,HR,Online,INV-1118,Overdue,Urgent payment
+1119,Company D,2023-07-05,790936,360588,430348,348531,81817,John Doe,HR,Online,INV-1119,Paid,Check details
+1120,Company A,2023-03-09,683778,92712,591066,95845,495221,Alice Brown,Finance,Online,INV-1120,Pending,Check details
+1121,Company A,2024-07-23,337383,90794,246589,211711,34878,Robert Johnson,Marketing,Cash,INV-1121,Pending,Priority client
+1122,Company B,2024-02-11,755307,433413,321894,280417,41477,Alice Brown,Marketing,Online,INV-1122,Overdue,Check details
+1123,Company D,2023-06-20,344695,116946,227749,146142,81607,Emily Davis,Finance,Cash,INV-1123,Overdue,Check details
+1124,Company C,2023-10-06,794371,477168,317203,131957,185246,Alice Brown,Marketing,Bank Transfer,INV-1124,Pending,Check details
+1125,Company A,2023-06-29,493953,427858,66095,21234,44861,Robert Johnson,Sales,Check,INV-1125,Pending,Urgent payment
+1126,Company C,2023-06-25,174380,70745,103635,26683,76952,Jane Smith,HR,Online,INV-1126,Overdue,Priority client
+1127,Company D,2023-01-14,372115,287917,84198,46010,38188,John Doe,HR,Check,INV-1127,Pending,Priority client
+1128,Company E,2024-10-26,368963,284960,84003,52485,31518,Jane Smith,HR,Online,INV-1128,Paid,-
+1129,Company D,2024-09-11,243128,63288,179840,151538,28302,Jane Smith,Marketing,Online,INV-1129,Overdue,Priority client
+1130,Company D,2023-10-27,442873,268773,174100,69720,104380,Emily Davis,IT,Check,INV-1130,Pending,Urgent payment
+1131,Company D,2023-05-28,554429,381531,172898,109350,63548,Emily Davis,Marketing,Credit Card,INV-1131,Pending,Check details
+1132,Company A,2023-03-04,651074,122157,528917,21991,506926,Emily Davis,IT,Cash,INV-1132,Pending,-
+1133,Company E,2024-06-10,256725,162339,94386,56164,38222,Jane Smith,HR,Online,INV-1133,Overdue,Urgent payment
+1134,Company A,2024-09-15,446729,219439,227290,165291,61999,Emily Davis,HR,Credit Card,INV-1134,Pending,Priority client
+1135,Company C,2023-12-17,424420,133113,291307,244190,47117,Alice Brown,Marketing,Online,INV-1135,Paid,Priority client
+1136,Company C,2024-07-30,423475,76625,346850,101057,245793,Jane Smith,Marketing,Online,INV-1136,Overdue,Check details
+1137,Company B,2023-10-06,103812,50340,53472,20088,33384,Emily Davis,Sales,Online,INV-1137,Overdue,Urgent payment
+1138,Company C,2024-11-09,173711,93160,80551,41113,39438,Robert Johnson,HR,Bank Transfer,INV-1138,Pending,Priority client
+1139,Company A,2024-10-04,554187,70031,484156,239543,244613,Jane Smith,Sales,Check,INV-1139,Overdue,Priority client
+1140,Company A,2023-10-01,280433,167461,112972,70055,42917,Robert Johnson,Finance,Check,INV-1140,Overdue,Check details
+1141,Company D,2023-02-10,661986,440920,221066,125181,95885,Robert Johnson,IT,Online,INV-1141,Overdue,-
+1142,Company A,2024-02-08,714988,249687,465301,440811,24490,Jane Smith,HR,Check,INV-1142,Overdue,Urgent payment
+1143,Company B,2023-11-20,391417,309899,81518,47905,33613,John Doe,HR,Cash,INV-1143,Pending,-
+1144,Company D,2024-07-25,545683,69258,476425,113722,362703,Alice Brown,Finance,Credit Card,INV-1144,Overdue,Priority client
+1145,Company E,2023-10-11,907706,691984,215722,173840,41882,Jane Smith,Sales,Check,INV-1145,Pending,-
+1146,Company C,2023-05-23,180029,77154,102875,43979,58896,Jane Smith,Sales,Bank Transfer,INV-1146,Overdue,-
+1147,Company A,2023-01-12,394533,149408,245125,159248,85877,Jane Smith,Sales,Bank Transfer,INV-1147,Overdue,Priority client
+1148,Company A,2023-04-23,504814,424261,80553,37089,43464,Jane Smith,Finance,Online,INV-1148,Pending,Urgent payment
+1149,Company C,2024-10-28,465604,179581,286023,245690,40333,John Doe,Sales,Credit Card,INV-1149,Pending,-
+1150,Company B,2023-07-10,736476,207726,528750,381463,147287,John Doe,IT,Credit Card,INV-1150,Overdue,-
+1151,Company A,2023-12-22,554562,499140,55422,20089,35333,John Doe,Finance,Bank Transfer,INV-1151,Overdue,-
+1152,Company A,2024-05-31,239117,173444,65673,45176,20497,Robert Johnson,IT,Bank Transfer,INV-1152,Pending,-
+1153,Company E,2024-07-12,194846,59140,135706,86039,49667,Emily Davis,Marketing,Check,INV-1153,Pending,-
+1154,Company D,2023-06-10,510543,405858,104685,54396,50289,Alice Brown,Marketing,Online,INV-1154,Paid,Check details
+1155,Company B,2024-07-19,787596,567764,219832,30976,188856,Jane Smith,Marketing,Check,INV-1155,Overdue,Check details
+1156,Company E,2023-02-28,524586,472291,52295,29187,23108,Alice Brown,Sales,Online,INV-1156,Paid,-
+1157,Company D,2023-07-17,962211,594069,368142,80623,287519,Jane Smith,Finance,Check,INV-1157,Paid,-
+1158,Company B,2024-11-08,580944,202464,378480,120039,258441,John Doe,Marketing,Bank Transfer,INV-1158,Overdue,-
+1159,Company C,2023-02-05,940923,265487,675436,462314,213122,Robert Johnson,HR,Check,INV-1159,Pending,Priority client
+1160,Company B,2024-11-01,485657,357429,128228,32798,95430,Emily Davis,HR,Cash,INV-1160,Pending,-
+1161,Company C,2024-10-18,153426,71686,81740,55544,26196,Jane Smith,Marketing,Cash,INV-1161,Paid,Priority client
+1162,Company B,2023-11-11,543999,125934,418065,102614,315451,Alice Brown,IT,Check,INV-1162,Overdue,Priority client
+1163,Company C,2023-02-27,676377,52472,623905,50553,573352,Emily Davis,IT,Bank Transfer,INV-1163,Overdue,Urgent payment
+1164,Company D,2023-02-07,181629,62152,119477,96729,22748,Robert Johnson,HR,Online,INV-1164,Paid,Priority client
+1165,Company C,2024-07-02,933026,230830,702196,168902,533294,Alice Brown,HR,Cash,INV-1165,Paid,Priority client
+1166,Company D,2023-05-19,492016,400232,91784,64752,27032,Emily Davis,HR,Bank Transfer,INV-1166,Overdue,Urgent payment
+1167,Company A,2023-03-17,263423,95184,168239,95358,72881,Robert Johnson,Sales,Check,INV-1167,Pending,Check details
+1168,Company A,2024-05-28,810093,59003,751090,505614,245476,Jane Smith,Finance,Online,INV-1168,Pending,Priority client
+1169,Company D,2024-08-13,900245,501647,398598,72414,326184,Emily Davis,Finance,Check,INV-1169,Overdue,Check details
+1170,Company B,2023-05-04,517041,190912,326129,109688,216441,Emily Davis,HR,Cash,INV-1170,Pending,Priority client
+1171,Company D,2023-04-09,210989,79934,131055,86794,44261,Alice Brown,Finance,Cash,INV-1171,Paid,Urgent payment
+1172,Company A,2024-10-05,654785,472996,181789,130116,51673,John Doe,Finance,Online,INV-1172,Pending,-
+1173,Company A,2023-09-16,194305,70691,123614,85939,37675,Jane Smith,IT,Cash,INV-1173,Pending,Priority client
+1174,Company A,2024-03-09,159103,107896,51207,27400,23807,Jane Smith,IT,Cash,INV-1174,Paid,-
+1175,Company D,2024-05-19,357370,265542,91828,22476,69352,Jane Smith,HR,Credit Card,INV-1175,Overdue,-
+1176,Company D,2024-07-07,345158,80973,264185,157612,106573,Robert Johnson,Marketing,Online,INV-1176,Paid,Priority client
+1177,Company D,2023-02-23,560664,256880,303784,72827,230957,Robert Johnson,Finance,Check,INV-1177,Overdue,Check details
+1178,Company C,2024-07-06,317838,216941,100897,78993,21904,Robert Johnson,IT,Online,INV-1178,Paid,Urgent payment
+1179,Company C,2024-06-13,539408,257015,282393,93579,188814,Emily Davis,IT,Credit Card,INV-1179,Pending,-
+1180,Company B,2024-03-09,468541,78608,389933,278694,111239,Jane Smith,Finance,Online,INV-1180,Overdue,Urgent payment
+1181,Company C,2024-01-11,139785,89388,50397,20517,29880,Jane Smith,Sales,Check,INV-1181,Pending,Check details
+1182,Company D,2024-05-18,594390,168223,426167,210038,216129,Jane Smith,Sales,Bank Transfer,INV-1182,Overdue,-
+1183,Company E,2023-06-20,909496,91565,817931,741270,76661,Alice Brown,Sales,Bank Transfer,INV-1183,Overdue,Check details
+1184,Company A,2024-09-12,208916,113270,95646,60630,35016,John Doe,HR,Credit Card,INV-1184,Overdue,-
+1185,Company D,2023-09-02,493137,213017,280120,259325,20795,Robert Johnson,Finance,Check,INV-1185,Overdue,Priority client
+1186,Company D,2024-04-22,477603,286058,191545,161551,29994,Robert Johnson,Marketing,Cash,INV-1186,Overdue,Urgent payment
+1187,Company C,2023-02-08,375377,153102,222275,136694,85581,Alice Brown,IT,Bank Transfer,INV-1187,Overdue,Check details
+1188,Company E,2024-04-17,240837,78613,162224,56536,105688,Robert Johnson,Finance,Online,INV-1188,Paid,Priority client
+1189,Company B,2023-03-18,291737,152308,139429,36407,103022,Robert Johnson,HR,Bank Transfer,INV-1189,Overdue,Urgent payment
+1190,Company D,2023-06-16,379127,166195,212932,36769,176163,Robert Johnson,Marketing,Bank Transfer,INV-1190,Overdue,-
+1191,Company A,2024-10-02,114584,57209,57375,23088,34287,Alice Brown,HR,Cash,INV-1191,Overdue,Check details
+1192,Company B,2024-04-24,534915,326227,208688,27589,181099,Jane Smith,Finance,Online,INV-1192,Overdue,Urgent payment
+1193,Company E,2024-09-27,850566,516058,334508,220830,113678,Jane Smith,IT,Online,INV-1193,Pending,Check details
+1194,Company C,2023-01-08,572574,495070,77504,27618,49886,Alice Brown,HR,Cash,INV-1194,Overdue,Check details
+1195,Company B,2023-06-19,783244,637019,146225,63596,82629,John Doe,Marketing,Credit Card,INV-1195,Pending,Urgent payment
+1196,Company E,2023-03-09,663046,502048,160998,85228,75770,Emily Davis,IT,Cash,INV-1196,Pending,Check details
+1197,Company C,2024-01-02,591981,180136,411845,343732,68113,John Doe,Sales,Bank Transfer,INV-1197,Pending,Priority client
+1198,Company C,2023-12-07,484695,229876,254819,145087,109732,Robert Johnson,IT,Bank Transfer,INV-1198,Pending,Urgent payment
+1199,Company C,2024-09-07,438015,164288,273727,110600,163127,Emily Davis,IT,Bank Transfer,INV-1199,Pending,Check details
+1200,Company C,2024-08-19,532213,411906,120307,91460,28847,Jane Smith,Marketing,Credit Card,INV-1200,Overdue,Urgent payment
+1201,Company D,2023-03-10,410342,338947,71395,50478,20917,Alice Brown,Sales,Cash,INV-1201,Overdue,-
+1202,Company D,2024-02-18,618538,266846,351692,40957,310735,Alice Brown,IT,Bank Transfer,INV-1202,Pending,Check details
+1203,Company C,2023-10-24,510709,85721,424988,37205,387783,Jane Smith,IT,Bank Transfer,INV-1203,Overdue,Urgent payment
+1204,Company A,2023-04-04,385035,80557,304478,26295,278183,John Doe,Sales,Bank Transfer,INV-1204,Pending,Urgent payment
+1205,Company C,2023-06-21,520871,308545,212326,115521,96805,Jane Smith,Sales,Check,INV-1205,Overdue,Urgent payment
+1206,Company E,2024-03-21,361771,69932,291839,25251,266588,Alice Brown,Marketing,Bank Transfer,INV-1206,Pending,Check details
+1207,Company E,2024-05-24,600883,202385,398498,109918,288580,Jane Smith,Finance,Cash,INV-1207,Pending,-
+1208,Company D,2024-10-10,453974,349798,104176,44533,59643,Jane Smith,Marketing,Check,INV-1208,Overdue,-
+1209,Company A,2023-06-03,571482,228147,343335,161190,182145,Alice Brown,IT,Check,INV-1209,Overdue,Check details
+1210,Company D,2024-04-24,663811,537710,126101,86689,39412,Emily Davis,IT,Bank Transfer,INV-1210,Paid,-
+1211,Company B,2024-01-25,266605,105515,161090,26301,134789,John Doe,Finance,Cash,INV-1211,Paid,Priority client
+1212,Company A,2023-05-19,957986,771826,186160,148279,37881,Emily Davis,Sales,Bank Transfer,INV-1212,Overdue,Urgent payment
+1213,Company C,2023-09-21,879223,142969,736254,713354,22900,Robert Johnson,Finance,Online,INV-1213,Overdue,Urgent payment
+1214,Company D,2023-08-24,342181,189229,152952,94846,58106,Jane Smith,Finance,Bank Transfer,INV-1214,Overdue,Check details
+1215,Company C,2023-09-29,356120,282865,73255,48356,24899,John Doe,Finance,Check,INV-1215,Paid,-
+1216,Company C,2024-02-26,390100,259734,130366,101061,29305,Robert Johnson,IT,Cash,INV-1216,Pending,Check details
+1217,Company E,2023-04-04,407029,90864,316165,279949,36216,John Doe,IT,Credit Card,INV-1217,Overdue,Priority client
+1218,Company A,2024-05-22,363408,78189,285219,239476,45743,John Doe,Finance,Online,INV-1218,Paid,Urgent payment
+1219,Company A,2023-12-22,423690,209262,214428,143873,70555,Jane Smith,Sales,Cash,INV-1219,Paid,Urgent payment
+1220,Company D,2024-11-02,661294,185028,476266,356657,119609,Emily Davis,HR,Check,INV-1220,Pending,Priority client
+1221,Company D,2024-06-15,380272,140559,239713,78771,160942,Emily Davis,Finance,Online,INV-1221,Paid,Check details
+1222,Company E,2024-09-28,979651,464516,515135,386488,128647,John Doe,Marketing,Cash,INV-1222,Overdue,Check details
+1223,Company D,2024-06-13,475572,175773,299799,91033,208766,Emily Davis,HR,Bank Transfer,INV-1223,Overdue,Priority client
+1224,Company C,2023-11-04,907060,761528,145532,92824,52708,Emily Davis,Marketing,Bank Transfer,INV-1224,Paid,-
+1225,Company C,2024-08-17,204294,104917,99377,57468,41909,Alice Brown,Sales,Online,INV-1225,Overdue,Check details
+1226,Company E,2024-05-09,837888,137219,700669,504854,195815,Emily Davis,HR,Credit Card,INV-1226,Overdue,Check details
+1227,Company E,2023-01-15,518589,283256,235333,211479,23854,Emily Davis,Sales,Credit Card,INV-1227,Pending,-
+1228,Company D,2024-07-04,835039,551657,283382,213871,69511,Robert Johnson,Sales,Check,INV-1228,Overdue,-
+1229,Company B,2024-05-22,480499,297330,183169,91989,91180,Robert Johnson,Marketing,Credit Card,INV-1229,Overdue,Priority client
+1230,Company D,2024-09-01,724198,660014,64184,24429,39755,Emily Davis,Finance,Cash,INV-1230,Overdue,-
+1231,Company D,2023-03-28,967881,744502,223379,105481,117898,Emily Davis,Sales,Credit Card,INV-1231,Overdue,Check details
+1232,Company B,2024-10-11,913892,193566,720326,27348,692978,Robert Johnson,Sales,Credit Card,INV-1232,Pending,-
+1233,Company B,2024-08-04,581668,318204,263464,187192,76272,Emily Davis,Sales,Cash,INV-1233,Overdue,Check details
+1234,Company E,2023-03-21,923442,204443,718999,369143,349856,Emily Davis,HR,Check,INV-1234,Overdue,-
+1235,Company B,2024-08-29,389719,245640,144079,41133,102946,Jane Smith,Marketing,Online,INV-1235,Pending,Check details
+1236,Company E,2024-04-25,847897,147959,699938,179294,520644,Robert Johnson,Sales,Credit Card,INV-1236,Paid,Check details
+1237,Company B,2023-10-21,937342,280972,656370,392659,263711,John Doe,Marketing,Bank Transfer,INV-1237,Paid,Check details
+1238,Company D,2023-07-15,561416,149750,411666,285476,126190,John Doe,Marketing,Bank Transfer,INV-1238,Overdue,Priority client
+1239,Company B,2023-09-07,313554,176438,137116,98005,39111,Alice Brown,Sales,Bank Transfer,INV-1239,Overdue,Priority client
+1240,Company D,2023-06-21,711736,646072,65664,41331,24333,Robert Johnson,IT,Cash,INV-1240,Paid,Check details
+1241,Company D,2024-01-17,629919,346011,283908,185577,98331,Alice Brown,IT,Bank Transfer,INV-1241,Pending,Urgent payment
+1242,Company D,2023-08-11,495989,174166,321823,216677,105146,Robert Johnson,IT,Credit Card,INV-1242,Overdue,-
+1243,Company E,2023-08-31,257061,135808,121253,33826,87427,Robert Johnson,Marketing,Online,INV-1243,Pending,-
+1244,Company C,2024-02-24,464400,90169,374231,335051,39180,Emily Davis,Sales,Credit Card,INV-1244,Paid,-
+1245,Company B,2023-05-28,600855,436857,163998,103935,60063,Robert Johnson,HR,Credit Card,INV-1245,Overdue,-
+1246,Company A,2024-09-04,696574,487623,208951,93255,115696,Robert Johnson,Marketing,Credit Card,INV-1246,Paid,Urgent payment
+1247,Company A,2023-01-26,739185,363403,375782,336731,39051,John Doe,Marketing,Cash,INV-1247,Paid,-
+1248,Company B,2023-08-29,234821,51141,183680,37317,146363,Emily Davis,IT,Check,INV-1248,Paid,Check details
+1249,Company E,2024-06-06,889452,193897,695555,206385,489170,Alice Brown,Sales,Cash,INV-1249,Pending,Check details
+1250,Company C,2023-05-22,383080,271658,111422,29084,82338,John Doe,Marketing,Credit Card,INV-1250,Pending,-
+1251,Company A,2023-04-25,867302,267878,599424,315897,283527,Alice Brown,Finance,Cash,INV-1251,Overdue,Priority client
+1252,Company B,2023-05-15,165987,100994,64993,28638,36355,Emily Davis,Finance,Online,INV-1252,Pending,Check details
+1253,Company B,2024-04-24,136029,64871,71158,49985,21173,Robert Johnson,Sales,Cash,INV-1253,Pending,Priority client
+1254,Company C,2024-08-04,719646,661202,58444,30369,28075,John Doe,IT,Check,INV-1254,Overdue,-
+1255,Company C,2023-06-03,364329,53992,310337,20505,289832,Robert Johnson,Marketing,Bank Transfer,INV-1255,Paid,Urgent payment
+1256,Company C,2023-09-11,148495,82681,65814,40342,25472,John Doe,Finance,Credit Card,INV-1256,Paid,Urgent payment
+1257,Company E,2023-03-27,190116,107099,83017,56389,26628,Emily Davis,IT,Check,INV-1257,Pending,-
+1258,Company A,2023-08-11,859120,156474,702646,294932,407714,John Doe,HR,Online,INV-1258,Overdue,Check details
+1259,Company E,2024-03-05,164157,111903,52254,25969,26285,John Doe,HR,Cash,INV-1259,Overdue,Priority client
+1260,Company E,2023-08-15,398301,170289,228012,70171,157841,Emily Davis,Marketing,Online,INV-1260,Pending,Priority client
+1261,Company B,2023-11-16,436775,115075,321700,57078,264622,John Doe,Finance,Check,INV-1261,Overdue,Check details
+1262,Company C,2024-09-13,572899,269828,303071,170699,132372,Alice Brown,IT,Online,INV-1262,Overdue,-
+1263,Company E,2024-06-16,263809,92471,171338,62428,108910,Robert Johnson,Sales,Credit Card,INV-1263,Overdue,Urgent payment
+1264,Company E,2023-06-15,221152,70960,150192,69583,80609,Jane Smith,IT,Credit Card,INV-1264,Overdue,Urgent payment
+1265,Company C,2024-04-09,664639,343023,321616,185285,136331,Robert Johnson,IT,Credit Card,INV-1265,Overdue,Check details
+1266,Company B,2024-01-07,902294,435386,466908,62804,404104,John Doe,HR,Bank Transfer,INV-1266,Pending,-
+1267,Company E,2023-09-08,230350,152206,78144,45387,32757,Emily Davis,HR,Cash,INV-1267,Paid,-
+1268,Company B,2023-02-15,191800,117590,74210,38230,35980,John Doe,IT,Bank Transfer,INV-1268,Paid,Check details
+1269,Company A,2023-06-10,232704,131817,100887,65467,35420,Jane Smith,Finance,Bank Transfer,INV-1269,Paid,Urgent payment
+1270,Company B,2024-02-20,344224,148572,195652,69199,126453,Robert Johnson,HR,Online,INV-1270,Pending,-
+1271,Company E,2023-03-18,523252,156685,366567,324596,41971,Emily Davis,Marketing,Check,INV-1271,Pending,Urgent payment
+1272,Company E,2023-04-14,264748,55975,208773,155256,53517,Jane Smith,IT,Bank Transfer,INV-1272,Paid,Check details
+1273,Company C,2024-07-11,311296,169418,141878,27578,114300,Jane Smith,Marketing,Cash,INV-1273,Pending,Urgent payment
+1274,Company A,2023-11-30,314688,211756,102932,47662,55270,Emily Davis,Sales,Credit Card,INV-1274,Paid,Priority client
+1275,Company D,2024-02-03,491818,340934,150884,33221,117663,John Doe,HR,Check,INV-1275,Paid,-
+1276,Company D,2024-08-26,136516,61727,74789,37963,36826,Alice Brown,HR,Check,INV-1276,Pending,-
+1277,Company E,2023-03-13,815458,70123,745335,354467,390868,Robert Johnson,IT,Check,INV-1277,Paid,-
+1278,Company D,2024-07-21,312077,163719,148358,52417,95941,John Doe,Marketing,Online,INV-1278,Paid,Priority client
+1279,Company E,2023-04-16,557516,473839,83677,20524,63153,Robert Johnson,Sales,Online,INV-1279,Paid,Urgent payment
+1280,Company A,2024-05-27,905118,849288,55830,23711,32119,John Doe,Sales,Cash,INV-1280,Paid,Check details
+1281,Company E,2024-05-04,188601,54822,133779,42005,91774,Robert Johnson,Marketing,Bank Transfer,INV-1281,Paid,Priority client
+1282,Company A,2023-05-12,534986,471412,63574,34111,29463,John Doe,HR,Credit Card,INV-1282,Overdue,-
+1283,Company C,2024-02-07,141850,68445,73405,28457,44948,Jane Smith,Sales,Check,INV-1283,Overdue,Check details
+1284,Company E,2023-07-29,464766,250454,214312,179342,34970,Emily Davis,Finance,Cash,INV-1284,Overdue,-
+1285,Company E,2023-03-25,977023,664418,312605,159432,153173,Jane Smith,IT,Check,INV-1285,Paid,Priority client
+1286,Company D,2024-01-11,891677,63204,828473,215372,613101,John Doe,Sales,Bank Transfer,INV-1286,Pending,Check details
+1287,Company E,2023-07-29,713115,285403,427712,342934,84778,John Doe,Marketing,Online,INV-1287,Paid,Urgent payment
+1288,Company E,2023-09-16,942095,841147,100948,79553,21395,Alice Brown,Marketing,Check,INV-1288,Overdue,Urgent payment
+1289,Company C,2023-08-07,496387,339102,157285,84926,72359,Emily Davis,Finance,Credit Card,INV-1289,Pending,Check details
+1290,Company B,2023-02-09,669494,240235,429259,266557,162702,John Doe,HR,Cash,INV-1290,Overdue,Check details
+1291,Company D,2024-08-06,959858,549947,409911,67920,341991,John Doe,IT,Credit Card,INV-1291,Pending,Check details
+1292,Company E,2023-09-15,614717,405682,209035,149080,59955,Emily Davis,Finance,Credit Card,INV-1292,Pending,Check details
+1293,Company A,2024-07-30,560954,60089,500865,61756,439109,Emily Davis,IT,Credit Card,INV-1293,Pending,-
+1294,Company E,2024-03-25,258612,178045,80567,59148,21419,Jane Smith,IT,Bank Transfer,INV-1294,Overdue,Check details
+1295,Company C,2023-10-31,468802,306025,162777,85498,77279,Jane Smith,Finance,Bank Transfer,INV-1295,Overdue,Check details
+1296,Company B,2024-06-29,506018,361863,144155,20568,123587,Robert Johnson,HR,Bank Transfer,INV-1296,Paid,Priority client
+1297,Company E,2024-11-03,693433,227997,465436,83360,382076,Robert Johnson,Finance,Online,INV-1297,Pending,Check details
+1298,Company D,2024-03-24,507591,304452,203139,88509,114630,Emily Davis,Marketing,Online,INV-1298,Paid,Check details
+1299,Company A,2023-04-07,579655,383675,195980,117876,78104,John Doe,IT,Credit Card,INV-1299,Pending,Urgent payment
+1300,Company A,2023-09-26,720147,226555,493592,269462,224130,Alice Brown,HR,Cash,INV-1300,Overdue,-
+1301,Company D,2024-10-12,514909,457087,57822,27441,30381,Alice Brown,Marketing,Online,INV-1301,Paid,-
+1302,Company C,2023-11-19,612729,446247,166482,75397,91085,John Doe,Marketing,Bank Transfer,INV-1302,Paid,Urgent payment
+1303,Company E,2024-01-20,922039,443349,478690,107983,370707,Robert Johnson,Marketing,Credit Card,INV-1303,Overdue,Urgent payment
+1304,Company B,2024-04-28,923813,556615,367198,344030,23168,Robert Johnson,Finance,Online,INV-1304,Paid,Urgent payment
+1305,Company E,2024-03-27,818909,260451,558458,315361,243097,John Doe,Finance,Credit Card,INV-1305,Paid,Check details
+1306,Company A,2023-11-15,542837,412214,130623,69558,61065,Jane Smith,IT,Cash,INV-1306,Paid,Priority client
+1307,Company A,2024-04-10,436183,291378,144805,26665,118140,Jane Smith,Marketing,Online,INV-1307,Overdue,Check details
+1308,Company E,2023-02-09,221899,170110,51789,20454,31335,Alice Brown,Finance,Credit Card,INV-1308,Overdue,-
+1309,Company A,2024-01-30,527657,347492,180165,127332,52833,Alice Brown,Marketing,Credit Card,INV-1309,Paid,Urgent payment
+1310,Company B,2024-07-21,712951,619822,93129,35808,57321,Emily Davis,HR,Credit Card,INV-1310,Paid,Urgent payment
+1311,Company C,2024-01-16,565748,257939,307809,115866,191943,John Doe,HR,Check,INV-1311,Paid,Priority client
+1312,Company D,2023-08-25,409168,148279,260889,231383,29506,John Doe,Finance,Online,INV-1312,Pending,Priority client
+1313,Company B,2023-11-09,499765,210796,288969,261511,27458,Jane Smith,Marketing,Cash,INV-1313,Overdue,Priority client
+1314,Company B,2024-03-08,415024,52743,362281,110166,252115,Jane Smith,IT,Bank Transfer,INV-1314,Pending,-
+1315,Company E,2023-10-04,557100,90826,466274,162703,303571,Jane Smith,HR,Credit Card,INV-1315,Paid,Priority client
+1316,Company E,2023-06-04,756468,405171,351297,307908,43389,John Doe,Sales,Check,INV-1316,Pending,-
+1317,Company C,2023-09-21,975677,81558,894119,726316,167803,Robert Johnson,Sales,Credit Card,INV-1317,Overdue,Check details
+1318,Company A,2024-10-28,739092,531455,207637,30154,177483,Robert Johnson,IT,Credit Card,INV-1318,Pending,Urgent payment
+1319,Company A,2023-11-14,635577,101839,533738,48427,485311,Emily Davis,Finance,Cash,INV-1319,Pending,-
+1320,Company A,2024-07-19,613085,436625,176460,122956,53504,Emily Davis,HR,Credit Card,INV-1320,Overdue,Urgent payment
+1321,Company A,2023-07-18,385078,214852,170226,82700,87526,Robert Johnson,HR,Online,INV-1321,Pending,-
+1322,Company A,2023-08-19,857934,595482,262452,36914,225538,Robert Johnson,HR,Check,INV-1322,Overdue,Check details
+1323,Company E,2024-08-16,899569,597576,301993,239690,62303,Alice Brown,Marketing,Check,INV-1323,Pending,Urgent payment
+1324,Company C,2024-03-30,412299,195994,216305,62501,153804,John Doe,Finance,Bank Transfer,INV-1324,Overdue,-
+1325,Company C,2024-08-05,390777,195057,195720,163846,31874,Alice Brown,Sales,Bank Transfer,INV-1325,Overdue,Urgent payment
+1326,Company C,2024-09-23,687282,629437,57845,29848,27997,Emily Davis,Finance,Bank Transfer,INV-1326,Pending,-
+1327,Company C,2024-06-15,589735,206748,382987,159944,223043,Jane Smith,HR,Credit Card,INV-1327,Overdue,Check details
+1328,Company B,2024-10-28,615080,406409,208671,159640,49031,Emily Davis,IT,Online,INV-1328,Overdue,-
+1329,Company A,2024-02-25,726408,561194,165214,101175,64039,Alice Brown,IT,Cash,INV-1329,Paid,Priority client
+1330,Company E,2023-08-01,119071,56595,62476,30838,31638,Jane Smith,Sales,Online,INV-1330,Pending,Priority client
+1331,Company E,2023-12-18,359653,235976,123677,33277,90400,John Doe,Finance,Online,INV-1331,Overdue,Urgent payment
+1332,Company D,2024-08-09,210191,71340,138851,71667,67184,Emily Davis,HR,Online,INV-1332,Overdue,Priority client
+1333,Company C,2023-08-05,648594,541686,106908,47478,59430,Alice Brown,Finance,Bank Transfer,INV-1333,Overdue,Check details
+1334,Company B,2023-08-12,208604,132849,75755,20950,54805,Emily Davis,Finance,Credit Card,INV-1334,Paid,Urgent payment
+1335,Company B,2024-05-19,422855,57990,364865,234394,130471,John Doe,HR,Check,INV-1335,Pending,Urgent payment
+1336,Company C,2023-10-17,758177,107310,650867,245364,405503,Emily Davis,HR,Online,INV-1336,Pending,Priority client
+1337,Company B,2024-10-04,680696,386393,294303,264125,30178,Emily Davis,Finance,Check,INV-1337,Pending,Priority client
+1338,Company E,2023-08-03,775834,538295,237539,127316,110223,John Doe,Finance,Check,INV-1338,Overdue,Check details
+1339,Company A,2024-06-06,815485,58269,757216,249714,507502,Jane Smith,IT,Check,INV-1339,Pending,-
+1340,Company B,2023-11-04,636267,118746,517521,312187,205334,John Doe,Sales,Bank Transfer,INV-1340,Paid,-
+1341,Company C,2024-01-02,546085,383623,162462,24445,138017,Robert Johnson,HR,Check,INV-1341,Overdue,Priority client
+1342,Company B,2023-01-20,898357,607720,290637,58017,232620,Jane Smith,Sales,Bank Transfer,INV-1342,Overdue,Check details
+1343,Company B,2024-07-24,369445,249396,120049,26644,93405,Robert Johnson,Sales,Bank Transfer,INV-1343,Overdue,Priority client
+1344,Company A,2024-03-23,193723,137243,56480,31356,25124,John Doe,Sales,Cash,INV-1344,Paid,Check details
+1345,Company D,2024-06-11,765977,544281,221696,152551,69145,John Doe,Finance,Bank Transfer,INV-1345,Overdue,-
+1346,Company C,2023-02-27,352767,62538,290229,144025,146204,Alice Brown,Sales,Bank Transfer,INV-1346,Pending,Check details
+1347,Company C,2024-02-09,938283,778049,160234,47117,113117,John Doe,IT,Cash,INV-1347,Paid,Urgent payment
+1348,Company E,2023-08-12,816711,58342,758369,393517,364852,Robert Johnson,HR,Check,INV-1348,Paid,Priority client
+1349,Company C,2023-11-24,539343,327376,211967,145367,66600,Robert Johnson,HR,Bank Transfer,INV-1349,Pending,Priority client
+1350,Company E,2023-06-12,377287,313371,63916,30869,33047,Alice Brown,Marketing,Credit Card,INV-1350,Overdue,Priority client
+1351,Company B,2024-06-04,484448,414111,70337,44145,26192,Jane Smith,IT,Online,INV-1351,Overdue,-
+1352,Company D,2024-04-26,571189,102222,468967,231773,237194,Robert Johnson,Sales,Check,INV-1352,Overdue,Priority client
+1353,Company A,2023-07-28,844283,254596,589687,38866,550821,Jane Smith,HR,Cash,INV-1353,Pending,Urgent payment
+1354,Company B,2023-10-02,673650,339669,333981,259297,74684,Robert Johnson,IT,Cash,INV-1354,Overdue,Priority client
+1355,Company D,2023-08-01,695133,458517,236616,201319,35297,Emily Davis,Sales,Cash,INV-1355,Overdue,-
+1356,Company E,2024-05-24,599472,170472,429000,381846,47154,Emily Davis,Sales,Check,INV-1356,Paid,Priority client
+1357,Company B,2023-11-25,403405,224304,179101,28912,150189,Robert Johnson,Marketing,Check,INV-1357,Pending,Check details
+1358,Company B,2023-06-16,251830,81117,170713,95184,75529,Jane Smith,Finance,Credit Card,INV-1358,Paid,Check details
+1359,Company C,2024-07-08,735904,222205,513699,330865,182834,Alice Brown,Marketing,Check,INV-1359,Paid,Urgent payment
+1360,Company A,2024-06-14,465998,265368,200630,21857,178773,Jane Smith,HR,Cash,INV-1360,Overdue,-
+1361,Company B,2024-11-17,938917,378692,560225,167012,393213,Alice Brown,Marketing,Credit Card,INV-1361,Overdue,Priority client
+1362,Company C,2023-10-15,256385,172034,84351,22433,61918,Emily Davis,Finance,Online,INV-1362,Pending,Priority client
+1363,Company E,2023-10-31,428041,369644,58397,26630,31767,Jane Smith,HR,Online,INV-1363,Pending,Priority client
+1364,Company E,2023-02-11,691721,564503,127218,92571,34647,Alice Brown,IT,Credit Card,INV-1364,Overdue,Check details
+1365,Company A,2023-02-13,396978,238263,158715,99272,59443,Robert Johnson,IT,Credit Card,INV-1365,Pending,Urgent payment
+1366,Company C,2024-01-16,362347,73389,288958,41719,247239,Robert Johnson,IT,Check,INV-1366,Pending,Check details
+1367,Company C,2023-12-20,357388,287998,69390,22916,46474,John Doe,IT,Cash,INV-1367,Overdue,-
+1368,Company C,2023-09-25,302419,85528,216891,132093,84798,Robert Johnson,Sales,Check,INV-1368,Overdue,Priority client
+1369,Company D,2023-03-20,245579,106742,138837,43289,95548,Emily Davis,Marketing,Bank Transfer,INV-1369,Paid,Priority client
+1370,Company A,2023-01-28,947534,826936,120598,59283,61315,Emily Davis,HR,Online,INV-1370,Paid,Urgent payment
+1371,Company A,2024-05-02,538315,443082,95233,61241,33992,Robert Johnson,Sales,Online,INV-1371,Overdue,Check details
+1372,Company A,2023-08-20,257636,147305,110331,38905,71426,Emily Davis,Sales,Check,INV-1372,Paid,Check details
+1373,Company C,2023-01-02,899826,283915,615911,185102,430809,Alice Brown,Marketing,Cash,INV-1373,Paid,Check details
+1374,Company E,2024-11-17,708376,313273,395103,85472,309631,Alice Brown,Sales,Cash,INV-1374,Pending,Priority client
+1375,Company E,2023-10-08,626439,124488,501951,253733,248218,Emily Davis,HR,Online,INV-1375,Overdue,Check details
+1376,Company C,2023-09-18,202159,106555,95604,62938,32666,Robert Johnson,Marketing,Online,INV-1376,Pending,Urgent payment
+1377,Company C,2023-08-05,905060,414225,490835,358446,132389,John Doe,Marketing,Cash,INV-1377,Pending,Urgent payment
+1378,Company A,2024-10-07,610209,139475,470734,281533,189201,John Doe,HR,Credit Card,INV-1378,Overdue,-
+1379,Company E,2024-08-25,673640,63902,609738,265139,344599,Alice Brown,Sales,Credit Card,INV-1379,Overdue,Urgent payment
+1380,Company C,2023-12-02,233171,143836,89335,39272,50063,Emily Davis,Sales,Credit Card,INV-1380,Overdue,Check details
+1381,Company A,2024-01-20,747041,469258,277783,227284,50499,Robert Johnson,HR,Bank Transfer,INV-1381,Pending,Check details
+1382,Company B,2024-02-15,233855,59381,174474,128693,45781,Emily Davis,Marketing,Online,INV-1382,Paid,Priority client
+1383,Company D,2023-10-18,909723,103127,806596,266340,540256,Jane Smith,Marketing,Online,INV-1383,Paid,Check details
+1384,Company A,2023-07-10,795589,305449,490140,434045,56095,Emily Davis,Marketing,Check,INV-1384,Overdue,Check details
+1385,Company A,2024-05-29,342769,113929,228840,77858,150982,John Doe,Marketing,Check,INV-1385,Pending,-
+1386,Company C,2024-02-09,250434,116255,134179,95160,39019,Jane Smith,Sales,Bank Transfer,INV-1386,Pending,Check details
+1387,Company C,2024-07-25,520311,446529,73782,52222,21560,Robert Johnson,Finance,Bank Transfer,INV-1387,Paid,Priority client
+1388,Company E,2023-10-15,780766,676537,104229,64272,39957,John Doe,HR,Credit Card,INV-1388,Paid,Priority client
+1389,Company D,2023-09-13,337855,228898,108957,55664,53293,Emily Davis,Finance,Bank Transfer,INV-1389,Paid,-
+1390,Company E,2023-06-28,571750,431567,140183,38279,101904,Alice Brown,IT,Cash,INV-1390,Overdue,-
+1391,Company C,2024-08-07,660084,354124,305960,24926,281034,Alice Brown,IT,Check,INV-1391,Pending,Priority client
+1392,Company A,2023-09-11,669469,550802,118667,31715,86952,Alice Brown,Marketing,Online,INV-1392,Pending,Check details
+1393,Company B,2024-02-17,794038,732328,61710,22744,38966,Robert Johnson,Sales,Cash,INV-1393,Overdue,-
+1394,Company D,2023-05-03,114091,50515,63576,43386,20190,Emily Davis,Marketing,Credit Card,INV-1394,Overdue,Check details
+1395,Company B,2023-03-09,867296,545307,321989,51513,270476,Alice Brown,Sales,Credit Card,INV-1395,Overdue,Check details
+1396,Company D,2024-07-28,144461,88030,56431,31125,25306,Robert Johnson,IT,Credit Card,INV-1396,Paid,Priority client
+1397,Company A,2023-11-20,363481,279187,84294,56436,27858,Jane Smith,Marketing,Online,INV-1397,Pending,Check details
+1398,Company E,2023-03-21,638555,467431,171124,50134,120990,Robert Johnson,Sales,Check,INV-1398,Pending,-
+1399,Company A,2023-04-19,577877,525325,52552,26603,25949,John Doe,Finance,Bank Transfer,INV-1399,Paid,Urgent payment
+1400,Company E,2024-02-13,393714,115199,278515,225005,53510,John Doe,Sales,Credit Card,INV-1400,Overdue,Check details
+1401,Company E,2024-08-25,131960,62755,69205,35237,33968,Robert Johnson,HR,Bank Transfer,INV-1401,Paid,Check details
+1402,Company C,2023-08-02,502631,97029,405602,199402,206200,Alice Brown,HR,Bank Transfer,INV-1402,Overdue,Check details
+1403,Company C,2023-08-26,402681,177011,225670,198509,27161,Jane Smith,Finance,Cash,INV-1403,Overdue,Urgent payment
+1404,Company B,2023-03-05,572947,140755,432192,102473,329719,Alice Brown,IT,Cash,INV-1404,Paid,-
+1405,Company D,2024-03-18,238234,140410,97824,50862,46962,Jane Smith,Sales,Check,INV-1405,Overdue,Priority client
+1406,Company E,2023-08-08,338105,157801,180304,89875,90429,Emily Davis,HR,Bank Transfer,INV-1406,Pending,-
+1407,Company B,2024-09-04,613097,233582,379515,151514,228001,John Doe,Marketing,Bank Transfer,INV-1407,Paid,-
+1408,Company E,2023-09-22,241117,153636,87481,60606,26875,John Doe,Finance,Bank Transfer,INV-1408,Overdue,Urgent payment
+1409,Company B,2023-09-06,547552,243277,304275,86628,217647,Jane Smith,Finance,Credit Card,INV-1409,Overdue,Priority client
+1410,Company C,2023-11-08,991822,829083,162739,132683,30056,Robert Johnson,Finance,Check,INV-1410,Paid,Priority client
+1411,Company B,2023-12-06,722942,63166,659776,213369,446407,Jane Smith,Marketing,Bank Transfer,INV-1411,Paid,Urgent payment
+1412,Company E,2023-06-24,354079,233958,120121,60251,59870,Alice Brown,HR,Online,INV-1412,Pending,Check details
+1413,Company B,2023-08-28,828942,542256,286686,90447,196239,Emily Davis,HR,Credit Card,INV-1413,Pending,Urgent payment
+1414,Company C,2024-06-30,997257,324323,672934,386878,286056,Emily Davis,Finance,Online,INV-1414,Paid,Check details
+1415,Company E,2023-08-15,505714,243862,261852,94688,167164,Robert Johnson,HR,Bank Transfer,INV-1415,Overdue,Urgent payment
+1416,Company B,2023-03-11,585569,520062,65507,31102,34405,Robert Johnson,HR,Check,INV-1416,Overdue,-
+1417,Company E,2024-09-11,592862,370423,222439,173179,49260,Jane Smith,HR,Check,INV-1417,Overdue,Priority client
+1418,Company B,2023-08-08,893622,210363,683259,573538,109721,Robert Johnson,Sales,Credit Card,INV-1418,Pending,Urgent payment
+1419,Company E,2023-07-27,929112,259646,669466,330421,339045,John Doe,Marketing,Cash,INV-1419,Overdue,Check details
+1420,Company E,2023-04-08,309630,187710,121920,31553,90367,Robert Johnson,Marketing,Bank Transfer,INV-1420,Paid,Urgent payment
+1421,Company A,2023-07-30,607326,466719,140607,29546,111061,Emily Davis,IT,Credit Card,INV-1421,Pending,-
+1422,Company D,2024-05-18,296535,110591,185944,81811,104133,John Doe,HR,Cash,INV-1422,Pending,-
+1423,Company B,2023-12-06,516569,331017,185552,81583,103969,Jane Smith,IT,Bank Transfer,INV-1423,Paid,-
+1424,Company E,2024-05-24,468795,152592,316203,265290,50913,John Doe,HR,Credit Card,INV-1424,Paid,Check details
+1425,Company D,2024-07-06,662956,407151,255805,180782,75023,Jane Smith,Finance,Bank Transfer,INV-1425,Pending,Priority client
+1426,Company B,2024-09-02,933649,134663,798986,20706,778280,John Doe,IT,Check,INV-1426,Paid,Urgent payment
+1427,Company E,2023-07-24,167882,55164,112718,91817,20901,Emily Davis,HR,Cash,INV-1427,Paid,Check details
+1428,Company C,2024-08-26,566046,205237,360809,43747,317062,John Doe,IT,Check,INV-1428,Pending,Urgent payment
+1429,Company E,2024-06-14,535238,83236,452002,76017,375985,John Doe,Finance,Credit Card,INV-1429,Overdue,-
+1430,Company D,2024-08-24,748521,620908,127613,39067,88546,John Doe,Sales,Credit Card,INV-1430,Overdue,Priority client
+1431,Company D,2023-11-30,339308,283055,56253,29760,26493,Robert Johnson,Sales,Bank Transfer,INV-1431,Overdue,Check details
+1432,Company E,2023-03-16,955227,867698,87529,41496,46033,Emily Davis,HR,Credit Card,INV-1432,Paid,Check details
+1433,Company D,2023-02-13,480583,378106,102477,61890,40587,Alice Brown,Marketing,Cash,INV-1433,Overdue,Urgent payment
+1434,Company C,2023-05-10,261903,50742,211161,100959,110202,John Doe,Sales,Bank Transfer,INV-1434,Pending,Priority client
+1435,Company B,2024-09-29,573117,73498,499619,29188,470431,Emily Davis,Marketing,Credit Card,INV-1435,Overdue,Urgent payment
+1436,Company B,2023-02-25,935248,350072,585176,414656,170520,Jane Smith,IT,Bank Transfer,INV-1436,Pending,Priority client
+1437,Company C,2023-05-13,243686,188375,55311,28815,26496,Jane Smith,Finance,Online,INV-1437,Paid,Priority client
+1438,Company B,2024-08-13,263448,128284,135164,110258,24906,Jane Smith,Finance,Bank Transfer,INV-1438,Overdue,Urgent payment
+1439,Company E,2023-09-24,582537,79922,502615,77789,424826,John Doe,HR,Online,INV-1439,Pending,Priority client
+1440,Company D,2024-09-01,433701,72974,360727,30417,330310,John Doe,IT,Credit Card,INV-1440,Paid,Urgent payment
+1441,Company A,2023-01-03,270925,186902,84023,55911,28112,Alice Brown,IT,Credit Card,INV-1441,Paid,Priority client
+1442,Company B,2023-09-01,866436,589905,276531,241976,34555,Alice Brown,IT,Online,INV-1442,Overdue,Check details
+1443,Company C,2024-08-22,329350,76649,252701,49670,203031,Jane Smith,HR,Check,INV-1443,Pending,Urgent payment
+1444,Company D,2023-10-04,289375,198863,90512,32105,58407,John Doe,Marketing,Online,INV-1444,Paid,-
+1445,Company E,2023-10-30,499915,437478,62437,20509,41928,Alice Brown,IT,Bank Transfer,INV-1445,Pending,Priority client
+1446,Company A,2024-04-09,541932,339067,202865,138222,64643,Emily Davis,IT,Online,INV-1446,Overdue,Urgent payment
+1447,Company E,2024-08-19,149899,82219,67680,32349,35331,Jane Smith,Finance,Credit Card,INV-1447,Paid,Urgent payment
+1448,Company A,2023-02-18,410608,245160,165448,116689,48759,Alice Brown,HR,Cash,INV-1448,Overdue,-
+1449,Company D,2023-01-31,451917,281963,169954,89009,80945,Alice Brown,Finance,Online,INV-1449,Paid,-
+1450,Company C,2023-10-14,547222,242329,304893,227172,77721,Alice Brown,Marketing,Check,INV-1450,Pending,Check details
+1451,Company B,2023-07-12,346352,142961,203391,78998,124393,Alice Brown,Marketing,Cash,INV-1451,Pending,Check details
+1452,Company D,2024-05-29,609691,147429,462262,394307,67955,Emily Davis,IT,Bank Transfer,INV-1452,Paid,-
+1453,Company A,2024-07-31,222306,121526,100780,69435,31345,Emily Davis,IT,Cash,INV-1453,Overdue,Check details
+1454,Company B,2023-01-06,190907,78371,112536,23663,88873,Robert Johnson,Marketing,Credit Card,INV-1454,Pending,Priority client
+1455,Company B,2024-05-15,530031,477744,52287,27101,25186,Alice Brown,Marketing,Online,INV-1455,Pending,Priority client
+1456,Company E,2024-10-05,336703,60509,276194,210186,66008,Robert Johnson,IT,Online,INV-1456,Paid,Urgent payment
+1457,Company C,2024-05-08,278766,93052,185714,123593,62121,Jane Smith,IT,Cash,INV-1457,Overdue,-
+1458,Company D,2023-07-24,476376,83211,393165,30537,362628,Robert Johnson,HR,Credit Card,INV-1458,Overdue,-
+1459,Company B,2024-06-03,712358,598108,114250,46696,67554,Emily Davis,Sales,Credit Card,INV-1459,Overdue,-
+1460,Company A,2024-03-14,842193,774017,68176,43753,24423,Jane Smith,HR,Cash,INV-1460,Pending,-
+1461,Company B,2023-06-08,501996,301587,200409,151589,48820,Robert Johnson,Sales,Credit Card,INV-1461,Overdue,Priority client
+1462,Company E,2023-07-12,499197,350285,148912,91337,57575,John Doe,HR,Check,INV-1462,Overdue,-
+1463,Company D,2024-06-16,231503,100158,131345,100730,30615,John Doe,Finance,Credit Card,INV-1463,Pending,Priority client
+1464,Company C,2024-08-23,107040,52697,54343,26045,28298,Robert Johnson,Sales,Cash,INV-1464,Paid,Urgent payment
+1465,Company D,2024-10-10,520956,363671,157285,80960,76325,Jane Smith,Sales,Cash,INV-1465,Paid,-
+1466,Company B,2024-11-14,874339,800645,73694,44478,29216,John Doe,Sales,Check,INV-1466,Paid,Priority client
+1467,Company D,2024-10-20,230340,165726,64614,22904,41710,John Doe,IT,Credit Card,INV-1467,Overdue,Check details
+1468,Company B,2024-10-29,181217,84052,97165,45877,51288,Jane Smith,Finance,Credit Card,INV-1468,Paid,Check details
+1469,Company E,2024-01-01,793719,142262,651457,333666,317791,Alice Brown,Finance,Credit Card,INV-1469,Pending,Check details
+1470,Company B,2024-11-08,955591,122950,832641,757221,75420,Emily Davis,IT,Check,INV-1470,Overdue,Check details
+1471,Company D,2023-04-12,480485,165454,315031,113604,201427,Alice Brown,IT,Credit Card,INV-1471,Paid,Check details
+1472,Company A,2024-10-05,693091,336640,356451,118148,238303,Alice Brown,Sales,Cash,INV-1472,Overdue,-
+1473,Company B,2024-07-06,164655,50115,114540,52238,62302,Jane Smith,HR,Cash,INV-1473,Pending,Priority client
+1474,Company C,2024-09-27,264257,124673,139584,71889,67695,John Doe,Finance,Cash,INV-1474,Pending,Urgent payment
+1475,Company D,2024-03-17,731704,186317,545387,189416,355971,John Doe,Sales,Credit Card,INV-1475,Pending,Check details
+1476,Company E,2023-08-21,935006,363878,571128,169786,401342,Jane Smith,Sales,Cash,INV-1476,Paid,Urgent payment
+1477,Company D,2023-05-05,236617,145602,91015,43814,47201,John Doe,HR,Online,INV-1477,Overdue,Check details
+1478,Company C,2024-04-15,138184,59147,79037,53492,25545,Robert Johnson,Sales,Check,INV-1478,Overdue,Check details
+1479,Company D,2023-01-09,158619,79512,79107,57117,21990,Alice Brown,HR,Online,INV-1479,Pending,Priority client
+1480,Company B,2024-06-29,184602,77934,106668,54744,51924,Jane Smith,Finance,Check,INV-1480,Overdue,-
+1481,Company C,2024-10-14,508663,236608,272055,250708,21347,Emily Davis,Marketing,Cash,INV-1481,Overdue,Check details
+1482,Company C,2023-11-13,649032,280893,368139,344849,23290,Alice Brown,HR,Bank Transfer,INV-1482,Paid,-
+1483,Company D,2023-09-14,705685,139630,566055,340489,225566,Alice Brown,HR,Bank Transfer,INV-1483,Pending,Check details
+1484,Company C,2024-09-05,732003,675267,56736,21412,35324,Alice Brown,Finance,Cash,INV-1484,Overdue,Priority client
+1485,Company C,2023-01-02,367186,120029,247157,102938,144219,Robert Johnson,Marketing,Online,INV-1485,Paid,Urgent payment
+1486,Company E,2024-04-25,694828,202315,492513,369173,123340,Alice Brown,IT,Credit Card,INV-1486,Pending,Urgent payment
+1487,Company B,2023-07-13,628879,303319,325560,265285,60275,John Doe,Sales,Credit Card,INV-1487,Overdue,Check details
+1488,Company B,2023-01-23,746704,474604,272100,208028,64072,Jane Smith,HR,Credit Card,INV-1488,Paid,Priority client
+1489,Company D,2024-10-02,587434,423422,164012,140315,23697,Jane Smith,Sales,Cash,INV-1489,Paid,Check details
+1490,Company D,2024-10-16,824431,766821,57610,32089,25521,Emily Davis,Marketing,Bank Transfer,INV-1490,Overdue,-
+1491,Company C,2024-09-01,292504,65845,226659,107935,118724,Alice Brown,Sales,Check,INV-1491,Paid,-
+1492,Company A,2024-06-02,593537,112051,481486,248402,233084,Jane Smith,Sales,Bank Transfer,INV-1492,Pending,Urgent payment
+1493,Company A,2023-04-20,298633,176502,122131,43077,79054,Emily Davis,Finance,Bank Transfer,INV-1493,Paid,Priority client
+1494,Company A,2024-02-16,916685,100261,816424,220589,595835,John Doe,Sales,Check,INV-1494,Paid,Check details
+1495,Company B,2023-04-17,699412,537028,162384,34431,127953,Emily Davis,Finance,Cash,INV-1495,Overdue,-
+1496,Company D,2023-07-29,784438,604828,179610,50126,129484,John Doe,IT,Online,INV-1496,Overdue,Check details
+1497,Company A,2023-06-21,742079,434364,307715,244950,62765,John Doe,Sales,Check,INV-1497,Pending,Priority client
+1498,Company B,2024-07-15,381490,126636,254854,102675,152179,Alice Brown,Marketing,Check,INV-1498,Overdue,Check details
+1499,Company C,2024-10-18,560861,96522,464339,110514,353825,Jane Smith,Marketing,Online,INV-1499,Pending,-
+1500,Company D,2024-05-08,271786,199276,72510,46942,25568,Jane Smith,Finance,Credit Card,INV-1500,Paid,Check details
+1501,Company C,2023-08-08,109578,52422,57156,36881,20275,Emily Davis,Finance,Check,INV-1501,Overdue,Priority client
+1502,Company B,2023-10-02,683891,395730,288161,46938,241223,Emily Davis,Finance,Cash,INV-1502,Overdue,Priority client
+1503,Company E,2023-10-18,687480,439992,247488,215149,32339,John Doe,HR,Credit Card,INV-1503,Overdue,Priority client
+1504,Company E,2023-12-27,129406,58483,70923,23406,47517,Emily Davis,Marketing,Cash,INV-1504,Paid,-
+1505,Company A,2023-06-19,789330,280031,509299,27681,481618,Robert Johnson,Sales,Cash,INV-1505,Paid,Priority client
+1506,Company A,2023-05-25,485961,332077,153884,121858,32026,Emily Davis,Sales,Credit Card,INV-1506,Overdue,-
+1507,Company D,2023-12-30,965379,395893,569486,394364,175122,Alice Brown,Sales,Cash,INV-1507,Overdue,-
+1508,Company E,2023-11-30,377119,277525,99594,75009,24585,Robert Johnson,HR,Credit Card,INV-1508,Pending,Priority client
+1509,Company B,2023-07-22,546412,85207,461205,433742,27463,Robert Johnson,Marketing,Credit Card,INV-1509,Overdue,Priority client
+1510,Company B,2024-04-13,620533,291290,329243,272322,56921,Jane Smith,Marketing,Cash,INV-1510,Pending,Priority client
+1511,Company A,2023-08-03,994486,908376,86110,37059,49051,John Doe,Finance,Credit Card,INV-1511,Paid,-
+1512,Company D,2023-11-28,379452,94751,284701,241538,43163,Jane Smith,Marketing,Credit Card,INV-1512,Paid,Urgent payment
+1513,Company C,2024-03-06,812402,294977,517425,291307,226118,Emily Davis,Sales,Credit Card,INV-1513,Overdue,Check details
+1514,Company B,2024-10-24,331933,62131,269802,114358,155444,Robert Johnson,Sales,Cash,INV-1514,Pending,Check details
+1515,Company D,2023-06-14,202569,108727,93842,31551,62291,Alice Brown,Marketing,Credit Card,INV-1515,Paid,Priority client
+1516,Company D,2024-11-05,271989,204909,67080,20118,46962,Jane Smith,IT,Online,INV-1516,Pending,Check details
+1517,Company D,2024-01-21,937390,413759,523631,321986,201645,Emily Davis,IT,Online,INV-1517,Overdue,Urgent payment
+1518,Company D,2024-02-07,647764,287523,360241,241519,118722,Robert Johnson,Sales,Check,INV-1518,Overdue,Urgent payment
+1519,Company D,2023-08-03,716232,448024,268208,45877,222331,Alice Brown,HR,Check,INV-1519,Paid,Urgent payment
+1520,Company A,2023-06-13,900584,688019,212565,98475,114090,Robert Johnson,Sales,Online,INV-1520,Overdue,Priority client
+1521,Company D,2023-02-18,247403,190981,56422,36105,20317,Alice Brown,HR,Bank Transfer,INV-1521,Overdue,Priority client
+1522,Company E,2023-03-13,664025,527865,136160,76440,59720,Robert Johnson,IT,Bank Transfer,INV-1522,Paid,Check details
+1523,Company B,2024-04-06,327831,98707,229124,174994,54130,Alice Brown,Marketing,Cash,INV-1523,Overdue,Check details
+1524,Company C,2024-04-01,660914,75874,585040,34963,550077,John Doe,Marketing,Credit Card,INV-1524,Pending,Urgent payment
+1525,Company D,2024-03-14,770136,170233,599903,401791,198112,Jane Smith,HR,Credit Card,INV-1525,Pending,Priority client
+1526,Company D,2024-03-18,429486,295046,134440,60700,73740,John Doe,Marketing,Bank Transfer,INV-1526,Overdue,Urgent payment
+1527,Company D,2023-04-24,890477,272210,618267,135942,482325,Jane Smith,Marketing,Credit Card,INV-1527,Overdue,-
+1528,Company A,2023-08-08,853208,769086,84122,29542,54580,Alice Brown,Finance,Check,INV-1528,Paid,Priority client
+1529,Company B,2023-05-01,366247,125557,240690,147845,92845,Alice Brown,HR,Bank Transfer,INV-1529,Pending,Check details
+1530,Company D,2023-08-12,686975,542029,144946,72628,72318,Emily Davis,HR,Cash,INV-1530,Pending,-
+1531,Company C,2024-10-21,955448,584565,370883,271876,99007,John Doe,HR,Credit Card,INV-1531,Paid,Priority client
+1532,Company B,2024-05-08,468368,117756,350612,326690,23922,Emily Davis,IT,Cash,INV-1532,Overdue,Check details
+1533,Company C,2023-05-04,919377,493631,425746,79530,346216,Emily Davis,HR,Bank Transfer,INV-1533,Pending,Priority client
+1534,Company D,2024-08-31,221724,57033,164691,94907,69784,Alice Brown,Sales,Bank Transfer,INV-1534,Pending,Urgent payment
+1535,Company E,2023-10-22,787416,382133,405283,229391,175892,Jane Smith,Sales,Online,INV-1535,Paid,Priority client
+1536,Company D,2024-08-14,151419,55112,96307,38928,57379,Robert Johnson,HR,Cash,INV-1536,Pending,-
+1537,Company D,2023-11-27,372404,192679,179725,97201,82524,Jane Smith,Marketing,Online,INV-1537,Pending,Urgent payment
+1538,Company A,2023-08-08,351801,169316,182485,83889,98596,John Doe,Sales,Check,INV-1538,Overdue,Check details
+1539,Company C,2024-04-11,718285,135306,582979,250655,332324,Robert Johnson,HR,Cash,INV-1539,Paid,-
+1540,Company C,2024-01-21,698142,435835,262307,218132,44175,Jane Smith,HR,Credit Card,INV-1540,Overdue,-
+1541,Company B,2023-02-07,688763,225249,463514,174516,288998,Alice Brown,HR,Credit Card,INV-1541,Paid,Check details
+1542,Company B,2023-08-09,421813,293598,128215,101475,26740,John Doe,Sales,Check,INV-1542,Paid,Priority client
+1543,Company D,2023-04-30,671503,352042,319461,80425,239036,Alice Brown,HR,Bank Transfer,INV-1543,Pending,Urgent payment
+1544,Company D,2024-10-16,771606,553280,218326,44733,173593,Alice Brown,Finance,Cash,INV-1544,Paid,Urgent payment
+1545,Company E,2023-11-19,744367,430613,313754,41188,272566,Robert Johnson,Finance,Check,INV-1545,Paid,-
+1546,Company D,2023-10-28,535424,423529,111895,52410,59485,Jane Smith,HR,Online,INV-1546,Overdue,Check details
+1547,Company D,2023-08-12,184017,95505,88512,38226,50286,Robert Johnson,Sales,Online,INV-1547,Paid,Urgent payment
+1548,Company D,2023-11-06,917487,294525,622962,544145,78817,Robert Johnson,Sales,Bank Transfer,INV-1548,Paid,Urgent payment
+1549,Company A,2024-03-17,903870,812056,91814,30090,61724,Alice Brown,Finance,Online,INV-1549,Pending,-
+1550,Company D,2023-03-10,326436,216469,109967,23054,86913,Jane Smith,IT,Online,INV-1550,Paid,Check details
+1551,Company C,2023-04-30,437053,254751,182302,55781,126521,John Doe,HR,Cash,INV-1551,Paid,Check details
+1552,Company B,2023-12-14,857630,110802,746828,686825,60003,Emily Davis,IT,Bank Transfer,INV-1552,Paid,Urgent payment
+1553,Company E,2024-11-03,210205,110200,100005,52833,47172,John Doe,Marketing,Bank Transfer,INV-1553,Overdue,Urgent payment
+1554,Company C,2023-08-18,344867,254390,90477,34368,56109,Emily Davis,HR,Credit Card,INV-1554,Pending,Urgent payment
+1555,Company B,2024-06-12,926865,751838,175027,145139,29888,Robert Johnson,Finance,Credit Card,INV-1555,Paid,-
+1556,Company A,2023-08-08,722512,111682,610830,382405,228425,Jane Smith,Marketing,Credit Card,INV-1556,Pending,-
+1557,Company B,2023-07-29,247365,140319,107046,35477,71569,John Doe,HR,Check,INV-1557,Paid,Priority client
+1558,Company C,2023-12-22,367513,99099,268414,46404,222010,Robert Johnson,IT,Online,INV-1558,Pending,-
+1559,Company B,2023-08-18,874632,574639,299993,76674,223319,John Doe,IT,Bank Transfer,INV-1559,Pending,-
+1560,Company B,2024-09-23,987674,613872,373802,121548,252254,Jane Smith,HR,Online,INV-1560,Paid,Priority client
+1561,Company C,2024-05-14,826927,93762,733165,67521,665644,Alice Brown,IT,Bank Transfer,INV-1561,Overdue,Priority client
+1562,Company D,2023-08-04,200280,76173,124107,67969,56138,John Doe,IT,Credit Card,INV-1562,Paid,Priority client
+1563,Company C,2024-01-03,509274,190255,319019,198341,120678,Robert Johnson,Finance,Online,INV-1563,Pending,Check details
+1564,Company A,2023-08-25,148167,53004,95163,30383,64780,Emily Davis,HR,Cash,INV-1564,Overdue,Priority client
+1565,Company B,2023-05-30,142810,76779,66031,26056,39975,Jane Smith,Sales,Bank Transfer,INV-1565,Overdue,Check details
+1566,Company B,2024-08-23,658564,361750,296814,54520,242294,Jane Smith,IT,Cash,INV-1566,Overdue,Priority client
+1567,Company A,2024-06-23,141154,79036,62118,23219,38899,Alice Brown,Finance,Bank Transfer,INV-1567,Overdue,-
+1568,Company B,2024-06-19,373274,235341,137933,52731,85202,Jane Smith,Marketing,Bank Transfer,INV-1568,Overdue,Priority client
+1569,Company A,2024-07-08,988034,160480,827554,412715,414839,John Doe,Marketing,Check,INV-1569,Pending,Check details
+1570,Company A,2024-01-08,452028,249354,202674,137424,65250,Emily Davis,Sales,Bank Transfer,INV-1570,Overdue,Check details
+1571,Company B,2024-11-13,531691,460454,71237,24941,46296,Robert Johnson,IT,Bank Transfer,INV-1571,Pending,Check details
+1572,Company E,2024-07-25,409524,197089,212435,99728,112707,John Doe,Sales,Bank Transfer,INV-1572,Overdue,Priority client
+1573,Company E,2023-10-24,765964,323388,442576,189758,252818,John Doe,HR,Cash,INV-1573,Pending,Priority client
+1574,Company B,2024-02-24,336577,55765,280812,60012,220800,Emily Davis,IT,Online,INV-1574,Paid,-
+1575,Company B,2023-04-12,489667,422338,67329,28050,39279,Robert Johnson,HR,Online,INV-1575,Pending,Priority client
+1576,Company D,2024-08-12,887984,455083,432901,68403,364498,Emily Davis,HR,Cash,INV-1576,Overdue,-
+1577,Company B,2024-02-28,291705,219180,72525,48800,23725,Emily Davis,HR,Check,INV-1577,Paid,-
+1578,Company C,2024-06-07,444367,228901,215466,140818,74648,Jane Smith,HR,Online,INV-1578,Paid,Urgent payment
+1579,Company B,2023-05-05,803869,725910,77959,45611,32348,John Doe,Sales,Cash,INV-1579,Pending,Urgent payment
+1580,Company D,2024-01-05,889612,100535,789077,71817,717260,Jane Smith,HR,Cash,INV-1580,Paid,Priority client
+1581,Company E,2023-07-20,202120,99936,102184,79217,22967,Emily Davis,Sales,Bank Transfer,INV-1581,Overdue,Priority client
+1582,Company A,2024-02-27,798979,467266,331713,263767,67946,Robert Johnson,Sales,Cash,INV-1582,Pending,Priority client
+1583,Company C,2024-08-12,500517,125216,375301,261113,114188,Robert Johnson,Sales,Check,INV-1583,Overdue,Priority client
+1584,Company C,2024-04-13,410881,350053,60828,30707,30121,Robert Johnson,Sales,Credit Card,INV-1584,Overdue,Urgent payment
+1585,Company E,2023-03-01,843292,613768,229524,92124,137400,Jane Smith,Sales,Online,INV-1585,Paid,Check details
+1586,Company C,2024-02-23,722489,648109,74380,29461,44919,Jane Smith,Finance,Online,INV-1586,Pending,Urgent payment
+1587,Company C,2024-04-03,879451,50415,829036,37658,791378,Jane Smith,HR,Bank Transfer,INV-1587,Overdue,-
+1588,Company C,2024-02-17,725817,378482,347335,162009,185326,Emily Davis,HR,Online,INV-1588,Pending,Priority client
+1589,Company E,2023-04-10,589809,70098,519711,467834,51877,Jane Smith,Sales,Online,INV-1589,Pending,-
+1590,Company D,2024-07-07,426040,75848,350192,118493,231699,Emily Davis,Finance,Cash,INV-1590,Paid,Priority client
+1591,Company B,2024-08-15,540803,393128,147675,70473,77202,Jane Smith,Marketing,Bank Transfer,INV-1591,Pending,Check details
+1592,Company C,2024-03-30,451878,388877,63001,28240,34761,John Doe,Marketing,Cash,INV-1592,Pending,Check details
+1593,Company D,2023-03-21,600679,449272,151407,46242,105165,Emily Davis,Finance,Online,INV-1593,Overdue,Priority client
+1594,Company C,2023-05-04,838587,314250,524337,87418,436919,Jane Smith,HR,Cash,INV-1594,Overdue,Check details
+1595,Company B,2023-03-02,472060,337099,134961,101519,33442,Emily Davis,Sales,Bank Transfer,INV-1595,Overdue,Check details
+1596,Company E,2023-08-19,585880,60449,525431,73887,451544,Alice Brown,Finance,Check,INV-1596,Paid,Priority client
+1597,Company E,2023-02-06,391237,164951,226286,187760,38526,John Doe,IT,Cash,INV-1597,Overdue,Priority client
+1598,Company A,2023-01-26,739765,631900,107865,33447,74418,Jane Smith,HR,Credit Card,INV-1598,Pending,Priority client
+1599,Company C,2023-01-17,512324,67385,444939,358094,86845,Jane Smith,Finance,Cash,INV-1599,Paid,Priority client
+1600,Company A,2024-02-17,557569,274071,283498,22419,261079,Emily Davis,Finance,Credit Card,INV-1600,Pending,Urgent payment
+1601,Company C,2024-07-13,110959,56125,54834,21996,32838,John Doe,Marketing,Bank Transfer,INV-1601,Overdue,Priority client
+1602,Company C,2024-05-05,314663,105545,209118,58420,150698,Robert Johnson,IT,Cash,INV-1602,Paid,Urgent payment
+1603,Company E,2023-07-04,428072,87966,340106,50425,289681,Jane Smith,IT,Credit Card,INV-1603,Paid,Check details
+1604,Company A,2023-03-01,101735,50592,51143,21155,29988,Alice Brown,Marketing,Credit Card,INV-1604,Overdue,Check details
+1605,Company B,2024-05-18,602251,539779,62472,24676,37796,John Doe,Finance,Online,INV-1605,Overdue,Urgent payment
+1606,Company E,2023-10-18,200280,71839,128441,106525,21916,Robert Johnson,Sales,Online,INV-1606,Overdue,Check details
+1607,Company E,2024-07-24,950580,745262,205318,48408,156910,Alice Brown,Sales,Cash,INV-1607,Pending,Priority client
+1608,Company D,2023-01-14,540881,489755,51126,20143,30983,Robert Johnson,Marketing,Online,INV-1608,Overdue,Check details
+1609,Company C,2024-08-07,228816,111455,117361,57251,60110,Emily Davis,Finance,Online,INV-1609,Pending,-
+1610,Company B,2023-02-19,919110,707878,211232,142637,68595,Jane Smith,Finance,Credit Card,INV-1610,Pending,Check details
+1611,Company A,2024-02-12,965600,127283,838317,243593,594724,Alice Brown,HR,Check,INV-1611,Pending,Check details
+1612,Company C,2023-06-13,219344,70440,148904,117113,31791,John Doe,Finance,Online,INV-1612,Paid,Urgent payment
+1613,Company C,2024-03-25,446379,149850,296529,232908,63621,Emily Davis,Sales,Online,INV-1613,Paid,Urgent payment
+1614,Company B,2024-11-07,204017,109874,94143,53279,40864,Alice Brown,Sales,Bank Transfer,INV-1614,Overdue,Priority client
+1615,Company E,2023-11-02,782318,178060,604258,326458,277800,Emily Davis,HR,Bank Transfer,INV-1615,Overdue,Urgent payment
+1616,Company D,2023-08-14,778069,210260,567809,354447,213362,John Doe,IT,Bank Transfer,INV-1616,Pending,Check details
+1617,Company B,2024-03-10,557538,319925,237613,162999,74614,John Doe,Marketing,Credit Card,INV-1617,Pending,-
+1618,Company D,2023-07-06,209063,118270,90793,38957,51836,Jane Smith,Sales,Online,INV-1618,Overdue,-
+1619,Company D,2024-05-18,911728,550744,360984,203379,157605,Jane Smith,Sales,Cash,INV-1619,Pending,Check details
+1620,Company D,2024-01-21,933781,820213,113568,61805,51763,Alice Brown,Finance,Online,INV-1620,Paid,Urgent payment
+1621,Company A,2024-05-06,727799,383825,343974,62859,281115,Alice Brown,IT,Credit Card,INV-1621,Pending,Check details
+1622,Company E,2023-09-12,352829,278660,74169,46224,27945,John Doe,HR,Check,INV-1622,Overdue,-
+1623,Company B,2023-01-11,363501,250468,113033,47180,65853,John Doe,IT,Bank Transfer,INV-1623,Pending,-
+1624,Company D,2024-01-14,362128,284274,77854,33573,44281,Jane Smith,Finance,Online,INV-1624,Overdue,Priority client
+1625,Company B,2024-11-17,643458,563413,80045,26367,53678,John Doe,Sales,Cash,INV-1625,Overdue,Urgent payment
+1626,Company A,2024-03-06,693542,302202,391340,111068,280272,Alice Brown,Finance,Cash,INV-1626,Paid,Check details
+1627,Company A,2023-04-03,726430,369580,356850,125012,231838,Robert Johnson,Sales,Bank Transfer,INV-1627,Overdue,Check details
+1628,Company E,2024-03-20,107607,51976,55631,31790,23841,Robert Johnson,HR,Online,INV-1628,Overdue,Urgent payment
+1629,Company D,2024-03-08,994948,378208,616740,132774,483966,Jane Smith,Finance,Check,INV-1629,Paid,-
+1630,Company A,2024-05-26,510238,174393,335845,166595,169250,Jane Smith,HR,Online,INV-1630,Overdue,Priority client
+1631,Company B,2024-10-03,214038,81084,132954,60404,72550,John Doe,Marketing,Credit Card,INV-1631,Overdue,Check details
+1632,Company E,2024-07-30,858387,437646,420741,48318,372423,Emily Davis,Sales,Online,INV-1632,Overdue,-
+1633,Company B,2023-05-21,881737,536035,345702,115423,230279,Alice Brown,Sales,Bank Transfer,INV-1633,Pending,Check details
+1634,Company A,2024-06-30,610044,222613,387431,113238,274193,John Doe,Marketing,Online,INV-1634,Paid,-
+1635,Company C,2024-06-26,780093,711195,68898,25218,43680,Emily Davis,Marketing,Cash,INV-1635,Pending,Priority client
+1636,Company C,2023-10-23,810101,402877,407224,180163,227061,Robert Johnson,Finance,Credit Card,INV-1636,Overdue,Check details
+1637,Company E,2023-08-13,186405,69071,117334,55544,61790,Robert Johnson,IT,Bank Transfer,INV-1637,Paid,Urgent payment
+1638,Company A,2023-10-18,822495,494381,328114,232496,95618,Robert Johnson,HR,Check,INV-1638,Paid,-
+1639,Company B,2024-03-14,453810,75384,378426,168518,209908,Emily Davis,Marketing,Check,INV-1639,Overdue,Urgent payment
+1640,Company D,2023-11-24,478377,166380,311997,71526,240471,Emily Davis,IT,Online,INV-1640,Paid,Check details
+1641,Company A,2023-10-28,877951,224986,652965,370347,282618,Emily Davis,Finance,Credit Card,INV-1641,Overdue,Urgent payment
+1642,Company D,2024-11-07,793992,602481,191511,169624,21887,Robert Johnson,Sales,Credit Card,INV-1642,Paid,-
+1643,Company D,2023-01-17,590040,490887,99153,68790,30363,John Doe,Finance,Cash,INV-1643,Overdue,Urgent payment
+1644,Company D,2024-09-26,391793,130801,260992,205048,55944,Emily Davis,Marketing,Cash,INV-1644,Overdue,Check details
+1645,Company E,2023-11-20,909149,499532,409617,21392,388225,John Doe,Finance,Cash,INV-1645,Pending,-
+1646,Company C,2024-03-07,753666,480875,272791,100505,172286,Emily Davis,Marketing,Credit Card,INV-1646,Pending,-
+1647,Company D,2024-02-03,389122,97539,291583,244679,46904,Jane Smith,Sales,Bank Transfer,INV-1647,Paid,-
+1648,Company D,2023-09-21,206656,155648,51008,27578,23430,Robert Johnson,IT,Credit Card,INV-1648,Overdue,Urgent payment
+1649,Company B,2023-09-26,597652,242533,355119,249147,105972,Alice Brown,Sales,Cash,INV-1649,Paid,Priority client
+1650,Company A,2023-02-09,437856,366656,71200,50693,20507,Alice Brown,Marketing,Bank Transfer,INV-1650,Overdue,-
+1651,Company E,2024-09-04,625061,341609,283452,204596,78856,Emily Davis,IT,Bank Transfer,INV-1651,Paid,-
+1652,Company A,2024-01-26,178229,117509,60720,37723,22997,Alice Brown,Marketing,Cash,INV-1652,Paid,Check details
+1653,Company D,2024-06-02,815130,139239,675891,140111,535780,Robert Johnson,Finance,Bank Transfer,INV-1653,Overdue,Urgent payment
+1654,Company C,2024-06-26,410200,136106,274094,180568,93526,Emily Davis,HR,Online,INV-1654,Paid,Check details
+1655,Company B,2024-02-08,930643,120969,809674,428794,380880,Robert Johnson,Sales,Check,INV-1655,Paid,Priority client
+1656,Company E,2024-01-31,989833,308390,681443,163113,518330,Emily Davis,HR,Credit Card,INV-1656,Pending,Urgent payment
+1657,Company C,2023-08-29,433993,269712,164281,21156,143125,John Doe,Sales,Bank Transfer,INV-1657,Overdue,Priority client
+1658,Company D,2024-02-11,162246,78622,83624,51011,32613,Alice Brown,HR,Cash,INV-1658,Pending,Priority client
+1659,Company E,2023-07-14,217413,114355,103058,51486,51572,Jane Smith,Sales,Credit Card,INV-1659,Overdue,Check details
+1660,Company A,2024-10-06,197355,92736,104619,21852,82767,Robert Johnson,IT,Check,INV-1660,Paid,Priority client
+1661,Company E,2024-08-03,129827,64795,65032,35176,29856,Emily Davis,Marketing,Credit Card,INV-1661,Overdue,Urgent payment
+1662,Company D,2023-05-05,348120,183923,164197,47654,116543,John Doe,IT,Cash,INV-1662,Overdue,-
+1663,Company D,2023-07-18,241549,106131,135418,72471,62947,Emily Davis,Finance,Credit Card,INV-1663,Pending,Check details
+1664,Company B,2023-09-07,323381,204659,118722,92807,25915,Jane Smith,Marketing,Check,INV-1664,Overdue,-
+1665,Company C,2024-11-16,832052,558706,273346,135225,138121,John Doe,Finance,Bank Transfer,INV-1665,Overdue,Priority client
+1666,Company B,2023-03-16,710715,412582,298133,105112,193021,Emily Davis,HR,Bank Transfer,INV-1666,Pending,Priority client
+1667,Company E,2023-03-28,442677,50663,392014,359140,32874,Robert Johnson,Finance,Online,INV-1667,Pending,Priority client
+1668,Company B,2024-07-21,394407,155703,238704,69505,169199,Robert Johnson,HR,Check,INV-1668,Paid,Urgent payment
+1669,Company E,2024-01-24,956487,770165,186322,38179,148143,John Doe,Finance,Check,INV-1669,Paid,-
+1670,Company B,2024-10-27,443219,85846,357373,250900,106473,Robert Johnson,Marketing,Cash,INV-1670,Paid,-
+1671,Company D,2024-03-15,858915,559381,299534,245011,54523,Emily Davis,Marketing,Cash,INV-1671,Overdue,Priority client
+1672,Company C,2024-11-06,149091,66738,82353,53736,28617,Robert Johnson,Sales,Check,INV-1672,Overdue,Check details
+1673,Company D,2024-10-06,559019,92930,466089,355558,110531,Emily Davis,Sales,Check,INV-1673,Pending,Check details
+1674,Company C,2023-02-14,751870,584296,167574,125157,42417,Alice Brown,Sales,Check,INV-1674,Overdue,-
+1675,Company D,2023-07-22,973662,385173,588489,304896,283593,John Doe,Marketing,Online,INV-1675,Overdue,Check details
+1676,Company A,2023-08-17,666064,83690,582374,100293,482081,Emily Davis,IT,Cash,INV-1676,Pending,Priority client
+1677,Company A,2024-08-21,401630,164942,236688,75095,161593,Robert Johnson,Marketing,Cash,INV-1677,Overdue,-
+1678,Company E,2024-08-02,380941,315786,65155,32337,32818,Alice Brown,IT,Online,INV-1678,Paid,-
+1679,Company A,2023-01-28,206633,73668,132965,101080,31885,Robert Johnson,IT,Online,INV-1679,Overdue,Urgent payment
+1680,Company E,2024-07-29,483999,160233,323766,198033,125733,Alice Brown,HR,Online,INV-1680,Paid,-
+1681,Company E,2023-07-17,956008,486600,469408,194247,275161,Emily Davis,Sales,Bank Transfer,INV-1681,Paid,Priority client
+1682,Company D,2024-06-18,311607,190008,121599,92425,29174,Emily Davis,IT,Cash,INV-1682,Pending,Priority client
+1683,Company A,2024-10-03,229247,54506,174741,57730,117011,Robert Johnson,Marketing,Credit Card,INV-1683,Pending,Check details
+1684,Company C,2024-11-01,980655,617883,362772,155868,206904,Emily Davis,Finance,Cash,INV-1684,Pending,Priority client
+1685,Company E,2024-07-24,571251,309042,262209,206192,56017,Robert Johnson,Finance,Online,INV-1685,Overdue,Priority client
+1686,Company B,2024-10-14,460456,89925,370531,135746,234785,Emily Davis,Finance,Credit Card,INV-1686,Pending,Priority client
+1687,Company D,2024-04-13,423676,197529,226147,90588,135559,Emily Davis,Finance,Credit Card,INV-1687,Overdue,-
+1688,Company D,2023-03-20,631740,167856,463884,399815,64069,Alice Brown,IT,Check,INV-1688,Pending,Check details
+1689,Company C,2023-09-27,292754,176761,115993,57605,58388,John Doe,Finance,Credit Card,INV-1689,Paid,-
+1690,Company D,2023-01-16,911735,428300,483435,253788,229647,Alice Brown,Sales,Bank Transfer,INV-1690,Paid,Priority client
+1691,Company E,2023-06-30,568612,362387,206225,146444,59781,Emily Davis,Marketing,Check,INV-1691,Overdue,-
+1692,Company C,2023-11-13,245174,174174,71000,26966,44034,Emily Davis,IT,Check,INV-1692,Overdue,-
+1693,Company C,2023-07-22,752242,315499,436743,192450,244293,John Doe,IT,Bank Transfer,INV-1693,Overdue,-
+1694,Company A,2023-11-01,561041,378592,182449,137880,44569,Emily Davis,Marketing,Bank Transfer,INV-1694,Pending,Check details
+1695,Company B,2024-05-25,417050,50796,366254,132705,233549,Jane Smith,Sales,Cash,INV-1695,Overdue,-
+1696,Company E,2024-09-13,912778,509182,403596,122715,280881,Robert Johnson,Finance,Cash,INV-1696,Overdue,-
+1697,Company D,2024-05-05,787881,387721,400160,293989,106171,Jane Smith,Marketing,Check,INV-1697,Paid,-
+1698,Company C,2023-09-16,335444,271873,63571,28611,34960,Emily Davis,Finance,Bank Transfer,INV-1698,Paid,Check details
+1699,Company D,2023-11-30,787120,85702,701418,68541,632877,John Doe,IT,Credit Card,INV-1699,Overdue,Urgent payment
+1700,Company B,2024-02-13,713364,61461,651903,626595,25308,Alice Brown,IT,Online,INV-1700,Overdue,Check details
+1701,Company D,2024-11-09,949355,260669,688686,181846,506840,Jane Smith,Marketing,Cash,INV-1701,Overdue,Priority client
+1702,Company D,2024-02-09,751865,403831,348034,127073,220961,Alice Brown,Finance,Credit Card,INV-1702,Paid,-
+1703,Company E,2023-10-02,819619,533591,286028,156729,129299,Robert Johnson,HR,Bank Transfer,INV-1703,Pending,Check details
+1704,Company B,2023-09-03,342795,80311,262484,173224,89260,John Doe,Finance,Cash,INV-1704,Pending,Priority client
+1705,Company D,2024-01-06,216065,97991,118074,20137,97937,Jane Smith,HR,Cash,INV-1705,Overdue,Priority client
+1706,Company D,2024-05-04,356179,282002,74177,27794,46383,Robert Johnson,Sales,Credit Card,INV-1706,Pending,-
+1707,Company E,2023-03-26,235518,59299,176219,43560,132659,Emily Davis,Marketing,Credit Card,INV-1707,Pending,-
+1708,Company D,2024-11-16,577765,88427,489338,81118,408220,Alice Brown,Finance,Cash,INV-1708,Overdue,Check details
+1709,Company C,2023-07-02,791236,562474,228762,79501,149261,Jane Smith,Sales,Online,INV-1709,Overdue,Priority client
+1710,Company C,2023-09-16,636886,509601,127285,40283,87002,Robert Johnson,IT,Cash,INV-1710,Paid,Urgent payment
+1711,Company D,2024-07-20,332055,212827,119228,64678,54550,Jane Smith,Sales,Cash,INV-1711,Pending,Check details
+1712,Company B,2023-12-20,752445,153215,599230,522355,76875,Emily Davis,Marketing,Cash,INV-1712,Overdue,Urgent payment
+1713,Company B,2023-03-14,239380,68181,171199,121294,49905,John Doe,Sales,Online,INV-1713,Overdue,Priority client
+1714,Company A,2023-12-19,703836,306576,397260,311896,85364,Robert Johnson,IT,Cash,INV-1714,Pending,Urgent payment
+1715,Company E,2024-10-12,808366,631397,176969,42100,134869,Emily Davis,Sales,Bank Transfer,INV-1715,Overdue,-
+1716,Company E,2023-04-10,850680,627724,222956,153802,69154,Emily Davis,Sales,Credit Card,INV-1716,Pending,Priority client
+1717,Company D,2023-09-08,495049,433039,62010,25600,36410,Emily Davis,HR,Credit Card,INV-1717,Paid,Priority client
+1718,Company D,2024-10-24,719260,226992,492268,24722,467546,Emily Davis,Sales,Cash,INV-1718,Paid,Priority client
+1719,Company A,2024-07-01,644671,150268,494403,373741,120662,Emily Davis,HR,Cash,INV-1719,Overdue,-
+1720,Company B,2023-06-29,342174,55895,286279,68218,218061,Robert Johnson,Sales,Cash,INV-1720,Pending,Check details
+1721,Company C,2024-07-02,404529,287688,116841,28876,87965,Robert Johnson,Finance,Check,INV-1721,Overdue,-
+1722,Company B,2023-09-19,823624,604400,219224,123995,95229,Emily Davis,HR,Check,INV-1722,Overdue,Priority client
+1723,Company D,2023-12-19,198160,75320,122840,30166,92674,Alice Brown,Marketing,Check,INV-1723,Overdue,Urgent payment
+1724,Company B,2024-10-12,307474,202288,105186,25981,79205,Emily Davis,IT,Credit Card,INV-1724,Pending,Priority client
+1725,Company B,2023-06-23,781516,65212,716304,536961,179343,Jane Smith,IT,Check,INV-1725,Overdue,-
+1726,Company D,2023-12-10,401047,275309,125738,64945,60793,Emily Davis,HR,Online,INV-1726,Pending,Urgent payment
+1727,Company E,2023-07-17,812886,254946,557940,382099,175841,Robert Johnson,Marketing,Check,INV-1727,Overdue,Urgent payment
+1728,Company C,2024-04-17,879515,328070,551445,62915,488530,Robert Johnson,IT,Cash,INV-1728,Paid,Priority client
+1729,Company A,2024-03-16,174047,89935,84112,26581,57531,Alice Brown,Finance,Credit Card,INV-1729,Pending,-
+1730,Company E,2024-02-15,675239,196865,478374,229527,248847,Jane Smith,Marketing,Check,INV-1730,Paid,-
+1731,Company B,2024-09-18,247879,137461,110418,78477,31941,Jane Smith,Sales,Credit Card,INV-1731,Paid,Check details
+1732,Company C,2023-08-20,137669,82612,55057,32793,22264,Robert Johnson,Sales,Online,INV-1732,Pending,Priority client
+1733,Company C,2023-10-31,919858,349266,570592,427179,143413,Jane Smith,Sales,Online,INV-1733,Paid,Check details
+1734,Company C,2023-10-04,995551,920054,75497,20399,55098,Robert Johnson,IT,Bank Transfer,INV-1734,Overdue,Urgent payment
+1735,Company E,2024-10-20,143231,90471,52760,32362,20398,Jane Smith,Sales,Bank Transfer,INV-1735,Pending,-
+1736,Company D,2024-03-16,988033,200782,787251,353814,433437,Robert Johnson,Finance,Cash,INV-1736,Pending,Priority client
+1737,Company E,2023-10-24,243879,80589,163290,76471,86819,Jane Smith,IT,Credit Card,INV-1737,Pending,-
+1738,Company B,2024-04-21,695759,382414,313345,28449,284896,John Doe,HR,Bank Transfer,INV-1738,Overdue,Priority client
+1739,Company E,2023-11-15,322334,227750,94584,26805,67779,John Doe,HR,Bank Transfer,INV-1739,Pending,Check details
+1740,Company E,2024-04-26,657435,108982,548453,448939,99514,Robert Johnson,Marketing,Cash,INV-1740,Paid,-
+1741,Company E,2023-05-24,108802,53938,54864,25357,29507,Robert Johnson,Finance,Cash,INV-1741,Overdue,Urgent payment
+1742,Company A,2024-10-19,660399,258830,401569,337691,63878,Robert Johnson,Sales,Check,INV-1742,Overdue,-
+1743,Company C,2023-11-18,444250,340334,103916,50582,53334,Robert Johnson,Marketing,Bank Transfer,INV-1743,Overdue,Check details
+1744,Company B,2024-10-16,963356,759553,203803,97755,106048,Emily Davis,Sales,Online,INV-1744,Paid,Urgent payment
+1745,Company E,2024-07-03,292180,202886,89294,24426,64868,Jane Smith,Sales,Online,INV-1745,Pending,Urgent payment
+1746,Company B,2024-09-07,471736,228398,243338,158289,85049,Robert Johnson,Marketing,Bank Transfer,INV-1746,Pending,Urgent payment
+1747,Company A,2023-04-26,369443,155113,214330,131418,82912,Jane Smith,HR,Cash,INV-1747,Overdue,Priority client
+1748,Company E,2024-02-03,860218,312528,547690,302046,245644,Alice Brown,Sales,Online,INV-1748,Pending,Priority client
+1749,Company B,2023-07-16,309262,68145,241117,184392,56725,Emily Davis,Sales,Bank Transfer,INV-1749,Overdue,Check details
+1750,Company D,2023-04-16,231752,83061,148691,112414,36277,John Doe,IT,Check,INV-1750,Pending,Check details
+1751,Company D,2023-12-01,379985,260688,119297,68400,50897,Alice Brown,Sales,Bank Transfer,INV-1751,Pending,Priority client
+1752,Company A,2023-02-12,343823,264493,79330,31764,47566,Emily Davis,Marketing,Online,INV-1752,Overdue,Priority client
+1753,Company C,2023-04-12,927090,540653,386437,195710,190727,John Doe,Finance,Bank Transfer,INV-1753,Paid,Check details
+1754,Company A,2023-07-13,680857,259865,420992,183876,237116,John Doe,IT,Credit Card,INV-1754,Overdue,-
+1755,Company A,2023-07-30,441698,143481,298217,192521,105696,Jane Smith,Finance,Check,INV-1755,Paid,Priority client
+1756,Company A,2024-06-04,485779,346902,138877,50255,88622,Emily Davis,Marketing,Credit Card,INV-1756,Overdue,Priority client
+1757,Company A,2024-08-30,734591,474232,260359,231029,29330,Emily Davis,Marketing,Online,INV-1757,Pending,-
+1758,Company C,2024-05-07,254620,129619,125001,53711,71290,Alice Brown,Marketing,Credit Card,INV-1758,Paid,-
+1759,Company D,2023-09-06,527161,273895,253266,45967,207299,John Doe,Finance,Online,INV-1759,Paid,Urgent payment
+1760,Company A,2024-04-06,793635,122707,670928,415702,255226,Jane Smith,IT,Online,INV-1760,Pending,Urgent payment
+1761,Company E,2023-10-21,677465,131818,545647,514300,31347,Alice Brown,Sales,Bank Transfer,INV-1761,Pending,Urgent payment
+1762,Company E,2024-11-10,870945,77898,793047,248899,544148,Robert Johnson,IT,Online,INV-1762,Overdue,Urgent payment
+1763,Company B,2024-08-05,129003,57666,71337,24857,46480,Robert Johnson,IT,Online,INV-1763,Paid,Priority client
+1764,Company B,2024-11-16,134520,80339,54181,26141,28040,Jane Smith,IT,Credit Card,INV-1764,Paid,Priority client
+1765,Company A,2024-10-11,809037,73085,735952,434524,301428,John Doe,Marketing,Credit Card,INV-1765,Overdue,Check details
+1766,Company E,2024-07-14,442778,78560,364218,135034,229184,Robert Johnson,Finance,Cash,INV-1766,Pending,Priority client
+1767,Company D,2024-11-04,475731,263450,212281,20476,191805,Emily Davis,Marketing,Credit Card,INV-1767,Paid,Check details
+1768,Company B,2023-09-19,435764,225010,210754,20907,189847,Jane Smith,HR,Cash,INV-1768,Overdue,Priority client
+1769,Company D,2024-11-14,581173,458310,122863,23367,99496,John Doe,Sales,Online,INV-1769,Overdue,Priority client
+1770,Company B,2023-04-26,618142,83735,534407,49729,484678,Alice Brown,IT,Credit Card,INV-1770,Paid,Urgent payment
+1771,Company A,2024-04-16,713117,272472,440645,273729,166916,Robert Johnson,Sales,Credit Card,INV-1771,Pending,Check details
+1772,Company E,2024-06-01,551282,410363,140919,81305,59614,Robert Johnson,Sales,Cash,INV-1772,Overdue,-
+1773,Company C,2023-08-10,806758,92334,714424,278049,436375,Robert Johnson,Sales,Check,INV-1773,Pending,Priority client
+1774,Company D,2024-09-27,362998,270082,92916,26422,66494,Alice Brown,Sales,Online,INV-1774,Pending,Priority client
+1775,Company B,2023-06-11,573674,249632,324042,107453,216589,Alice Brown,HR,Cash,INV-1775,Pending,-
+1776,Company C,2024-07-07,595515,187530,407985,311388,96597,John Doe,IT,Online,INV-1776,Overdue,Priority client
+1777,Company A,2024-05-26,412396,123848,288548,90446,198102,John Doe,Sales,Check,INV-1777,Overdue,-
+1778,Company D,2023-09-05,346334,204336,141998,90309,51689,John Doe,Sales,Online,INV-1778,Pending,-
+1779,Company A,2023-03-16,184580,103399,81181,24152,57029,Alice Brown,IT,Online,INV-1779,Overdue,Urgent payment
+1780,Company E,2023-07-31,169729,118950,50779,30582,20197,Robert Johnson,IT,Credit Card,INV-1780,Pending,Check details
+1781,Company C,2024-04-08,557710,247483,310227,159222,151005,Robert Johnson,HR,Credit Card,INV-1781,Paid,Priority client
+1782,Company B,2024-11-09,714813,525667,189146,70116,119030,Robert Johnson,Finance,Credit Card,INV-1782,Pending,Urgent payment
+1783,Company C,2024-07-27,481717,361152,120565,20645,99920,Alice Brown,IT,Cash,INV-1783,Overdue,Priority client
+1784,Company C,2023-02-19,657292,599485,57807,35834,21973,Robert Johnson,Marketing,Bank Transfer,INV-1784,Pending,Priority client
+1785,Company B,2023-07-23,652462,200844,451618,258880,192738,Emily Davis,Marketing,Check,INV-1785,Pending,Priority client
+1786,Company E,2024-02-29,399118,210722,188396,89914,98482,John Doe,Marketing,Cash,INV-1786,Paid,Check details
+1787,Company D,2024-07-30,705232,183040,522192,454123,68069,Jane Smith,Finance,Credit Card,INV-1787,Pending,-
+1788,Company A,2023-10-23,378582,159403,219179,73017,146162,Emily Davis,Marketing,Credit Card,INV-1788,Overdue,Urgent payment
+1789,Company E,2023-03-23,166870,113692,53178,28624,24554,Jane Smith,Finance,Credit Card,INV-1789,Paid,Check details
+1790,Company B,2023-03-29,532504,341515,190989,111481,79508,Alice Brown,Finance,Credit Card,INV-1790,Paid,-
+1791,Company E,2024-09-03,725874,335771,390103,111718,278385,Robert Johnson,Sales,Check,INV-1791,Overdue,Priority client
+1792,Company B,2024-08-06,827734,583477,244257,26954,217303,Robert Johnson,Marketing,Cash,INV-1792,Overdue,Urgent payment
+1793,Company A,2023-02-25,989016,347503,641513,404137,237376,Alice Brown,HR,Bank Transfer,INV-1793,Pending,Urgent payment
+1794,Company B,2023-01-24,143312,60005,83307,57630,25677,Jane Smith,Sales,Bank Transfer,INV-1794,Paid,Urgent payment
+1795,Company A,2023-11-17,126369,70044,56325,33437,22888,John Doe,HR,Online,INV-1795,Overdue,Check details
+1796,Company B,2023-08-08,820874,320432,500442,378569,121873,John Doe,HR,Cash,INV-1796,Paid,Check details
+1797,Company B,2023-08-30,392636,306714,85922,64263,21659,Alice Brown,Sales,Bank Transfer,INV-1797,Overdue,Priority client
+1798,Company E,2024-09-21,484662,99270,385392,307842,77550,John Doe,Sales,Cash,INV-1798,Paid,Check details
+1799,Company B,2024-05-01,647536,474267,173269,118354,54915,Jane Smith,Sales,Cash,INV-1799,Overdue,Check details
+1800,Company C,2023-07-10,865688,237000,628688,592585,36103,John Doe,IT,Cash,INV-1800,Pending,Priority client
+1801,Company D,2023-05-24,291782,108674,183108,49146,133962,Alice Brown,Marketing,Cash,INV-1801,Paid,Urgent payment
+1802,Company E,2023-10-30,350169,200102,150067,67561,82506,Emily Davis,HR,Cash,INV-1802,Overdue,Urgent payment
+1803,Company C,2023-11-19,176592,62333,114259,76093,38166,Alice Brown,Finance,Check,INV-1803,Paid,Priority client
+1804,Company A,2024-11-14,470984,341850,129134,104047,25087,Jane Smith,Sales,Online,INV-1804,Paid,Check details
+1805,Company D,2024-01-27,829917,762506,67411,45938,21473,Emily Davis,Finance,Cash,INV-1805,Paid,Check details
+1806,Company A,2024-03-09,562879,423527,139352,97371,41981,Alice Brown,Finance,Credit Card,INV-1806,Paid,-
+1807,Company C,2023-10-16,416646,349921,66725,38891,27834,John Doe,HR,Bank Transfer,INV-1807,Overdue,Urgent payment
+1808,Company B,2024-08-18,979044,850880,128164,37753,90411,Emily Davis,Sales,Online,INV-1808,Paid,Check details
+1809,Company D,2023-07-02,411329,282262,129067,66483,62584,Jane Smith,Finance,Cash,INV-1809,Overdue,-
+1810,Company A,2024-01-27,927413,582874,344539,75933,268606,Alice Brown,Finance,Credit Card,INV-1810,Overdue,-
+1811,Company A,2023-10-13,952669,769095,183574,67340,116234,Alice Brown,HR,Credit Card,INV-1811,Overdue,Urgent payment
+1812,Company E,2024-06-11,186455,79898,106557,52525,54032,John Doe,IT,Bank Transfer,INV-1812,Paid,Urgent payment
+1813,Company C,2024-11-13,216225,153818,62407,30943,31464,John Doe,HR,Bank Transfer,INV-1813,Pending,Check details
+1814,Company D,2024-01-01,868747,797054,71693,26774,44919,Jane Smith,HR,Bank Transfer,INV-1814,Paid,Check details
+1815,Company C,2023-11-23,195759,80530,115229,74395,40834,Alice Brown,Marketing,Bank Transfer,INV-1815,Pending,Priority client
+1816,Company D,2024-06-07,349513,132593,216920,32824,184096,Jane Smith,HR,Online,INV-1816,Paid,Priority client
+1817,Company D,2023-06-22,994354,159890,834464,533406,301058,Jane Smith,Finance,Bank Transfer,INV-1817,Pending,Priority client
+1818,Company D,2023-03-13,368290,206189,162101,138396,23705,Jane Smith,HR,Cash,INV-1818,Pending,Priority client
+1819,Company D,2024-04-16,620994,302061,318933,232036,86897,John Doe,Finance,Credit Card,INV-1819,Pending,Urgent payment
+1820,Company B,2024-02-12,265261,188585,76676,48251,28425,Emily Davis,Finance,Bank Transfer,INV-1820,Paid,Check details
+1821,Company B,2023-01-10,800515,623217,177298,146990,30308,Robert Johnson,Sales,Check,INV-1821,Pending,Urgent payment
+1822,Company C,2023-10-04,398445,173293,225152,71114,154038,John Doe,Finance,Bank Transfer,INV-1822,Overdue,Priority client
+1823,Company A,2024-04-05,725620,361994,363626,303683,59943,Alice Brown,Finance,Cash,INV-1823,Overdue,Urgent payment
+1824,Company C,2023-03-03,450231,105153,345078,229621,115457,Robert Johnson,IT,Online,INV-1824,Overdue,Check details
+1825,Company A,2023-02-05,618601,358950,259651,93219,166432,Jane Smith,HR,Bank Transfer,INV-1825,Overdue,Priority client
+1826,Company D,2024-04-11,448617,246928,201689,132827,68862,Robert Johnson,Marketing,Check,INV-1826,Pending,-
+1827,Company A,2023-12-25,394040,50554,343486,302537,40949,Emily Davis,Finance,Bank Transfer,INV-1827,Overdue,-
+1828,Company C,2024-07-06,758204,90474,667730,100997,566733,Emily Davis,Marketing,Credit Card,INV-1828,Overdue,Priority client
+1829,Company D,2023-07-11,655178,174365,480813,172637,308176,Alice Brown,HR,Check,INV-1829,Paid,-
+1830,Company E,2024-01-03,616453,213928,402525,81161,321364,Emily Davis,HR,Online,INV-1830,Pending,-
+1831,Company B,2023-05-21,646972,493843,153129,68526,84603,Robert Johnson,Finance,Bank Transfer,INV-1831,Pending,Urgent payment
+1832,Company B,2023-12-14,371462,54383,317079,101431,215648,John Doe,Marketing,Online,INV-1832,Pending,Priority client
+1833,Company C,2023-09-09,573802,447714,126088,76507,49581,Emily Davis,IT,Credit Card,INV-1833,Paid,-
+1834,Company B,2023-01-20,569304,282297,287007,131334,155673,John Doe,IT,Bank Transfer,INV-1834,Paid,Check details
+1835,Company D,2024-08-18,711520,167479,544041,420435,123606,Alice Brown,Finance,Online,INV-1835,Paid,Priority client
+1836,Company E,2023-09-05,790360,206955,583405,456862,126543,Robert Johnson,HR,Credit Card,INV-1836,Paid,Check details
+1837,Company D,2023-04-18,103957,53142,50815,28425,22390,Emily Davis,Finance,Cash,INV-1837,Pending,-
+1838,Company B,2023-12-24,679251,453604,225647,147927,77720,Emily Davis,Marketing,Cash,INV-1838,Overdue,Urgent payment
+1839,Company E,2023-01-18,595434,371460,223974,98893,125081,John Doe,IT,Cash,INV-1839,Paid,-
+1840,Company B,2024-03-26,520994,378761,142233,42334,99899,John Doe,Sales,Online,INV-1840,Paid,Urgent payment
+1841,Company B,2024-02-08,608680,266058,342622,76606,266016,Robert Johnson,Finance,Online,INV-1841,Pending,Priority client
+1842,Company C,2024-08-26,658049,594347,63702,33185,30517,Alice Brown,Finance,Online,INV-1842,Paid,Check details
+1843,Company A,2023-03-05,577244,177575,399669,159648,240021,Robert Johnson,Finance,Bank Transfer,INV-1843,Paid,Priority client
+1844,Company E,2023-03-06,993258,934394,58864,33739,25125,Jane Smith,Marketing,Credit Card,INV-1844,Overdue,-
+1845,Company C,2023-12-23,891370,573866,317504,270520,46984,Alice Brown,Sales,Cash,INV-1845,Paid,Urgent payment
+1846,Company E,2024-05-20,932405,586350,346055,216416,129639,Robert Johnson,Sales,Online,INV-1846,Overdue,Check details
+1847,Company A,2024-08-09,379314,302357,76957,44613,32344,Alice Brown,Finance,Cash,INV-1847,Paid,Urgent payment
+1848,Company E,2024-01-17,515864,346241,169623,44341,125282,John Doe,HR,Online,INV-1848,Overdue,Priority client
+1849,Company C,2023-02-07,793851,647713,146138,56200,89938,Robert Johnson,Marketing,Check,INV-1849,Pending,Urgent payment
+1850,Company D,2023-01-23,644052,159704,484348,214882,269466,Emily Davis,IT,Credit Card,INV-1850,Pending,-
+1851,Company C,2023-04-11,319755,174430,145325,21222,124103,Emily Davis,Finance,Bank Transfer,INV-1851,Overdue,Priority client
+1852,Company A,2023-03-03,237831,164780,73051,51907,21144,Emily Davis,Sales,Cash,INV-1852,Paid,Urgent payment
+1853,Company D,2023-04-15,632602,53100,579502,332022,247480,John Doe,Marketing,Bank Transfer,INV-1853,Pending,-
+1854,Company D,2024-06-08,772848,143035,629813,441791,188022,Jane Smith,Finance,Credit Card,INV-1854,Paid,Check details
+1855,Company A,2024-05-05,938146,667076,271070,242868,28202,Jane Smith,HR,Bank Transfer,INV-1855,Paid,Priority client
+1856,Company C,2023-10-15,965823,900281,65542,21109,44433,Jane Smith,IT,Cash,INV-1856,Pending,Urgent payment
+1857,Company A,2023-04-17,950282,600959,349323,286683,62640,Emily Davis,HR,Check,INV-1857,Pending,Urgent payment
+1858,Company B,2023-09-12,367160,150632,216528,62364,154164,John Doe,IT,Credit Card,INV-1858,Paid,Urgent payment
+1859,Company A,2024-08-08,508016,381561,126455,33115,93340,John Doe,Finance,Cash,INV-1859,Overdue,Priority client
+1860,Company C,2024-01-15,575566,346426,229140,64788,164352,Robert Johnson,Marketing,Check,INV-1860,Paid,Urgent payment
+1861,Company B,2024-02-04,907020,340447,566573,483664,82909,John Doe,Finance,Bank Transfer,INV-1861,Pending,Priority client
+1862,Company D,2023-03-01,604962,175119,429843,130675,299168,Robert Johnson,Sales,Cash,INV-1862,Overdue,Priority client
+1863,Company A,2023-09-11,159309,80859,78450,27595,50855,Robert Johnson,Finance,Credit Card,INV-1863,Overdue,-
+1864,Company C,2023-02-17,357749,187217,170532,117290,53242,Robert Johnson,IT,Online,INV-1864,Paid,-
+1865,Company E,2024-05-24,504536,423923,80613,41751,38862,John Doe,IT,Credit Card,INV-1865,Pending,Check details
+1866,Company B,2023-05-30,365738,96011,269727,239946,29781,Robert Johnson,Sales,Online,INV-1866,Overdue,-
+1867,Company E,2024-01-07,651504,559339,92165,57544,34621,John Doe,Sales,Check,INV-1867,Paid,-
+1868,Company A,2023-03-11,944971,138877,806094,445407,360687,John Doe,Finance,Check,INV-1868,Overdue,Check details
+1869,Company A,2023-09-11,725863,553099,172764,40712,132052,Jane Smith,Finance,Online,INV-1869,Pending,Urgent payment
+1870,Company D,2023-06-11,634146,466992,167154,103116,64038,Robert Johnson,Finance,Credit Card,INV-1870,Paid,-
+1871,Company E,2023-01-14,169596,116767,52829,25699,27130,Jane Smith,Finance,Check,INV-1871,Paid,-
+1872,Company B,2023-08-02,683067,540327,142740,43352,99388,Jane Smith,Finance,Credit Card,INV-1872,Paid,-
+1873,Company B,2024-05-06,726245,458616,267629,35661,231968,Alice Brown,IT,Online,INV-1873,Overdue,Check details
+1874,Company A,2023-03-26,380296,84339,295957,197413,98544,Alice Brown,HR,Online,INV-1874,Pending,Priority client
+1875,Company E,2024-01-10,188088,76055,112033,81245,30788,Robert Johnson,Marketing,Bank Transfer,INV-1875,Overdue,Urgent payment
+1876,Company A,2024-02-01,803268,455827,347441,282992,64449,Jane Smith,Sales,Bank Transfer,INV-1876,Pending,Priority client
+1877,Company A,2023-04-12,395762,282079,113683,51318,62365,Alice Brown,IT,Cash,INV-1877,Paid,Check details
+1878,Company C,2024-01-05,504059,231920,272139,233595,38544,Emily Davis,HR,Online,INV-1878,Paid,Priority client
+1879,Company C,2023-12-24,682810,411064,271746,53067,218679,John Doe,Sales,Bank Transfer,INV-1879,Paid,Priority client
+1880,Company A,2024-04-05,945800,671960,273840,227603,46237,John Doe,Finance,Cash,INV-1880,Pending,Check details
+1881,Company A,2024-10-25,904248,231021,673227,388337,284890,Robert Johnson,Marketing,Credit Card,INV-1881,Overdue,Urgent payment
+1882,Company A,2024-10-12,316442,139058,177384,76990,100394,Alice Brown,Finance,Credit Card,INV-1882,Pending,-
+1883,Company D,2023-12-28,430379,234817,195562,58055,137507,Emily Davis,Marketing,Cash,INV-1883,Paid,Urgent payment
+1884,Company B,2023-10-08,141833,84493,57340,27006,30334,Robert Johnson,Marketing,Bank Transfer,INV-1884,Overdue,Check details
+1885,Company C,2023-04-01,737605,51800,685805,299215,386590,Robert Johnson,Finance,Check,INV-1885,Pending,-
+1886,Company A,2024-02-19,181033,110120,70913,49449,21464,Jane Smith,IT,Credit Card,INV-1886,Paid,Urgent payment
+1887,Company C,2023-01-14,238559,172136,66423,35802,30621,John Doe,Finance,Check,INV-1887,Overdue,Urgent payment
+1888,Company C,2024-08-09,684473,369075,315398,40832,274566,John Doe,Finance,Online,INV-1888,Pending,Urgent payment
+1889,Company B,2024-05-11,936366,215475,720891,125849,595042,John Doe,HR,Bank Transfer,INV-1889,Pending,-
+1890,Company B,2024-10-20,247736,165378,82358,53308,29050,John Doe,IT,Cash,INV-1890,Pending,-
+1891,Company B,2023-04-05,839238,738103,101135,27803,73332,Robert Johnson,IT,Cash,INV-1891,Paid,Urgent payment
+1892,Company D,2023-06-16,534418,179590,354828,202704,152124,John Doe,Finance,Online,INV-1892,Overdue,Urgent payment
+1893,Company A,2024-07-08,719564,92068,627496,79181,548315,Jane Smith,Finance,Check,INV-1893,Pending,Check details
+1894,Company E,2023-03-30,251012,76267,174745,66762,107983,Jane Smith,IT,Online,INV-1894,Overdue,Urgent payment
+1895,Company E,2023-10-11,624696,514798,109898,88966,20932,Alice Brown,IT,Bank Transfer,INV-1895,Paid,Urgent payment
+1896,Company B,2023-10-22,678107,70185,607922,68787,539135,Robert Johnson,Marketing,Bank Transfer,INV-1896,Pending,-
+1897,Company B,2023-11-04,335608,130357,205251,174359,30892,John Doe,Marketing,Check,INV-1897,Paid,Urgent payment
+1898,Company A,2023-01-18,795130,446485,348645,301732,46913,John Doe,Finance,Cash,INV-1898,Paid,Priority client
+1899,Company C,2023-05-05,998692,140814,857878,773671,84207,Jane Smith,Marketing,Bank Transfer,INV-1899,Overdue,Urgent payment
+1900,Company C,2023-09-24,715230,514815,200415,69301,131114,Alice Brown,IT,Credit Card,INV-1900,Overdue,Check details
+1901,Company A,2024-03-22,585790,330337,255453,132106,123347,Jane Smith,HR,Check,INV-1901,Overdue,Urgent payment
+1902,Company E,2023-12-05,284071,139539,144532,88519,56013,Robert Johnson,IT,Bank Transfer,INV-1902,Pending,Check details
+1903,Company D,2023-07-24,264850,143997,120853,70264,50589,Jane Smith,Finance,Bank Transfer,INV-1903,Paid,-
+1904,Company E,2023-02-08,973680,94997,878683,130262,748421,Jane Smith,Sales,Cash,INV-1904,Paid,-
+1905,Company C,2024-02-15,488821,419581,69240,23061,46179,Alice Brown,Sales,Online,INV-1905,Overdue,Priority client
+1906,Company D,2023-07-11,243919,193791,50128,21926,28202,Emily Davis,HR,Bank Transfer,INV-1906,Paid,-
+1907,Company B,2023-08-30,417617,167810,249807,172156,77651,Jane Smith,Marketing,Bank Transfer,INV-1907,Overdue,Check details
+1908,Company E,2023-10-13,653340,457632,195708,85761,109947,Robert Johnson,HR,Cash,INV-1908,Pending,Urgent payment
+1909,Company B,2024-01-30,841320,519064,322256,138695,183561,John Doe,Marketing,Bank Transfer,INV-1909,Pending,Check details
+1910,Company C,2023-07-29,217158,161622,55536,28136,27400,John Doe,Marketing,Online,INV-1910,Overdue,Urgent payment
+1911,Company A,2024-09-21,931264,676220,255044,213813,41231,Jane Smith,Sales,Cash,INV-1911,Paid,Check details
+1912,Company B,2023-12-10,132373,59940,72433,23631,48802,Jane Smith,Sales,Cash,INV-1912,Paid,-
+1913,Company C,2023-07-23,549806,130508,419298,240019,179279,Jane Smith,Sales,Check,INV-1913,Pending,Urgent payment
+1914,Company A,2023-02-21,654606,144300,510306,165406,344900,Alice Brown,Marketing,Online,INV-1914,Paid,Priority client
+1915,Company E,2023-07-07,244087,123905,120182,73809,46373,Alice Brown,IT,Credit Card,INV-1915,Pending,Check details
+1916,Company C,2024-11-10,590775,341120,249655,210554,39101,Emily Davis,IT,Bank Transfer,INV-1916,Paid,Priority client
+1917,Company E,2023-09-14,516308,133468,382840,74267,308573,Emily Davis,Finance,Bank Transfer,INV-1917,Pending,Check details
+1918,Company A,2024-09-20,298792,230078,68714,44865,23849,John Doe,HR,Cash,INV-1918,Paid,Priority client
+1919,Company B,2023-05-30,752407,346556,405851,320928,84923,Emily Davis,Finance,Cash,INV-1919,Paid,-
+1920,Company D,2023-10-27,881076,421679,459397,319374,140023,Robert Johnson,HR,Check,INV-1920,Pending,Check details
+1921,Company E,2024-09-23,183362,63592,119770,87298,32472,Alice Brown,Finance,Credit Card,INV-1921,Paid,Check details
+1922,Company C,2023-11-01,683609,202617,480992,32628,448364,Emily Davis,HR,Credit Card,INV-1922,Overdue,Urgent payment
+1923,Company C,2024-01-15,411927,116365,295562,160529,135033,Jane Smith,IT,Credit Card,INV-1923,Pending,Urgent payment
+1924,Company C,2023-05-08,954375,492120,462255,72144,390111,John Doe,Finance,Online,INV-1924,Pending,-
+1925,Company B,2023-09-24,163839,59076,104763,45692,59071,Jane Smith,IT,Credit Card,INV-1925,Pending,-
+1926,Company C,2024-10-23,187719,124008,63711,26576,37135,Emily Davis,Sales,Cash,INV-1926,Overdue,Check details
+1927,Company B,2023-10-23,230312,177663,52649,22044,30605,John Doe,Finance,Cash,INV-1927,Overdue,Priority client
+1928,Company A,2024-10-16,122395,52002,70393,33757,36636,Robert Johnson,Marketing,Cash,INV-1928,Pending,Check details
+1929,Company C,2023-12-06,752375,681830,70545,45262,25283,Robert Johnson,IT,Bank Transfer,INV-1929,Pending,-
+1930,Company D,2024-04-13,833384,617877,215507,69617,145890,Robert Johnson,IT,Online,INV-1930,Paid,Priority client
+1931,Company D,2024-01-20,869640,812479,57161,22751,34410,Emily Davis,Sales,Online,INV-1931,Paid,Check details
+1932,Company A,2023-04-02,638052,291693,346359,301799,44560,Alice Brown,IT,Credit Card,INV-1932,Overdue,Priority client
+1933,Company A,2023-04-02,160542,63131,97411,32359,65052,John Doe,Marketing,Online,INV-1933,Overdue,Priority client
+1934,Company E,2023-11-19,663439,535182,128257,27611,100646,Alice Brown,Finance,Check,INV-1934,Pending,Urgent payment
+1935,Company C,2023-07-02,184462,79097,105365,20381,84984,John Doe,IT,Check,INV-1935,Paid,Priority client
+1936,Company B,2024-08-31,468389,242155,226234,40626,185608,Alice Brown,Finance,Online,INV-1936,Overdue,Priority client
+1937,Company D,2023-06-05,810294,573502,236792,209743,27049,John Doe,IT,Bank Transfer,INV-1937,Paid,Check details
+1938,Company A,2023-10-30,626843,459527,167316,136406,30910,Robert Johnson,Sales,Cash,INV-1938,Overdue,Urgent payment
+1939,Company A,2023-06-06,426669,249879,176790,108172,68618,Jane Smith,Finance,Bank Transfer,INV-1939,Pending,Urgent payment
+1940,Company B,2024-11-01,351718,63006,288712,200180,88532,Jane Smith,IT,Check,INV-1940,Pending,Priority client
+1941,Company B,2024-10-11,692794,538308,154486,23237,131249,Emily Davis,IT,Check,INV-1941,Pending,Check details
+1942,Company D,2023-08-30,799420,66513,732907,117801,615106,Alice Brown,HR,Check,INV-1942,Paid,-
+1943,Company C,2023-03-06,185873,77856,108017,35305,72712,John Doe,Marketing,Check,INV-1943,Pending,Check details
+1944,Company B,2024-01-25,567829,222453,345376,176300,169076,John Doe,Sales,Cash,INV-1944,Overdue,-
+1945,Company A,2023-11-05,928176,839777,88399,58262,30137,Robert Johnson,Sales,Credit Card,INV-1945,Pending,Urgent payment
+1946,Company B,2023-10-12,515789,383328,132461,108724,23737,Alice Brown,Marketing,Bank Transfer,INV-1946,Pending,Urgent payment
+1947,Company D,2024-11-15,318639,217414,101225,39911,61314,Emily Davis,Sales,Check,INV-1947,Paid,Urgent payment
+1948,Company B,2023-08-30,419668,268772,150896,55779,95117,Robert Johnson,Finance,Bank Transfer,INV-1948,Paid,-
+1949,Company D,2024-01-25,261181,113132,148049,68730,79319,John Doe,Marketing,Online,INV-1949,Paid,-
+1950,Company B,2024-03-08,148049,54773,93276,63266,30010,Alice Brown,Marketing,Check,INV-1950,Paid,Urgent payment
+1951,Company E,2024-09-16,922118,405117,517001,78516,438485,Alice Brown,Marketing,Cash,INV-1951,Paid,Urgent payment
+1952,Company E,2023-02-22,224987,120318,104669,33719,70950,Alice Brown,Sales,Cash,INV-1952,Overdue,-
+1953,Company D,2023-02-27,351909,180291,171618,107165,64453,Alice Brown,Sales,Bank Transfer,INV-1953,Overdue,Check details
+1954,Company E,2023-07-25,962855,840618,122237,100712,21525,Alice Brown,IT,Bank Transfer,INV-1954,Paid,Urgent payment
+1955,Company D,2023-06-22,472877,353133,119744,94462,25282,Robert Johnson,IT,Check,INV-1955,Paid,Priority client
+1956,Company D,2024-01-05,596248,104936,491312,64524,426788,Jane Smith,HR,Cash,INV-1956,Pending,Check details
+1957,Company B,2024-04-19,658671,595680,62991,36399,26592,Emily Davis,Finance,Online,INV-1957,Overdue,Check details
+1958,Company D,2024-01-25,201436,87340,114096,62309,51787,John Doe,IT,Bank Transfer,INV-1958,Paid,Priority client
+1959,Company B,2023-02-13,936113,700764,235349,163069,72280,John Doe,Marketing,Credit Card,INV-1959,Overdue,Priority client
+1960,Company D,2023-12-31,408085,283221,124864,78377,46487,Robert Johnson,Marketing,Credit Card,INV-1960,Overdue,Priority client
+1961,Company D,2024-03-24,578012,483261,94751,24652,70099,Emily Davis,Sales,Cash,INV-1961,Paid,-
+1962,Company B,2024-07-14,149883,68876,81007,31803,49204,Alice Brown,IT,Check,INV-1962,Overdue,-
+1963,Company A,2024-02-19,418373,150680,267693,183682,84011,Robert Johnson,Finance,Online,INV-1963,Overdue,Urgent payment
+1964,Company E,2024-02-24,107728,53515,54213,30193,24020,Alice Brown,Finance,Check,INV-1964,Overdue,Check details
+1965,Company D,2024-09-28,235180,53102,182078,146577,35501,John Doe,Finance,Bank Transfer,INV-1965,Paid,Urgent payment
+1966,Company A,2024-02-16,389894,306405,83489,40910,42579,Jane Smith,Finance,Online,INV-1966,Pending,-
+1967,Company B,2024-05-02,611481,400418,211063,43182,167881,Alice Brown,HR,Bank Transfer,INV-1967,Overdue,Urgent payment
+1968,Company B,2023-06-12,390799,235977,154822,123258,31564,Robert Johnson,HR,Check,INV-1968,Paid,Check details
+1969,Company E,2023-01-03,566009,147722,418287,69510,348777,Jane Smith,HR,Online,INV-1969,Paid,Priority client
+1970,Company B,2023-09-29,597189,150421,446768,396369,50399,Robert Johnson,IT,Credit Card,INV-1970,Paid,Priority client
+1971,Company D,2023-11-26,274368,111134,163234,105491,57743,John Doe,IT,Online,INV-1971,Pending,Check details
+1972,Company D,2023-01-29,648646,269260,379386,256582,122804,John Doe,Marketing,Cash,INV-1972,Pending,Check details
+1973,Company C,2024-01-11,844692,161352,683340,20375,662965,Robert Johnson,Finance,Cash,INV-1973,Paid,-
+1974,Company E,2023-11-27,666161,426470,239691,182371,57320,Jane Smith,Finance,Check,INV-1974,Overdue,Check details
+1975,Company D,2023-05-25,947951,283825,664126,351850,312276,Emily Davis,Finance,Check,INV-1975,Overdue,Check details
+1976,Company E,2024-01-16,296703,95690,201013,140843,60170,Robert Johnson,Finance,Credit Card,INV-1976,Overdue,Priority client
+1977,Company D,2024-03-09,528617,54335,474282,103959,370323,John Doe,HR,Check,INV-1977,Paid,Check details
+1978,Company E,2023-01-04,475471,221617,253854,20338,233516,Emily Davis,Sales,Online,INV-1978,Paid,Priority client
+1979,Company B,2024-08-29,874176,266931,607245,576699,30546,Jane Smith,Sales,Credit Card,INV-1979,Paid,-
+1980,Company B,2024-11-14,618314,400240,218074,78149,139925,Jane Smith,IT,Bank Transfer,INV-1980,Overdue,-
+1981,Company D,2024-03-02,950157,565230,384927,303837,81090,Robert Johnson,Finance,Check,INV-1981,Pending,Priority client
+1982,Company B,2023-08-27,879606,55927,823679,671518,152161,John Doe,Marketing,Cash,INV-1982,Pending,-
+1983,Company C,2023-09-20,782407,623370,159037,117957,41080,John Doe,Marketing,Cash,INV-1983,Overdue,Priority client
+1984,Company A,2024-04-16,667537,182852,484685,286212,198473,John Doe,Finance,Credit Card,INV-1984,Pending,-
+1985,Company E,2023-02-11,790855,204646,586209,426274,159935,John Doe,IT,Cash,INV-1985,Overdue,Check details
+1986,Company A,2023-01-09,442225,310080,132145,26520,105625,Emily Davis,IT,Cash,INV-1986,Paid,Urgent payment
+1987,Company B,2024-10-16,610913,82829,528084,362456,165628,John Doe,IT,Cash,INV-1987,Overdue,Urgent payment
+1988,Company E,2024-05-15,459283,246662,212621,75236,137385,Jane Smith,HR,Bank Transfer,INV-1988,Pending,-
+1989,Company C,2024-06-23,569918,373912,196006,115000,81006,Robert Johnson,Marketing,Check,INV-1989,Paid,-
+1990,Company E,2024-08-12,750425,307102,443323,168167,275156,Emily Davis,IT,Check,INV-1990,Overdue,Priority client
+1991,Company A,2024-07-04,258061,108741,149320,107041,42279,Emily Davis,IT,Cash,INV-1991,Overdue,Check details
+1992,Company E,2023-12-02,571502,422464,149038,64644,84394,Emily Davis,HR,Check,INV-1992,Paid,Urgent payment
+1993,Company C,2023-04-26,595858,441577,154281,104111,50170,Alice Brown,HR,Check,INV-1993,Paid,-
+1994,Company E,2024-05-10,145504,91940,53564,23233,30331,John Doe,HR,Credit Card,INV-1994,Paid,-
+1995,Company E,2023-05-02,144142,54900,89242,48607,40635,Emily Davis,Finance,Cash,INV-1995,Overdue,Urgent payment
+1996,Company A,2024-08-11,585583,266923,318660,151472,167188,Robert Johnson,Finance,Check,INV-1996,Pending,Check details
+1997,Company B,2023-08-05,124959,74535,50424,26540,23884,John Doe,HR,Online,INV-1997,Overdue,Urgent payment
+1998,Company C,2024-04-03,923648,80076,843572,501803,341769,Emily Davis,Marketing,Credit Card,INV-1998,Overdue,Priority client
+1999,Company D,2023-05-24,295819,165465,130354,70366,59988,Robert Johnson,HR,Bank Transfer,INV-1999,Paid,Check details
+2000,Company E,2023-03-18,832329,749475,82854,58050,24804,Jane Smith,Marketing,Check,INV-2000,Paid,Priority client
